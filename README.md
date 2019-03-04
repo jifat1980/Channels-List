@@ -1,2 +1,2 @@
-# Channels-List
+# Channels List
 Channels List
