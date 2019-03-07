@@ -1,14 +1,15 @@
 #EXTM3U
-http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/28659
-#EXTINF:-1,|AR| BEOUTQ SPORT 1 HD
-http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/28658
-#EXTINF:-1,|AR| BEOUTQ SPORT 2 HD
-http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/28657
-#EXTINF:-1,|AR| BEOUTQ SPORT 3 HD
-http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/28656
-#EXTINF:-1,|AR| BEOUTQ SPORT 4 HD
-http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/28655
-#EXTINF:-1,|AR| BEOUTQ SPORT 5 HD
-http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/28654
-#EXTINF:-1,|AR| BEOUTQ SPORT 6 HD
-http://iptvpro.premium-itv.com:8789/fG0Z2KKmG1/9vAqRyr265/28653
+#EXTINF:-1,AR: BeoutQ SPORTS 1 HD
+http://51.83.12.131:8000/live/bata145/bata145/69.ts
+#EXTINF:-1,AR: BeoutQ SPORTS 2 HD
+http://51.83.12.131:8000/live/bata145/bata145/70.ts
+#EXTINF:-1,AR: BeoutQ SPORTS 3 HD
+http://51.83.12.131:8000/live/bata145/bata145/71.ts
+#EXTINF:-1,AR: BeoutQ SPORTS 4 HD
+http://51.83.12.131:8000/live/bata145/bata145/72.ts
+#EXTINF:-1,AR: BeoutQ SPORTS 5 HD
+http://51.83.12.131:8000/live/bata145/bata145/73.ts
+#EXTINF:-1,AR: BeoutQ SPORTS 6 HD
+http://51.83.12.131:8000/live/bata145/bata145/74.ts
+#EXTINF:-1,AR: BeoutQ SPORTS 7 HD
+http://51.83.12.131:8000/live/bata145/bata145/75.ts
