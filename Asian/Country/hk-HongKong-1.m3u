@@ -1,0 +1,82 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/330px-RTHK_TV_31.svg.png" group-title="Hong Kong/Macau(香港/澳门)", 港台電視31
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/220px-RTHK_TV_32.svg.png" group-title="Hong Kong/Macau(香港/澳门)", 港台電視32
+http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_810_av-b.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Hong_Kong_Open_TV.png" group-title="Hong Kong/Macau(香港/澳门)", 香港开电视
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/3a/HKIBC_logo.png" group-title="Hong Kong/Macau(香港/澳门)", 香港國際財經台
+http://14.199.11.35:9981/stream/channel/0931edd5c80c164289065ac43bd5be5b?ticket=f85f92ba96d04d437ab1f11fcfacf224e44fc351
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/d6/MASTV.png/180px-MASTV.png" group-title="Hong Kong/Macau(香港/澳门)",澳亞衛視
+http://stream.mastvnet.com/MSTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Phoenix_HK.svg/150px-Phoenix_HK.svg.png" group-title="Hong Kong/Macau(香港/澳门)", 凤凰香港
+http://live.italkdd.com/cds160/hls/channel016/channel016_2000.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/evchk/images/8/88/Tvb_Jade_cap.png" group-title="Hong Kong/Macau(香港/澳门)",  無綫翡翠台
+http://alsource.pull.inke.cn/live/1552005921236200.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/evchk/images/8/88/Tvb_Jade_cap.png" group-title="Hong Kong/Macau(香港/澳门)",  無綫J2台
+http://14.199.11.35:9981/stream/channel/16b89108d4d80150c5cbaabeda9a6de9?ticket=4f7cbc034c388cda8de40f1301f60851e467ccaf
+
+#EXTINF:0 tvg-logo="http://www.nettv.live/uploads/18/1-1P40ZG925S9.jpg" group-title="Hong Kong/Macau(香港/澳门)", 無綫新闻台
+http://14.199.11.35:9981/stream/channel/99643f7738b15d1e6dde79fcbff152eb?ticket=585436c1580428fb0ced89bf4434e35c23baa7dc
+
+#EXTINF:0 tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P3162140540-L.jpg" group-title="Hong Kong/Macau(香港/澳门)", 無綫财经·资讯台
+http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/evchk/images/d/d2/TVB_Pearl.png" group-title="Hong Kong/Macau(香港/澳门)", 無綫明珠台
+http://14.199.11.35:9981/stream/channel/5a1ea1b09e3abf22d624b0dbc26e6636?ticket=810fc545a5c6879a3943f887ff02ca3ac1b95848
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/300px-ViuTVsix-logo.svg.png" group-title="Hong Kong/Macau(香港/澳门)",ViuTVsix (96台)
+http://14.199.11.35:9981/stream/channel/142e00be3dabd62b165469a8085f8895?ticket=acdfb001b5d7803f2c9fcfd4574b27b4b1cb707d
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/300px-ViuTV_logo.svg.png" group-title="Hong Kong/Macau(香港/澳门)",ViuTV (99台)
+http://14.199.11.35:9981/stream/channel/fb3dbd1b1d66c0229c6db144c67ef44f?ticket=11c1c529c40f322a896fa2003127a063dbee19a8
+
+#EXTINF:-1 tvg-logo="http://www.daai.tv/images/logo.png" group-title="Taiwan (台湾)", 大爱电视
+http://live.italkdd.com/cds160/hls/channel015/channel015_2000.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ebcyangpian.jpg" group-title="Taiwan (台湾)",東森洋片台
+http://122.146.68.116:4010/VideoInput/play.ts
+
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ebc40.jpg" group-title="Taiwan (台湾)", 東森戲劇台
+http://122.146.68.116:4011/VideoInput/play.ts
+
+#EXTINF:-1 tvg-logo="https://www.ebc.net.tw/Images/169-emovie.jpg" group-title="Taiwan (台湾)",  東森电影台
+http://122.146.68.116:4035/VideoInput/play.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8a/CTS_Logo.png/189px-CTS_Logo.png" group-title="Taiwan (台湾)",  華視主頻
+http://122.146.68.116:4040/VideoInput/play.ts
+
+#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/9/90/TVBS_Select_logo_2017.png" group-title="Taiwan (台湾)",  TVBS精采台
+http://122.146.68.116:4014/VideoInput/play.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e2/SET_incorporated_logo.svg/150px-SET_incorporated_logo.svg.png" group-title="Taiwan (台湾)",  三立综艺台
+http://122.146.68.116:4021/VideoInput/play.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/03/TTV_Home_Channel_with_HD_2015.png" group-title="Taiwan (台湾)",  台视主频
+http://122.146.68.116:4037/VideoInput/play.ts
+
+#EXTINF:-1 tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/2add40a1-750a-4c50-b282-67cbcd0dfdab.png" group-title="Taiwan (台湾)",中天綜合台
+http://122.146.68.116:4005/VideoInput/play.ts
+
+#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/cti-drama-live.jpg" group-title="Taiwan (台湾)",中天娱乐
+http://122.146.68.116:4007/VideoInput/play.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/37/Star_Chinese_Movies_HD.png" group-title="Taiwan (台湾)",星卫HD
+http://122.146.68.116:4016/VideoInput/play.ts
+
+#EXTINF:-1 tvg-logo="https://www.underconsideration.com/brandnew/archives/fx_channel_logo.gif" group-title="Taiwan (台湾)", FX电视台
+http://122.146.68.116:4015/VideoInput/play.ts
+
+#EXTINF:0 tvg-logo="https://static.iptv-epg.com/gb/ElevenSports1.uk.png" group-title="Taiwan (台湾)",Eleven Sports 1 (台湾)
+http://31.220.1.190:8080/11223344/44332211/197899
+
+#EXTINF:0 tvg-logo="https://static.iptv-epg.com/gb/ElevenSports2.uk.png" group-title="Taiwan (台湾)",Eleven Sports 2 (台湾)
+http://31.220.1.190:8080/11223344/44332211/197900
