@@ -1,0 +1,211 @@
+#EXTM3U
+#EXTINF:0,HRT 1
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7905
+#EXTINF:0,HRT 2
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7906
+#EXTINF:0,HRT 3
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7907
+#EXTINF:0,HRT 4
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7908
+#EXTINF:0,NOVA TV
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7909
+#EXTINF:0,DOMA TV HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7910
+#EXTINF:0,BHT 1
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7496
+#EXTINF:0,RTS 1
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7503
+#EXTINF:0,RTL 1
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7340
+#EXTINF:0,RTL 2
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7505
+#EXTINF:0,RTL CRIME
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7508
+#EXTINF:0,RTL kockica
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7506
+#EXTINF:0,RTL LIVING
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7509
+#EXTINF:0,RTL PASSION
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7507
+#EXTINF:0,RTS 2
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7504
+#EXTINF:0,AXN ADRIA HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7497
+#EXTINF:0,CINESTAR TV HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7498
+#EXTINF:0,CINESTAR ACTION
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7500
+#EXTINF:0,CineStar Premiere 1
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7375
+#EXTINF:0,CINESTAR PREMIERE 2
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7499
+#EXTINF:0,CINEMAX 1 HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7501
+#EXTINF:0,Cinemax 1
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7378
+#EXTINF:0,Cinemax 2
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7377
+#EXTINF:0,OBN HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7493
+#EXTINF:0,OBN SD
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7602
+#EXTINF:0,TV1000 HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7495
+#EXTINF:0,NOVA HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7494
+#EXTINF:0,PRVA TV
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7341
+#EXTINF:0,NOVA RS
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/8153
+#EXTINF:0,OTV VALENTINO
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/8150
+#EXTINF:0,PINK ROMANSE
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/8152
+#EXTINF:0,RTS SAT HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/8203
+#EXTINF:0,24 KITCHEN
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7512
+#EXTINF:0,FOX LIFE
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7362
+#EXTINF:0,FOX CRIME
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7511
+#EXTINF:0,FOX MOVIES
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7510
+#EXTINF:0,PINK
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7369
+#EXTINF:0,PINK 3
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7367
+#EXTINF:0,PINK BiH
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7352
+#EXTINF:0,PINK FOLK
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7356
+#EXTINF:0,PINK HOROR
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7357
+#EXTINF:0,Pink Kids
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7358
+#EXTINF:0,Pink Music 1
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7360
+#EXTINF:0,PINK MUSIC 2
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/8158
+#EXTINF:0,PINK PLUS
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7349
+#EXTINF:0,PINK SOAP
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/21095
+#EXTINF:0,PINK EXTRA
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/8156
+#EXTINF:0,PINK KUVAR
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/8157
+#EXTINF:0,PINK Premium
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7348
+#EXTINF:0,PINK REALITY
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7347
+#EXTINF:0,PINK WORLD
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7342
+#EXTINF:0,PINK ROLL
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7346
+#EXTINF:0,NATIONAL GEOGRAPHIC
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7513
+#EXTINF:0,NAT GEO HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/8204
+#EXTINF:0,NAT GEOGRAPHIC HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/8205
+#EXTINF:0,DISCOVERY HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/8212
+#EXTINF:0,ANIMAL PLANET
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/8206
+#EXTINF:0,ARENA SPORT 1 HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7335
+#EXTINF:0,Arena Sport 2 HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7334
+#EXTINF:0,Arena Sport 3 HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7333
+#EXTINF:0,Arena Sport 4 HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7332
+#EXTINF:0,Arena Sport 5
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/8165
+#EXTINF:0,VIP:ARENA SPORT 1 HD (HR)
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/8209
+#EXTINF:0,VIP:ARENA SPORT 2 HD (HR)
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/8210
+#EXTINF:0,SPORT KLUB 1
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7338
+#EXTINF:0,SPORT KLUB 2
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7337
+#EXTINF:0,SPORT KLUB 3 HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7336
+#EXTINF:0,SPORT TV 1 HD (SLO)
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7911
+#EXTINF:0,SPORT TV 2 HD (SLO)
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7912
+#EXTINF:0,SPORT TV 3 HD (SLO)
+#EXTVLCOPT:network-caching=1000
+http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/7913
