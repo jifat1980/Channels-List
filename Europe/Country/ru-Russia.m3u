@@ -1,0 +1,265 @@
+#EXTM3U
+#EXTINF:0,1 OPT 1 
+#EXTVLCOPT:network-caching=1000
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
+#EXTINF:0,43 KANAL 
+#EXTVLCOPT:network-caching=1000
+http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
+#EXTINF:0,7 TV 
+#EXTVLCOPT:network-caching=1000
+http://78.40.108.218/7channel/index.m3u8
+#EXTINF:0,ACASA TV 
+#EXTVLCOPT:network-caching=1000
+http://hls.protv.md/acasatv/acasatv.m3u8
+#EXTINF:0,AFONTOVO TV 
+#EXTVLCOPT:network-caching=1000
+http://stream.afontovo.ru/afontovo.m3u8
+#EXTINF:0,ASTRAKHAN 24 
+#EXTVLCOPT:network-caching=1000
+http://streaming.astrakhan.ru/astrakhan24/index.m3u8
+#EXTINF:0,ATV ULAN UDJE 
+#EXTVLCOPT:network-caching=1000
+http://atv.stream-1.burnet.ru/atv/studio/playlist.m3u8
+#EXTINF:0,BOUTIQUE TV OPT 1 
+#EXTVLCOPT:network-caching=1000
+http://live-btq.cdnvideo.ru/btq/btq.sdp/playlist.m3u8
+#EXTINF:0,BUM TV 
+#EXTVLCOPT:network-caching=1000
+http://live-bumtv.cdnvideo.ru/bumtv-live/smil:bumtv.smil/playlist.m3u8
+#EXTINF:0,CP INFO 
+#EXTVLCOPT:network-caching=1000
+http://109.68.40.67/life/magnolia.m3u8
+#EXTINF:0,DISCOVERY SCIENCE 
+#EXTVLCOPT:network-caching=1000
+http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8
+#EXTINF:0,DOMASHNIY TV 
+#EXTVLCOPT:network-caching=1000
+http://tvsever.ru:1936/live/adm2/playlist.m3u8
+#EXTINF:0,EuroSport 1
+#EXTVLCOPT:network-caching=1000
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/141/index.m3u8
+#EXTINF:0,FASHION HD
+#EXTVLCOPT:network-caching=1000
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:0,HARDLIFE TV 
+#EXTVLCOPT:network-caching=1000
+http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8
+#EXTINF:0,IMPACT 
+#EXTVLCOPT:network-caching=1000
+http://206.190.141.27:1935/live/impact/playlist.m3u8
+#EXTINF:0,INGUSHETIYA TV 
+#EXTVLCOPT:network-caching=1000
+http://live-ntk.cdnvideo.ru/ntk-publish/ntk.sdp/playlist.m3u8
+#EXTINF:0,IZVESTIA 
+#EXTVLCOPT:network-caching=1000
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:0,KALEJDOSKOP TV OPT 1 
+#EXTVLCOPT:network-caching=1000
+http://cdn-01.bonus-tv.ru:8080/Kaleidoskop_edge/index.m3u8
+#EXTINF:0,KALEJDOSKOP TV OPT 2 
+#EXTVLCOPT:network-caching=1000
+http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
+#EXTINF:0,KAZAKH TV 
+#EXTVLCOPT:network-caching=1000
+http://kazakhtvru.ultraiptv.com/live_en/playlist1/index.m3u8
+#EXTINF:0,KIEV TV 
+#EXTVLCOPT:network-caching=1000
+http://kyivtv.cdnvideo.ru/kyivtv/kyivtv.sdp/playlist.ts
+#EXTINF:0,KINOMENU HD
+#EXTVLCOPT:network-caching=1000
+http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
+#EXTINF:0,KONNYJ MIR 
+#EXTVLCOPT:network-caching=1000
+http://cdn-01.bonus-tv.ru:8080/konnyimir_edge/index.m3u8
+#EXTINF:0,KRASNODAR TV 
+#EXTVLCOPT:network-caching=1000
+http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
+#EXTINF:0,KRATU TV 
+#EXTVLCOPT:network-caching=1000
+http://212.113.32.169:8080/Apple/2/index.m3u8
+#EXTINF:0,KRIK TV 
+#EXTVLCOPT:network-caching=1000
+http://cdn-01.bonus-tv.ru:8080/kriktv_edge/index.m3u8
+#EXTINF:0,KRYM 24 
+#EXTVLCOPT:network-caching=1000
+http://vid.techbee.pro:8080/crimea24/index.m3u8
+#EXTINF:0,KULTURA 
+#EXTVLCOPT:network-caching=1000
+http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8
+#EXTINF:0,MAKS 24 
+#EXTVLCOPT:network-caching=1000
+http://live.maksmedia.cdnvideo.ru/maksmedia/maksmedia.sdp/playlist.m3u8
+#EXTINF:0,MEDIA 3D HD
+#EXTVLCOPT:network-caching=1000
+http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
+#EXTINF:0,MEDIA HD
+#EXTVLCOPT:network-caching=1000
+http://62.76.26.81:8081/hdmedia/hdmedia_pay/playlist.m3u8
+#EXTINF:0,METEO TV 
+#EXTVLCOPT:network-caching=1000
+http://meteotv.cdnvideo.ru/meteotv/meteotv.sdp/playlist.ts
+#EXTINF:0,MILLET 
+#EXTVLCOPT:network-caching=1000
+http://serv25.vintera.tv:8081/millet/playlist.m3u8
+#EXTINF:0,MIR 
+#EXTVLCOPT:network-caching=1000
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:0,MIR (1+) 
+#EXTVLCOPT:network-caching=1000
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:0,MIR 24 OPT 1 
+#EXTVLCOPT:network-caching=1000
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:0,MIR HD
+#EXTVLCOPT:network-caching=1000
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:0,MOSTVIDEO TV 1 
+#EXTVLCOPT:network-caching=1000
+http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:0,MUZ SOJUZ 
+#EXTVLCOPT:network-caching=1000
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
+#EXTINF:0,MUZZONE 
+#EXTVLCOPT:network-caching=1000
+http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8
+#EXTINF:0,MY PLANET 
+#EXTVLCOPT:network-caching=1000
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/master.m3u8
+#EXTINF:0,NASTOYASHCHEYE VREMYA 
+#EXTVLCOPT:network-caching=1000
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
+#EXTINF:0,NASTOYASHCHEYE VREMYA OPT 1 
+#EXTVLCOPT:network-caching=1000
+https://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_1080_av-b.m3u8
+#EXTINF:0,NASTOYASHCHEYE VREMYA OPT 2 
+#EXTVLCOPT:network-caching=1000
+https://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_1080_av-p.m3u8
+#EXTINF:0,NASTOYASHCHEYE VREMYA OPT 3 
+#EXTVLCOPT:network-caching=1000
+https://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
+#EXTINF:0,NOVYJ MIR 
+#EXTVLCOPT:network-caching=1000
+http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+#EXTINF:0,NTS 
+#EXTVLCOPT:network-caching=1000
+http://hls.nts.cdnvideo.ru/nts/nts.sdp/playlist.m3u8
+#EXTINF:0,NTV 
+#EXTVLCOPT:network-caching=1000
+http://93.115.137.166/hls/ntvm.m3u8
+#EXTINF:0,O2 TV 
+#EXTVLCOPT:network-caching=1000
+http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_sd.sdp/playlist.m3u8
+#EXTINF:0,O2 TV HD
+#EXTVLCOPT:network-caching=1000
+http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_hd.sdp/playlist.m3u8
+#EXTINF:0,OTKRYTYJ 
+#EXTVLCOPT:network-caching=1000
+http://77.232.128.68/bks.m3u8
+#EXTINF:0,PERVYJ GORODSKOJ 
+#EXTVLCOPT:network-caching=1000
+http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/1tvkr/1tvkr/playlist.m3u8
+#EXTINF:0,PRO TV 
+#EXTVLCOPT:network-caching=1000
+http://hls.protv.md/hls/protv.m3u8
+#EXTINF:0,PROSVESHHENIE 
+#EXTVLCOPT:network-caching=1000
+http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/index.m3u8
+#EXTINF:0,PUBLIKA TV 
+#EXTVLCOPT:network-caching=1000
+http://livebeta.publika.md/LIVE/P/6810.m3u8
+#EXTINF:0,RADA TV 
+#EXTVLCOPT:network-caching=1000
+http://217.20.164.181/live/rada480p.stream/playlist.m3u8
+#EXTINF:0,RBC OPT 1 
+#EXTVLCOPT:network-caching=1000
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:0,RBC OPT 2 
+#EXTVLCOPT:network-caching=1000
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+#EXTINF:0,RBC OPT 3 
+#EXTVLCOPT:network-caching=1000
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:0,RBC TV NEWS 
+#EXTVLCOPT:network-caching=1000
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+#EXTINF:0,RETV 
+#EXTVLCOPT:network-caching=1000
+http://edge-telia1.tiesraides.lv/live/retv.lv.1_1/playlist_b1825196.m3u8
+#EXTINF:0,RIGA TV24 
+#EXTVLCOPT:network-caching=1000
+http://player.tvnet.lv/live/amlst:11/playlist.m3u8
+#EXTINF:0,RUTV 
+#EXTVLCOPT:network-caching=1000
+http://217.12.116.122/hls/rutv_direct.m3u8
+#EXTINF:0,RUTV OPT 1 
+#EXTVLCOPT:network-caching=1000
+http://live-rmg.cdnvideo.ru/rmg/rutv_new.sdp/playlist.m3u8
+#EXTINF:0,RUTV OPT 2 
+#EXTVLCOPT:network-caching=1000
+https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
+#EXTINF:0,SHANSON TV OPT 1 
+#EXTVLCOPT:network-caching=1000
+http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
+#EXTINF:0,SKAZKI ZAYKI 
+#EXTVLCOPT:network-caching=1000
+http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
+#EXTINF:0,TDK 
+#EXTVLCOPT:network-caching=1000
+http://live.tdktv.cdnvideo.ru/tdktv/tdktv.sdp/playlist.m3u8
+#EXTINF:0,TIVIKOM ULAN UDJE 
+#EXTVLCOPT:network-caching=1000
+http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
+#EXTINF:0,TJUMENSKOE VREMJA 
+#EXTVLCOPT:network-caching=1000
+http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
+#EXTINF:0,TOCHKA TV 
+#EXTVLCOPT:network-caching=1000
+http://serv24.vintera.tv:8081/tochka/tochkatv/playlist.m3u8
+#EXTINF:0,TOPSHOP 
+#EXTVLCOPT:network-caching=1000
+http://tv-topshop.netrack.ru/hls/topshop.m3u8
+#EXTINF:0,TV ELITA 
+#EXTVLCOPT:network-caching=1000
+http://46.55.111.242:8080/Rezina.m3u8
+#EXTINF:0,TV NET 
+#EXTVLCOPT:network-caching=1000
+http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
+#EXTINF:0,TV7 ENTERTAINMENT 
+#EXTVLCOPT:network-caching=1000
+http://imarov.com/iptv/bgtv.m3u8
+#EXTINF:0,UGRA TV 
+#EXTVLCOPT:network-caching=1000
+http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
+#EXTINF:0,VINTERA TV 
+#EXTVLCOPT:network-caching=1000
+http://serv30.vintera.tv:8081/test/Made_in_Siberia2/playlist.m3u8
+#EXTINF:0,VOLGOGRAD 24 
+#EXTVLCOPT:network-caching=1000
+http://serv24.vintera.tv:8081/volga24/volgograd24/playlist.m3u8
+#EXTINF:0,XXI TV 
+#EXTVLCOPT:network-caching=1000
+http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8
+#EXTINF:0,ZVEZDA OPT 1 
+#EXTVLCOPT:network-caching=1000
+http://cdn-01.bonus-tv.ru:8080/zvezda/index.m3u8
+#EXTINF:0,ZVEZDA OPT 2 
+#EXTVLCOPT:network-caching=1000
+https://cdn-01.bonus-tv.ru:8090/zvezda/tracks-v3a1/mono.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/220/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/222/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/211/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/206/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/212/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/207/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/225/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/107/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/123/index.m3u8
