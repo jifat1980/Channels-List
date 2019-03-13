@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:0,13th
-#EXTVLCOPT:network-caching=1000
-http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/3931.m3u8
 #EXTINF:0,Animal Planet
 #EXTVLCOPT:network-caching=1000
 http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/3930.m3u8
