@@ -1,0 +1,116 @@
+#EXTM3U
+#EXTINF:0,24/7 Movies 4
+#EXTVLCOPT:network-caching=1000
+http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
+#EXTINF:0,24/7 Naruto Shippuden
+#EXTVLCOPT:network-caching=1000
+http://dlhls.cdn.zhanqi.tv/zqlive/41832_NfsIa.m3u8
+#EXTINF:0,banners Pig comic
+#EXTVLCOPT:network-caching=1000
+http://dlhls.cdn.zhanqi.tv/zqlive/43626_vQOn9.m3u8
+#EXTINF:0,banners theater 10
+#EXTVLCOPT:network-caching=1000
+HTTP://dlhls.cdn.zhanqi.tv/zqlive/53346_ESoth.m3u8
+#EXTINF:0,banners theater. 17
+#EXTVLCOPT:network-caching=1000
+http://dlhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8
+#EXTINF:0,Battle flag HD movie 26
+#EXTVLCOPT:network-caching=1000
+http://dlhls.cdn.zhanqi.tv/zqlive/53346_ESoth.m3u8
+#EXTINF:0,Family Gekijo
+#EXTVLCOPT:network-caching=1000
+http://192.240.127.34:1935/live/cs11.stream/playlist.m3u8?wowzasessionid=2132394220
+#EXTINF:0,Flag Flag Theatre 1
+#EXTVLCOPT:network-caching=1000
+Http://dlhls.cdn.zhanqi.tv/zqlive/80918_cr4oy.m3u8
+#EXTINF:0,History
+#EXTVLCOPT:network-caching=1000
+http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8?wowzasessionid=1203854395
+#EXTINF:0,History Channel [404p]
+#EXTVLCOPT:network-caching=1000
+http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8
+#EXTINF:0,JAPAN MOVIE
+#EXTVLCOPT:network-caching=1000
+http://192.240.127.34:1935/live/cs19.stream/play.m3u8?wowzasessionid=708726640
+#EXTINF:0,Japanet Channel DX
+#EXTVLCOPT:network-caching=1000
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+#EXTINF:0,news24
+#EXTVLCOPT:network-caching=1000
+http://n24-cdn-live.ntv.co.jp/ch01/Low.m3u8
+#EXTINF:0,NHK
+#EXTVLCOPT:network-caching=1000
+http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+#EXTINF:0,NHK World
+#EXTVLCOPT:network-caching=1000
+http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_stv_s.m3u8
+#EXTINF:0,NHK World
+#EXTVLCOPT:network-caching=1000
+http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
+#EXTINF:0,NHK WORLD HD
+#EXTVLCOPT:network-caching=1000
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_high2_s.m3u8
+#EXTINF:0,NHK World HD
+#EXTVLCOPT:network-caching=1000
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
+#EXTINF:0,NHK WORLD HD
+#EXTVLCOPT:network-caching=1000
+https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+#EXTINF:0,NHK WORLD HD
+#EXTVLCOPT:network-caching=1000
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_high2_s.m3u8
+#EXTINF:0,TV ASAHI
+#EXTVLCOPT:network-caching=1000
+http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8
+#EXTINF:0,TV Asahi
+#EXTVLCOPT:network-caching=1000
+http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8?wowzasessionid=1566329228
+#EXTINF:0,TV Tokyo
+#EXTVLCOPT:network-caching=1000
+http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8?wowzasessionid=1009455217
+#EXTINF:0,TV TOKYO
+#EXTVLCOPT:network-caching=1000
+http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8
+#EXTINF:0,Wowow Cinefil
+#EXTVLCOPT:network-caching=1000
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://192.240.127.34:1935/live/cs11.stream/media_1254.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://dlhls.cdn.zhanqi.tv/zqlive/81077_ZRWAB.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://192.240.127.34:1935/live/cs19.stream/media_1254.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://192.240.127.34:1935/live/cs11.stream/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://dlhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://192.240.127.34:1935/live/cs18.stream/media_1254.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://dlhls.cdn.zhanqi.tv/zqlive/115384_jC7nR.m3u8
