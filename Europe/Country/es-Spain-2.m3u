@@ -1,0 +1,193 @@
+#EXTM3U
+#EXTINF:0,#0
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/10021
+#EXTINF:0,24 HORAS
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/10020
+#EXTINF:0,A&E
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/10019
+#EXTINF:0,AMC
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/10018
+#EXTINF:0,ANTENA 3
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/10017
+#EXTINF:0,AXN
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/10016
+#EXTINF:0,AXN WHITE
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/10015
+#EXTINF:0,BARCA TV
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/10014
+#EXTINF:0,BEIN LALIGA
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/10013
+#EXTINF:0,BEIN SPORTS
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/10012
+#EXTINF:0,BOING
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/10011
+#EXTINF:0,CALLE 13
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/10010
+#EXTINF:0,CANAL COCINA
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/10009
+#EXTINF:0,CANAL DECASA
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/10008
+#EXTINF:0,CANAL ODISEA
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/10007
+#EXTINF:0,CAZA Y PESCA
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/10006
+#EXTINF:0,CLAN TVE
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/10005
+#EXTINF:0,COMEDY CENTRAL
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/10004
+#EXTINF:0,COSMO
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/10003
+#EXTINF:0,CUATRO
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/10001
+#EXTINF:0,DISCOVERY
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/10000
+#EXTINF:0,DISNEY CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/9999
+#EXTINF:0,DISNEY JR
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/9998
+#EXTINF:0,DISNEY XD
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/9997
+#EXTINF:0,DIVINITY
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/9996
+#EXTINF:0,ENERGY
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/9995
+#EXTINF:0,EUROSPORT 1
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/9994
+#EXTINF:0,EUROSPORT 2
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/9993
+#EXTINF:0,FOX
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/9992
+#EXTINF:0,FOX LIFE
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/9991
+#EXTINF:0,GOL TV
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/9990
+#EXTINF:0,HISTORIA
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/9989
+#EXTINF:0,HOLLYWOOD
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/9988
+#EXTINF:0,LA 1
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/9986
+#EXTINF:0,LA 2
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/9985
+#EXTINF:0,LA SEXTA
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/9984
+#EXTINF:0,LALIGA TV BAR
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/9983
+#EXTINF:0,M.ACCION
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/9982
+#EXTINF:0,M.CINE ESPANOL
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/9981
+#EXTINF:0,M.COMEDIA
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/9980
+#EXTINF:0,M.DCINE
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/9979
+#EXTINF:0,M.DEP 1
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/9978
+#EXTINF:0,M.DEP 2
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/9977
+#EXTINF:0,M.ESTRENOS
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/9976
+#EXTINF:0,M.FORMULA 1
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/9975
+#EXTINF:0,M.FUTBOL
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/9974
+#EXTINF:0,M.GOLF
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/9973
+#EXTINF:0,M.MOTOGP
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/9972
+#EXTINF:0,M.SERIES
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/9971
+#EXTINF:0,M.SERIESXTRA
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/9970
+#EXTINF:0,M.XTRA
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/9969
+#EXTINF:0,NAT GEO WILD
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/9967
+#EXTINF:0,NATIONAL GEOGRAPHIC
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/9966
+#EXTINF:0,NEOX
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/9965
+#EXTINF:0,NICKELODEON
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/9964
+#EXTINF:0,NOVA
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/9962
+#EXTINF:0,PARAMOUNT
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/9961
+#EXTINF:0,Real Madrid TV
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/9960
+#EXTINF:0,SUNDANCE
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/9959
+#EXTINF:0,SYFY
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/9958
+#EXTINF:0,TCM
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/9957
+#EXTINF:0,TELECINCO
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/9956
+#EXTINF:0,TELEDEPORTE
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/9955
+#EXTINF:0,TNT
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/mrwan/123/9954
