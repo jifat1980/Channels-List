@@ -1,0 +1,226 @@
+#EXTM3U
+#EXTINF:0,ADiTV
+#EXTVLCOPT:network-caching=1000
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+#EXTINF:0,AHSAN TV
+#EXTVLCOPT:network-caching=1000
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+#EXTINF:0,AKHYAR
+#EXTVLCOPT:network-caching=1000
+http://stream.asianastream.com:1935/live/ngrp:akhyartv_all/playlist.m3u8
+#EXTINF:0,SNRT - AL-AULA
+#EXTVLCOPT:network-caching=1000
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
+#EXTINF:0,SNRT - AL-MAGHRIBIA
+#EXTVLCOPT:network-caching=1000
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+#EXTINF:0,SNRT - AR-RABIAA
+#EXTVLCOPT:network-caching=1000
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+#EXTINF:0,SNRT - AR-RIADIA
+#EXTVLCOPT:network-caching=1000
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:0,AREK TV SURABAYA
+#EXTVLCOPT:network-caching=1000
+http://stream1.ninmedia.tv/live/xmedia-arektv.stream/media_w1337460548_9014.m3u8
+#EXTINF:0,SNRT - AS-SADISSA
+#EXTVLCOPT:network-caching=1000
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8
+#EXTINF:0,ASHIIL
+#EXTVLCOPT:network-caching=1000
+http://119.82.232.89:1935/ashiiltv/live2/playlist.m3u8
+#EXTINF:0,SNRT - AT-TAMAZIGHT
+#EXTVLCOPT:network-caching=1000
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
+#EXTINF:0,BERITASATU [540p]
+#EXTVLCOPT:network-caching=1000
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+#EXTINF:0,CNN Indonesia
+#EXTVLCOPT:network-caching=1000
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:0,CNN Indonesia
+#EXTVLCOPT:network-caching=1000
+http://live.cnnIndonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:0,CNN INDONESIA HD
+#EXTVLCOPT:network-caching=1000
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8
+#EXTINF:0,Da Ai Indonesia
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/qwr9ew/s/s13/index.m3u8
+#EXTINF:0,DANG TV
+#EXTVLCOPT:network-caching=1000
+https://video2.onlivestreaming.net/robot/livestream/playlist.m3u8
+#EXTINF:0,ELSHINTA
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/qwr9ew/s/s10/01.m3u8
+#EXTINF:0,Foodie Channel
+#EXTVLCOPT:network-caching=1000
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
+#EXTINF:0,Foodie Channel [540p]
+#EXTVLCOPT:network-caching=1000
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
+#EXTINF:0,HIDUP TV
+#EXTVLCOPT:network-caching=1000
+http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8
+#EXTINF:0,I am
+#EXTVLCOPT:network-caching=1000
+http://iamchannel.org:1935/tes/1/playlist.m3u8
+#EXTINF:0,I AM CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://iamchannel.org:1935/tes/1/chunklist_w517367057.m3u8
+#EXTINF:0,InsanTV
+#EXTVLCOPT:network-caching=1000
+http://wz.insantv.net/group/ngrp:insantv_all/playlist.m3u8
+#EXTINF:0,INSPIRA TV
+#EXTVLCOPT:network-caching=1000
+http://stream1.ninmedia.tv/live/xmedia-inspiratv.stream_nin/playlist.m3u8
+#EXTINF:0,INTV
+#EXTVLCOPT:network-caching=1000
+http://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
+#EXTINF:0,Jakarta Globe (English)
+#EXTVLCOPT:network-caching=1000
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF:0,JAKARTA GLOBE [720p]
+#EXTVLCOPT:network-caching=1000
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF:0,K Drama
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8?fluxustv.m3u8
+#EXTINF:0,KARAOKE CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
+#EXTINF:0,KBS World (Indonesia)
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35:80/session/4bbb073a-34cf-11e9-8af5-9ad690129ed3/qwr9ew/s/s42/01.m3u8
+#EXTINF:0,KIX
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8
+#EXTINF:0,KIX
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8?fluxustv.m3u8
+#EXTINF:0,Kompas TV
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/session/e37747f0-f5aa-11e8-a629-b82a72d63267/qwr9ew/s/s09/01.m3u8
+#EXTINF:0,Madani
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/qwr9ew/s/s41/index.m3u8
+#EXTINF:0,MADANI TV
+#EXTVLCOPT:network-caching=1000
+http://stream.asianastream.com:1935/live/ngrp:madanitv_all/playlist.m3u8
+#EXTINF:0,Metro
+#EXTVLCOPT:network-caching=1000
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
+#EXTINF:0,MetroTV
+#EXTVLCOPT:network-caching=1000
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:0,METROTV
+#EXTVLCOPT:network-caching=1000
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w645905961_b1128000_sleng.m3u8
+#EXTINF:0,METROTV
+#EXTVLCOPT:network-caching=1000
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w645905961_b1492000_sleng.m3u8
+#EXTINF:0,METROTV HD 2
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/session/7c30f4b4-b6ef-11e8-b712-b82a72d63267/qwr9ew/s/s49/01.m3u8
+#EXTINF:0,MK TV
+#EXTVLCOPT:network-caching=1000
+http://stream1.ninmedia.tv/live/xmedia-mktv.stream_nin/playlist.m3u8
+#EXTINF:0,MUGOS TV
+#EXTVLCOPT:network-caching=1000
+http://203.153.218.156:1935/live/myStream/playlist.m3u8
+#EXTINF:0,PADANG TV
+#EXTVLCOPT:network-caching=1000
+http://video2.onlivestreaming.net/robot/livestream/playlist.m3u8
+#EXTINF:0,PAYTREN TV
+#EXTVLCOPT:network-caching=1000
+http://wowza58.indostreamserver.com:1935/ymtv/live/playlist.m3u8
+#EXTINF:0,RADIO51
+#EXTVLCOPT:network-caching=1000
+http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
+#EXTINF:0,RAI GULP
+#EXTVLCOPT:network-caching=1000
+http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
+#EXTINF:0,RCTI
+#EXTVLCOPT:network-caching=1000
+http://id8.indostreamingtv.com/live/tv66/index.m3u8
+#EXTINF:0,RRI Net
+#EXTVLCOPT:network-caching=1000
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+#EXTINF:0,SALING SAPA TV
+#EXTVLCOPT:network-caching=1000
+http://stream2.ninmedia.tv/live/nin-salingsapa.stream_nin/playlist.m3u8
+#EXTINF:0,SBO NEWS
+#EXTVLCOPT:network-caching=1000
+http://stream.sbo.co.id:1935/sbotv/live/playlist.m3u8
+#EXTINF:0,SBO TV SURABAYA
+#EXTVLCOPT:network-caching=1000
+http://stream.sbo.co.id:1935/sbotv/live/chunklist_w433447537.m3u8
+#EXTINF:0,Spacetoon Indonesia
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/x6bnqe/s/s80/index2.m3u8
+#EXTINF:0,TEGAR TV
+#EXTVLCOPT:network-caching=1000
+http://wms.klikhost.com/tegartv/live/playlist.m3u8
+#EXTINF:0,TEGAR TV JOGJA
+#EXTVLCOPT:network-caching=1000
+http://wms.klikhost.com:1935/tegartv/live/chunklist_w505057089.m3u8
+#EXTINF:0,TELE M1
+#EXTVLCOPT:network-caching=1000
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/master.m3u8
+#EXTINF:0,THE INDONESIA CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
+#EXTINF:0,THE INDONESIAN CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://202.93.133.3:1935/svr2/tic.com.stream_720p/playlist.m3u8
+#EXTINF:0,TRANSTV
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/session/687d0a28-b723-11e8-a6e4-b82a72d63267/qwr9ew/s/s05/01.m3u8
+#EXTINF:0,TV CHOSUN
+#EXTVLCOPT:network-caching=1000
+http://live.chosun.gscdn.com/live/_definst_/tvchosun3.stream/playlist.m3u8
+#EXTINF:0,TVR PARLEMEN
+#EXTVLCOPT:network-caching=1000
+http://103.16.220.69:1935/golive/livestream/playlist.m3u8
+#EXTINF:0,TVRI (Opt-1)
+#EXTVLCOPT:network-caching=1000
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+#EXTINF:0,TVRI (Opt-2)
+#EXTVLCOPT:network-caching=1000
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
+#EXTINF:0,TVRI 1
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/qwr9ew/s/s11/01.m3u8
+#EXTINF:0,TVRI Aceh
+#EXTVLCOPT:network-caching=1000
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
+#EXTINF:0,TVRI Babel
+#EXTVLCOPT:network-caching=1000
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbabel)/index.m3u8
+#EXTINF:0,TVRI Bangka Belitung
+#EXTVLCOPT:network-caching=1000
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8
+#EXTINF:0,TVRI Bengkulu
+#EXTVLCOPT:network-caching=1000
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8
+#EXTINF:0,TVRI Jambi
+#EXTVLCOPT:network-caching=1000
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8
+#EXTINF:0,TVRI Lampung
+#EXTVLCOPT:network-caching=1000
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIlampung)/index.m3u8
+#EXTINF:0,TVRI Papau
+#EXTVLCOPT:network-caching=1000
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
+#EXTINF:0,TVRI Sumatera Barat
+#EXTVLCOPT:network-caching=1000
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
+#EXTINF:0,TVRI Sumatera Seletan
+#EXTVLCOPT:network-caching=1000
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8
+#EXTINF:0,VOICE OF AMERICA (ARA)
+#EXTVLCOPT:network-caching=1000
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+#EXTINF:0,WFTV 9
+#EXTVLCOPT:network-caching=1000
+http://svc-lvanvato-cxtv-wftv.cmgvideo.com/wftv/2564k/index.m3u8
