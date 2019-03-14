@@ -1,0 +1,345 @@
+#EXTM3U
+#EXTINF:0,AN NINH TV HD
+#EXTVLCOPT:network-caching=1000
+http://antvlive.ab5c6921.cdnviet.com/antvmobile/playlist.m3u8
+#EXTINF:0,ATV-TH An Giang
+#EXTVLCOPT:network-caching=1000
+http://221.133.9.35:1935/live/1.stream_240p/playlist.m3u8
+#EXTINF:0,Ba Ria & Vung Tau (BRT HD)
+#EXTVLCOPT:network-caching=1000
+http://113.163.216.23:1935/live/THonline/chunklist_w1280362622.m3u8
+#EXTINF:0,Bac Lieu (BLTV)
+#EXTVLCOPT:network-caching=1000
+rtmp://118.69.205.213/livepkgr/livestream1
+#EXTINF:0,Ben Tre
+#EXTVLCOPT:network-caching=1000
+rtmp://113.163.94.245/livepkgr/thbt
+#EXTINF:0,VTVcab8 - BIBI
+#EXTVLCOPT:network-caching=1000
+http://liverestreamobj.5b1df984.cdnviet.com/hls/BIBI/03.m3u8
+#EXTINF:0,Binh Thuan (BTV)
+#EXTVLCOPT:network-caching=1000
+http://222.255.123.4:1939/thbttv/bttv/playlist.m3u8
+#EXTINF:0,VTVcab16 - Bong Da TV HD
+#EXTVLCOPT:network-caching=1000
+http://hplus.tranvinh.tk/?id=vtvcab16&type=playlist.m3u8
+#EXTINF:0,BPTV1-TH Binh Phuoc
+#EXTVLCOPT:network-caching=1000
+http://118.69.197.145/hls/bptv1.m3u8
+#EXTINF:0,BTV1-TH Binh Duong
+#EXTVLCOPT:network-caching=1000
+http://live.cdn.mobifonetv.vn/motv/mybtv1_hls.smil/playlist.m3u8
+#EXTINF:0,BTV10-NCM
+#EXTVLCOPT:network-caching=1000
+http://live.cdn.mobifonetv.vn/motv/ncm_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:0,BTV11-SAM HD
+#EXTVLCOPT:network-caching=1000
+http://live.cdn.mobifonetv.vn/motv/sam_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:0,BTV2-TH Binh Duong 
+#EXTVLCOPT:network-caching=1000
+http://live.cdn.mobifonetv.vn/motv/mybtv2_hls.smil/playlist.m3u8
+#EXTINF:0,BTV6-VIETTEEN HD
+#EXTVLCOPT:network-caching=1000
+http://live.cdn.mobifonetv.vn/motv/vietteen_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:0,B#EXTVLCOPT:network-caching=1000
+http://118.107.68.10:1935/live/_definst_/BTVHD_12806b51bdf7ac364126%20/chunklist.m3u8
+#EXTINF:0,Ca Mau (CTV)
+#EXTVLCOPT:network-caching=1000
+http://tv.ctvcamau.vn/live/tv/tv.m3u8
+#EXTINF:0,Can Tho
+#EXTVLCOPT:network-caching=1000
+http://tv.canthotv.vn/live/tv/tv.m3u8
+#EXTINF:0,DaNang TV1 HD
+#EXTVLCOPT:network-caching=1000
+http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+#EXTINF:0,DaNang TV2 
+#EXTVLCOPT:network-caching=1000
+http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+#EXTINF:0,DN9-AZ Shop
+#EXTVLCOPT:network-caching=1000
+http://baochinh.ga/iptv-hplus.php?kenh=azshop
+#EXTINF:0,Dong Nai (DN1)
+#EXTVLCOPT:network-caching=1000
+http://118.107.68.10:1935/live/smil:Dongnai1.smil/chunklist_w366232911_b1264000_slVIE.m3u8
+#EXTINF:0,Dong Nai (DN2)
+#EXTVLCOPT:network-caching=1000
+http://118.107.68.10:1935/live/smil:DNAI2WEB.smil/chunklist_b1264000_slVIE.m3u8
+#EXTINF:0,Dong Nai (DN3)
+#EXTVLCOPT:network-caching=1000
+http://tranvinh.xyz/play/hplus.php?id=dongnai3
+#EXTINF:0,Dong Thap (THDT1)
+#EXTVLCOPT:network-caching=1000
+http://live.cdn.mobifonetv.vn/motv2/mythdt_hls.smil/playlist.m3u8
+#EXTINF:0,E CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://sv4.vungtau.ml/live/vchannel6_low.m3u8
+#EXTINF:0,VTVcab5 - E CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://liverestreamobj.5b1df984.cdnviet.com/hls/E_CHANNEL/03.m3u8
+#EXTINF:0,Gi#EXTVLCOPT:network-caching=1000
+https://live.vieplay.vn/live/gttv-channel/playlist.m3u8
+#EXTINF:0,VTC5 SD - Gi#EXTVLCOPT:network-caching=1000
+http://vtsstr4.sctv.vn:1935/testlive1/vtc5_SD.smil/playlist.m3u8
+#EXTINF:0,VTC5 HD - Gi#EXTVLCOPT:network-caching=1000
+https://cdn1.vtcnow.vn/live/eds/VTC5_5/hlsv3/VTC5_5-audio_20000=212400-video=1275600.m3u8
+#EXTINF:0,Hau Giang (HGTV)
+#EXTVLCOPT:network-caching=1000
+http://haugiangtv.e96bbe18.sabai.vn/hgtv/chunklist.m3u8
+#EXTINF:0,VTVcab6 - HAY TV
+#EXTVLCOPT:network-caching=1000
+http://liverestreamobj.5b1df984.cdnviet.com/hls/HAY_TV/04.m3u8
+#EXTINF:0,HTV Key
+#EXTVLCOPT:network-caching=1000
+http://live.cdn.mobifonetv.vn/motv/myhtv4_hls.smil/playlist.m3u8
+#EXTINF:0,HTV THE THAO
+#EXTVLCOPT:network-caching=1000
+http://live.cdn.mobifonetv.vn/motv/myhtvcthethao_hls.smil/playlist.m3u8
+#EXTINF:0,HTV1
+#EXTVLCOPT:network-caching=1000
+http://live.cdn.mobifonetv.vn/motv/myhtv1_hls.smil/playlist.m3u8
+#EXTINF:0,HTV3
+#EXTVLCOPT:network-caching=1000
+http://live.cdn.mobifonetv.vn/motv/myhtv3_hls.smil/playlist.m3u8
+#EXTINF:0,HTV7
+#EXTVLCOPT:network-caching=1000
+http://live.cdn.mobifonetv.vn/motv/myhtv7_hls.smil/playlist.m3u8
+#EXTINF:0,HTV9
+#EXTVLCOPT:network-caching=1000
+http://live.cdn.mobifonetv.vn/motv/myhtv9_hls.smil/playlist.m3u8
+#EXTINF:0,HTVC CA NHAC
+#EXTVLCOPT:network-caching=1000
+http://live.cdn.mobifonetv.vn/motv/myhtvccanhac_hls.smil/playlist.m3u8
+#EXTINF:0,HTVC DU LICH CUOC SONG
+#EXTVLCOPT:network-caching=1000
+http://live.cdn.mobifonetv.vn/motv/myhtvcdulich_hls.smil/playlist.m3u8
+#EXTINF:0,HTVC GIA DINH
+#EXTVLCOPT:network-caching=1000
+http://live.cdn.mobifonetv.vn/motv/myhtvcgiadinh_hls.smil/playlist.m3u8
+#EXTINF:0,HTVC PHIM
+#EXTVLCOPT:network-caching=1000
+http://live.cdn.mobifonetv.vn/motv/myhtvcphim_hls.smil/playlist.m3u8
+#EXTINF:0,HTVC PHU NU
+#EXTVLCOPT:network-caching=1000
+http://live.cdn.mobifonetv.vn/motv/myhtvcphunu_hls.smil/playlist.m3u8
+#EXTINF:0,HTVC Thu#EXTVLCOPT:network-caching=1000
+http://live.cdn.mobifonetv.vn/motv/myhtvcthuanviet_hls.smil/playlist.m3u8
+#EXTINF:0,Hà N#EXTVLCOPT:network-caching=1000
+http://hanoitvlive.8ef55e0c.cdnviet.com/hanoi1.smil/chunklist_b3500000.m3u8
+#EXTINF:0,VTVcab9 - INFO TV
+#EXTVLCOPT:network-caching=1000
+http://liverestream2obj.5b1df984.cdnviet.com/hls/INFO_TV_NEW/01.m3u8
+#EXTINF:0,iTV-SCTV20
+#EXTVLCOPT:network-caching=1000
+http://kenhitv.vn/ITV_Stream/itv_web_500k.stream.mp4/playlist.m3u8
+#EXTINF:0,K+NS HD
+#EXTVLCOPT:network-caching=1000
+http://iptv-nl3-qscdn.hdflixtv.com/VN-K+NS-HD/index.m3u8?token=dbab5718a75c1f4e4148390d2d7d5af9-1541429364-5be056f30ebc0599b32144c5
+#EXTINF:0,Kien Giang (KG)
+#EXTVLCOPT:network-caching=1000
+http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+#EXTINF:0,Kien Giang (KG1)
+#EXTVLCOPT:network-caching=1000
+http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
+#EXTINF:0,SCTV14 HD - Kênh Phim Vi#EXTVLCOPT:network-caching=1000
+http://sv4.vungtau.ml/live/vchannel8_low.m3u8
+#EXTINF:0,Lam Dong (LTV)
+#EXTVLCOPT:network-caching=1000
+http://118.107.68.10:1935/live/smil:Lamdongtv.smil/playlist.m3u8
+#EXTINF:0,Long An (LA34)
+#EXTVLCOPT:network-caching=1000
+http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
+#EXTINF:0,VTVcab4 - LOVE
+#EXTVLCOPT:network-caching=1000
+http://liverestreamobj.5b1df984.cdnviet.com/hls/VAN_HOA/04.m3u8
+#EXTINF:0,MTV
+#EXTVLCOPT:network-caching=1000
+http://iptv-nl3-qscdn.hdflixtv.com/VN-MTV/index.m3u8?token=dbab5718a75c1f4e4148390d2d7d5af9-1541429364-5be056f30ebc0599b32144c5
+#EXTINF:0,NHAN DAN
+#EXTVLCOPT:network-caching=1000
+https://5952e4052a2e8.streamlock.net/live/_definst_/smil:thienviet.smil/playlist.m3u8
+#EXTINF:0,ON Biz
+#EXTVLCOPT:network-caching=1000
+http://sv4.vungtau.ml/live/vchannel5_low.m3u8
+#EXTINF:0,ON Phim
+#EXTVLCOPT:network-caching=1000
+http://sv4.vungtau.ml/live/vchannel4_low.m3u8
+#EXTINF:0,PHIM HAY HD
+#EXTVLCOPT:network-caching=1000
+http://live.cdn.mobifonetv.vn/motv3/phimhay_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:0,VTVcab2 - PHIM VI#EXTVLCOPT:network-caching=1000
+http://liverestreamobj.5b1df984.cdnviet.com/hls/PHIM_VIET/04.m3u8
+#EXTINF:0,Phú Th#EXTVLCOPT:network-caching=1000
+http://118.107.68.10:1935/live/smil:PhuthoBU.smil/chunklist_w441364030_b1264000_slVIE.m3u8
+#EXTINF:0,QUOC HOI
+#EXTVLCOPT:network-caching=1000
+http://live.cdn.mobifonetv.vn/motv3/qhvn_hls.smil/playlist.m3u8
+#EXTINF:0,QUOC PHONG VIET NAM
+#EXTVLCOPT:network-caching=1000
+http://125.212.132.219:1935/standard/smil:standard.smil/playlist.m3u8
+#EXTINF:0,SCTV1 HD
+#EXTVLCOPT:network-caching=1000
+http://sv4.vungtau.ml/live/vchannel7_low.m3u8
+#EXTINF:0,SCTV10-SAO NAM SHOPPNG
+#EXTVLCOPT:network-caching=1000
+rtmp://vtsstr4.sctv.vn:1935/testlive1/sctv10_SD_3
+#EXTINF:0,SCTV4-LET'S VIET
+#EXTVLCOPT:network-caching=1000
+http://42.114.130.237:8889/udp/225.1.2.187:30120
+#EXTINF:0,SCTV5 SCJ TV SHOPPNG 
+#EXTVLCOPT:network-caching=1000
+http://vtsstr4.sctv.vn:1935/testlive/SCTV5_SD.smil/chunklist_w411708802_b2292000.m3u8
+#EXTINF:0,SCTV7 - SHOW TV
+#EXTVLCOPT:network-caching=1000
+http://sv4.vungtau.ml/live/vchannel9_low.m3u8
+#EXTINF:0,STV1-TH Soc Trang
+#EXTVLCOPT:network-caching=1000
+rtmp://115.78.3.164/live/stv1
+#EXTINF:0,STV2-TH Soc Trang 
+#EXTVLCOPT:network-caching=1000
+rtmp://115.78.3.164/live/stv2
+#EXTINF:0,VTVcab12 - STYLE TV
+#EXTVLCOPT:network-caching=1000
+http://liverestreamobj.5b1df984.cdnviet.com/hls/STYLE_TV_HD/04.m3u8
+#EXTINF:0,Tay Ninh(TTV11)
+#EXTVLCOPT:network-caching=1000
+http://202.43.109.142:1935/ttv11/tntv/playlist.m3u8
+#EXTINF:0,BPTV2-HomeTV - TH Binh Phuoc 
+#EXTVLCOPT:network-caching=1000
+http://118.69.197.145/hls/bptv2.m3u8
+#EXTINF:0,THDT2-MIENTAY
+#EXTVLCOPT:network-caching=1000
+http://live.cdn.mobifonetv.vn/motv2/mientay_hls.smil/playlist.m3u8
+#EXTINF:0,THP HD
+#EXTVLCOPT:network-caching=1000
+http://118.107.68.10:1935/live/smil:Haiphong1.smil/playlist.m3u8
+#EXTINF:0,THP+
+#EXTVLCOPT:network-caching=1000
+http://118.107.68.10:1935/live/smil:Haiphongplus.smil/playlist.m3u8
+#EXTINF:0,Thái Bình (TBTV HD)
+#EXTVLCOPT:network-caching=1000
+http://118.70.118.191:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:0,Thái Nguyên (TN1 HD)
+#EXTVLCOPT:network-caching=1000
+http://118.107.68.10:1935/live/TN_720x576_01052017/playlist.m3u8
+#EXTINF:0,VTVcab3 - Th#EXTVLCOPT:network-caching=1000
+http://hplus.tranvinh.tk/?id=vtvcab3&type=playlist.m3u8
+#EXTINF:0,VTVcab3 - TH#EXTVLCOPT:network-caching=1000
+http://cdn01.fastfoot.cf/live/cafesport.m3u8
+#EXTINF:0,Tien Giang
+#EXTVLCOPT:network-caching=1000
+http://thtg.vn:8001/thtg.m3u8
+#EXTINF:0,Tra Vinh HD
+#EXTVLCOPT:network-caching=1000
+http://fpt.vungtau.ml:4022/udp/225.1.2.172:30120%20
+#EXTINF:0,Tra Vinh SD
+#EXTVLCOPT:network-caching=1000
+http://123.30.191.202/hls/travinh.m3u8
+#EXTINF:0,VTV5 - Tây Nam B#EXTVLCOPT:network-caching=1000
+http://play.vtv.vn/?v=dnR2NWtt&t=1528358307381
+#EXTINF:0,VTVcab15 - UM
+#EXTVLCOPT:network-caching=1000
+http://liverestreamobj.5b1df984.cdnviet.com/hls/M_CHANNEL/04.m3u8
+#EXTINF:0,VTVCab11 - VGS SHOP
+#EXTVLCOPT:network-caching=1000
+https://5b0446c43ca13.streamlock.net/dn/htvmuasam.stream/playlist.m3u8
+#EXTINF:0,HTV2 - Vie Channel HD
+#EXTVLCOPT:network-caching=1000
+http://hplus.tranvinh.tk/?id=htv2hd&type=playlist.m3u8
+#EXTINF:0,HTV2 - Vie Channel SD
+#EXTVLCOPT:network-caching=1000
+https://live.vieplay.vn/live/htv2-channel/playlist.m3u8
+#EXTINF:0,VTVcab7 - Vie DRAMAS
+#EXTVLCOPT:network-caching=1000
+http://liverestreamobj.5b1df984.cdnviet.com/hls/D_DRAMAS_HD/04.m3u8
+#EXTINF:0,VTVcab1 - Vie GI#EXTVLCOPT:network-caching=1000
+http://liverestreamobj.5b1df984.cdnviet.com/hls/GIAITRI_TV_HD/04.m3u8
+#EXTINF:0,VINH LONG 1 HD 
+#EXTVLCOPT:network-caching=1000
+http://cdn3.vtcplay.vn:1935/VTC/smil:VinhLong1HD.smil/playlist.m3u8
+#EXTINF:0,VINH LONG 2 HD
+#EXTVLCOPT:network-caching=1000
+http://cdn3.vtcplay.vn:1935/VTC/smil:VinhLong2HD.smil/playlist.m3u8
+#EXTINF:0,VITV
+#EXTVLCOPT:network-caching=1000
+http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:0,VNEWS-TTXVN
+#EXTVLCOPT:network-caching=1000
+http://iptv-nl3-qscdn.hdflixtv.com/VN-TTXVN/index.m3u8?token=dbab5718a75c1f4e4148390d2d7d5af9-1541429364-5be056f30ebc0599b32144c5
+#EXTINF:0,VOV TV
+#EXTVLCOPT:network-caching=1000
+http://118.69.211.87:1935/vovtv/vovtv/chunklist_w1113785676.m3u8
+#EXTINF:0,VTC Play Ca Nhac
+#EXTVLCOPT:network-caching=1000
+http://118.107.68.10:1935/live/_definst_/VTC_CANHAC2017/playlist.m3u8
+#EXTINF:0,VTC1 HD
+#EXTVLCOPT:network-caching=1000
+https://cdn1.vtcnow.vn/live/eds/VTC1_1/hlsv3/VTC1_1-audio_20000=212400-video=1799600.m3u8
+#EXTINF:0,VTC10-NetViet
+#EXTVLCOPT:network-caching=1000
+https://cdn1.vtcnow.vn/live/eds/VTC10_10/hlsv3/VTC10_10-audio_20000=212400-video=1275600.m3u8
+#EXTINF:0,VTC11- Kids TV
+#EXTVLCOPT:network-caching=1000
+https://cdn1.vtcnow.vn/live/eds/VTC11_11/hlsv3/VTC11_11-audio_20000=212400-video=1275600.m3u8
+#EXTINF:0,VTC13 HD
+#EXTVLCOPT:network-caching=1000
+https://cdn1.vtcnow.vn/live/eds/VTC13_13/hlsv3/VTC13_13-audio_20000=212400-video=867200.m3u8
+#EXTINF:0,VTC14 HD
+#EXTVLCOPT:network-caching=1000
+https://cdn1.vtcnow.vn/live/eds/VTC14_14/hlsv3/VTC14_14-audio_20000=212400-video=1582000.m3u8
+#EXTINF:0,VTC16-3N
+#EXTVLCOPT:network-caching=1000
+https://cdn1.vtcnow.vn/live/eds/VTC16_16/hlsv3/VTC16_16-audio_20000=212400-video=1275600.m3u8
+#EXTINF:0,VTC2
+#EXTVLCOPT:network-caching=1000
+https://cdn1.vtcnow.vn/live/eds/VTC2_2/hlsv3/VTC2_2-audio_20000=212400-video=1275600.m3u8
+#EXTINF:0, group-title="VTC" tvg-logo="https://www.upsieutoc.com/images/2018/11/12/VTC3.jpg" - VTC3 HD
+#EXTVLCOPT:network-caching=1000
+https://cdn.vtc.gov.vn/live/eds/VTC3_3/hlsv5/VTC3_3-audio_20000=212400-video=1200000.m3u8
+#EXTINF:0,VTC4-Yeah1! Family
+#EXTVLCOPT:network-caching=1000
+https://cdn1.vtcnow.vn/live/eds/VTC4_4/hlsv3/VTC4_4-audio_20000=212400-video=1275600.m3u8
+#EXTINF:0,VTC6
+#EXTVLCOPT:network-caching=1000
+https://cdn1.vtcnow.vn/live/eds/VTC6_6/hlsv3/VTC6_6-audio_20000=212400-video=1275600.m3u8
+#EXTINF:0,VTC7-Today TV HD
+#EXTVLCOPT:network-caching=1000
+https://cdn1.vtcnow.vn/live/eds/VTC7_7/hlsv3/VTC7_7-audio_20000=212400-video=800000.m3u8
+#EXTINF:0,VTC8
+#EXTVLCOPT:network-caching=1000
+https://cdn1.vtcnow.vn/live/eds/VTC8_8/hlsv3/VTC8_8-audio_20000=212400-video=1275600.m3u8
+#EXTINF:0,VTC9 HD
+#EXTVLCOPT:network-caching=1000
+https://cdn1.vtcnow.vn/live/eds/VTC9_9/hlsv3/VTC9_9-audio_20000=212400-video=572800.m3u8
+#EXTINF:0,VTV1 HD
+#EXTVLCOPT:network-caching=1000
+https://hjyjrvmlsk.vcdn.com.vn/hls/elgfjdh/index.m3u8
+#EXTINF:0,VTV2 HD
+#EXTVLCOPT:network-caching=1000
+https://hjyjrvmlsk.vcdn.com.vn/hls/m0hlc1s/index.m3u8
+#EXTINF:0,VTV3 HD
+#EXTVLCOPT:network-caching=1000
+https://hjyjrvmlsk.vcdn.com.vn/hls/idmwifi/index.m3u8
+#EXTINF:0,VTV4 HD
+#EXTVLCOPT:network-caching=1000
+https://hjyjrvmlsk.vcdn.com.vn/hls/hktebdo/index.m3u8
+#EXTINF:0,VTV5 HD
+#EXTVLCOPT:network-caching=1000
+https://hjyjrvmlsk.vcdn.com.vn/hls/ira1wlr/index.m3u8
+#EXTINF:0,VTV6 HD
+#EXTVLCOPT:network-caching=1000
+https://hjyjrvmlsk.vcdn.com.vn/hls/fjg6388/index.m3u8
+#EXTINF:0,VTV7 HD
+#EXTVLCOPT:network-caching=1000
+https://hjyjrvmlsk.vcdn.com.vn/hls/nwalmjv/index.m3u8
+#EXTINF:0,VTV8 HD
+#EXTVLCOPT:network-caching=1000
+https://hjyjrvmlsk.vcdn.com.vn/hls/wgabpze/index.m3u8
+#EXTINF:0,VTV9 HD
+#EXTVLCOPT:network-caching=1000
+https://hjyjrvmlsk.vcdn.com.vn/hls/ig9jpqw/index.m3u8
+#EXTINF:0,VTVcab10
+#EXTVLCOPT:network-caching=1000
+http://liverestream2obj.5b1df984.cdnviet.com/hls/O2_TV_NEW/03.m3u8
+#EXTINF:0,VTVcab11-VGS SHOP
+#EXTVLCOPT:network-caching=1000
+https://5b0446c43ca13.streamlock.net/dn/htvmuasam.stream/playlist.m3u8
