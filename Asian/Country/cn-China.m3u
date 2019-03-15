@@ -1,5 +1,4 @@
-EXTM3U
-
+#EXTM3U
 #EXTINF:-1 group-title="台湾",优视频道
 http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",江苏影视
