@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:0,Antares TV SD
+#EXTVLCOPT:network-caching=1000
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:0,BHtv (Opt-2)
+#EXTVLCOPT:network-caching=1000
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:0,Central TV SD
+#EXTVLCOPT:network-caching=1000
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:0,CTC TV Cusco
+#EXTVLCOPT:network-caching=1000
+http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
+#EXTINF:0,DIGITAL TV PERU 2 [720p]
+#EXTVLCOPT:network-caching=1000
+http://uvodscp-lh.akamaihd.net:80/i/ped002rtmp_1@460476/index_1_av-p.m3u8
+#EXTINF:0,DIGITAL TV PERU [720p]
+#EXTVLCOPT:network-caching=1000
+http://uvodscp-lh.akamaihd.net:80/i/ped001rtmp_1@460473/master.m3u8
+#EXTINF:0,Monterrico TV
+#EXTVLCOPT:network-caching=1000
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+#EXTINF:0,MONTERRICO TV [1080p]
+#EXTVLCOPT:network-caching=1000
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+#EXTINF:0,Ovacion SD
+#EXTVLCOPT:network-caching=1000
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:0,PERU:Willax
+#EXTVLCOPT:network-caching=1000
+http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,RBC TV
+#EXTVLCOPT:network-caching=1000
+http://184.154.28.210:1935/rbc-tv/rbc-tv/playlist.m3u8
+#EXTINF:0,RPP Noticias (Radio con TV) SD
+#EXTVLCOPT:network-caching=1000
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoRPPWC/_definst_/live.m3u8
+#EXTINF:0,Sol TV
+#EXTVLCOPT:network-caching=1000
+http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
+#EXTINF:0,Turbo Mix Radio TV SD
+#EXTVLCOPT:network-caching=1000
+http://167.114.116.212:1935/tvmb/turbomix/master.m3u8
+#EXTINF:0,TV Cosmos
+#EXTVLCOPT:network-caching=1000
+http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/playlist.m3u8
+#EXTINF:0,TV COSMOS
+#EXTVLCOPT:network-caching=1000
+http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/chunklist_w89600264.m3u8
+#EXTINF:0,TV COSMOS
+#EXTVLCOPT:network-caching=1000
+http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/playlist.m3u8
+#EXTINF:0,Willax SD
+#EXTVLCOPT:network-caching=1000
+http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8
+#EXTINF:0,WILLAX TV PERU
+#EXTVLCOPT:network-caching=1000
+http://m.mediastream.pe/vv_willax/livestream/.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,WILLAX TV PERU
+#EXTVLCOPT:network-caching=1000
+http://m.mediastream.pe/vv_willax/livestream/.m3u8
