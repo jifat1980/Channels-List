@@ -1,0 +1,46 @@
+#EXTM3U
+#EXTINF:0,FUTURE TV
+#EXTVLCOPT:network-caching=1000
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/17.m3u8
+#EXTINF:0,MTV LEBENON
+#EXTVLCOPT:network-caching=1000
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/103.m3u8
+#EXTINF:0,SAT7kids
+#EXTVLCOPT:network-caching=1000
+http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/chunklist_w918104804.m3u8
+#EXTINF:0,NOURSAT Alshabab
+#EXTVLCOPT:network-caching=1000
+https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8
+#EXTINF:0,NOURSAT MUSIC
+#EXTVLCOPT:network-caching=1000
+https://svs.itworkscdn.net/nour5satlive/livestream/playlist.m3u8
+#EXTINF:0,NOURSAT
+#EXTVLCOPT:network-caching=1000
+https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
+#EXTINF:0,NOURSAT EDDES
+#EXTVLCOPT:network-caching=1000
+https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8
+#EXTINF:0,NOURSAT Alshabab
+#EXTVLCOPT:network-caching=1000
+https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8
+#EXTINF:0,NOURSAT
+#EXTVLCOPT:network-caching=1000
+https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
+#EXTINF:0,NOURSAT Spirit
+#EXTVLCOPT:network-caching=1000
+https://svs.itworkscdn.net/nour6satlive/livestream/playlist.m3u8
+#EXTINF:0,NOURSAT MUSIC
+#EXTVLCOPT:network-caching=1000
+https://svs.itworkscdn.net/nour5satlive/livestream/playlist.m3u8
+#EXTINF:0,NOURSAT Alsharik
+#EXTVLCOPT:network-caching=1000
+https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8
+#EXTINF:0,NOURSAT Mariam
+#EXTVLCOPT:network-caching=1000
+https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
+#EXTINF:0,NOURSAT
+#EXTVLCOPT:network-caching=1000
+https://svs.itworkscdn.net/nour4satlive/livestream/chunklist_w838829348.m3u8
+#EXTINF:0,AR: Lebanon TV
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/63199.m3u8
