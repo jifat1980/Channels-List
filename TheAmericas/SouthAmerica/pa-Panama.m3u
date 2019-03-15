@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:0,ECO HD
+#EXTVLCOPT:network-caching=1000
+http://cdnlive.medcom.com.pa/medcom-livestream/eco-live/playlist.m3u8
+#EXTINF:0,ECO TV
+#EXTVLCOPT:network-caching=1000
+http://cdnlive.medcom.com.pa/medcom-livestream/eco-live/eco-live/streamout-360p/chunks.m3u8
+#EXTINF:0,RPC Radio
+#EXTVLCOPT:network-caching=1000
+http://cdnlive.medcom.com.pa/rpcradio/source/chunks.m3u8
+#EXTINF:0,Telemetro Radio
+#EXTVLCOPT:network-caching=1000
+http://cdnlive.medcom.com.pa/tmradio/source/chunks.m3u8
+#EXTINF:0,TVMax
+#EXTVLCOPT:network-caching=1000
+http://ssai-apac.ooyala.com/hls/delta/CFLIVE/out/u/ezye7lz7hql35/107829/xkbjFrZjE6C0XcIGJRrNEk-TEe8LBvv8/cn/9f9cf618b2464b86b7a7a074ab605613.m3u8
+#EXTINF:0,TVN
+#EXTVLCOPT:network-caching=1000
+http://ssai-apac.ooyala.com/hls/delta/CFLIVE/out/u/ezye7lz7hql35/107829/JlbDRrZjE6JBi2W0IpB3pRbFcNpyNh5W/cn/34ee71d50185402b81af1ebb43af1706.m3u8
+#EXTINF:0,undefined
+#EXTVLCOPT:network-caching=1000
+http://cdnlive.medcom.com.pa/medcom-livestream/eco-live/eco-live/streamout-480p/chunks.m3u8
