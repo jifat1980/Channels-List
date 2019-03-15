@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:0,RETV
+#EXTVLCOPT:network-caching=1000
+http://edge-telia2.tiesraides.lv/live/retv.lv.1_1/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://82.193.71.93/MultimaniaLV/video.m3u8
+#EXTINF:0,PRO 100 TV
+#EXTVLCOPT:network-caching=1000
+http://82.193.71.93/Pro100TvRuSattelite/video.m3u8
+#EXTINF:0,RETV
+#EXTVLCOPT:network-caching=1000
+http://edge-telia1.tiesraides.lv/live/retv.lv.1_1/playlist_b1825196.m3u8
+#EXTINF:0,Riga TV24
+#EXTVLCOPT:network-caching=1000
+http://player.tvnet.lv/live/amlst:11/playlist.m3u8
+#EXTINF:0,TV Net
+#EXTVLCOPT:network-caching=1000
+http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
+#EXTINF:0,24 Riga TV
+#EXTVLCOPT:network-caching=1000
+http://bit.ly/2CMtv4F
