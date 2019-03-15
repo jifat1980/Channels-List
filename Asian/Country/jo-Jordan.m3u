@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:0,JORDAN
+#EXTVLCOPT:network-caching=1000
+http://62.210.141.179:8000/live/ibrahim/123456/159.m3u8
+#EXTINF:0,Jordan Sport
+#EXTVLCOPT:network-caching=1000
+http://62.210.141.179:8000/live/ibrahim/123456/239.m3u8
+#EXTINF:0,AR: Jordan Ro2ya
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/110155.m3u8
+#EXTINF:0,AR: Jordan Amen
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/147355.m3u8
+#EXTINF:0,AR: Jordan Mubasher
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/147356.m3u8
+#EXTINF:0,AR: Jordan Manaseer
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/148564.m3u8
+#EXTINF:0,AR: JORDAN ADWAA
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/193079.m3u8
+#EXTINF:0,AR: Jordan Sports
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/73338.m3u8
+#EXTINF:0,AR: Jordan HD
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/73383.m3u8
+#EXTINF:0,AR: Noor Jordan
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/121129.m3u8
