@@ -1,0 +1,88 @@
+#EXTM3U
+#EXTINF:0,Future TV
+#EXTVLCOPT:network-caching=1000
+http://streamer11.elementssys.com:8080/demo/rasmyah/index.m3u8
+#EXTINF:0,LIBYA HADASH
+#EXTVLCOPT:network-caching=1000
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/79.m3u8
+#EXTINF:0,LIBYA TV
+#EXTVLCOPT:network-caching=1000
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/81.m3u8
+#EXTINF:0,LIBYA218
+#EXTVLCOPT:network-caching=1000
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/77.m3u8
+#EXTINF:0,S CHANNEL (1+)
+#EXTVLCOPT:network-caching=1000
+http://1599780955@starmena.ercdn.net/libyaschannel/libyaschannel.m3u8
+#EXTINF:0,S CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://starmena.ercdn.net/libyaschannel/libyaschannel_480p.m3u8
+#EXTINF:0,Libya's Channel (Opt-2)
+#EXTVLCOPT:network-caching=1000
+http://1599780955@starmena.ercdn.net/libyaschannel/libyaschannel.m3u8
+#EXTINF:0,One TV
+#EXTVLCOPT:network-caching=1000
+http://82.212.74.2:8000/live/7308.m3u8
+#EXTINF:0,Al Nabaa
+#EXTVLCOPT:network-caching=1000
+http://cdg3.edge.tmed.pw/alnabaatv/abr/alnabaatv/live_1024p/chunks.m3u8
+#EXTINF:0,Al Hadath
+#EXTVLCOPT:network-caching=1000
+http://starmena.ercdn.net/libya-alhadath/libya-alhadath.m3u8
+#EXTINF:0,Libya Future
+#EXTVLCOPT:network-caching=1000
+http://streamer11.elementssys.com:8080/demo/rasmyah/index.m3u8
+#EXTINF:0,Libya news
+#EXTVLCOPT:network-caching=1000
+http://62.210.141.179:8000/live/ibrahim/123456/157.m3u8
+#EXTINF:0,Libya-alhadath
+#EXTVLCOPT:network-caching=1000
+http://starmena.ercdn.net/libya-alhadath/libya-alhadath_480p.m3u8
+#EXTINF:0,Libya news
+#EXTVLCOPT:network-caching=1000
+http://starmena.ercdn.net/libyaschannel/libyaschannel.m3u8
+#EXTINF:0,Libya TV
+#EXTVLCOPT:network-caching=1000
+http://starmena.ercdn.net/libyaschannel/libyaschannel_480p.m3u8
+#EXTINF:0,AR: Libya Alwatanya
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/110179.m3u8
+#EXTINF:0,AR: Libya Sport Channel
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/113486.m3u8
+#EXTINF:0,AR: Libya Hadath TV
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/114697.m3u8
+#EXTINF:0,AR: LIBYA WAAD FM
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/131040.m3u8
+#EXTINF:0,AR: Libya Al-Ahrar TV
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/135265.m3u8
+#EXTINF:0,AR: Libya Almarsad
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/193089.m3u8
+#EXTINF:0,AR: Libya Elwatan
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/193090.m3u8
+#EXTINF:0,AR: libya Alhadath
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/196425.m3u8
+#EXTINF:0,AR: LIBYA ONE
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/63201.m3u8
+#EXTINF:0,AR: LIBYA CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/73404.m3u8
+#EXTINF:0,AR: Libya Panorama TV
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/73402.m3u8
+#EXTINF:0,AR: LIBYA RASMIA
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/98435.m3u8
+#EXTINF:0,AR: LIBYA AL MARAH
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/98434.m3u8
+#EXTINF:0,AR: Libya 218 NEWS
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/114699.m3u8
