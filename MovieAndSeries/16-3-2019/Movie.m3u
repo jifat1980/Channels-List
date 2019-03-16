@@ -1,0 +1,1799 @@
+#EXTM3U
+
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: ALAAN MOVIE CHANNELS AE ARABIC
+http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist_w636969599_b800000_t64NTc2cA==.m3u8
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: B4U MOVIES
+http://161.0.157.5/PLTV/88888888/224/3221226255/03.m3u8
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: B4U MOVIES (1+)
+http://51.15.161.236:25461/live/nicsky/fuckface/2481.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: FOX ACTION MOVIES
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: MOVIES 24
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/139597.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: MOVIES 24 (1+)
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/139597.m3u8
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: MOVIES 4 MEN
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/65124.m3u8
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: MOVIES MODERN GREAT
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/102179.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: MOVIES MODERN GREAT (1+)
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/102179.m3u8
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY CINEMA ACTION HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/65157.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY CINEMA ACTION & ADVENTURE HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/88315.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY CINEMA ATLANTIC HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/175822.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY CINEMA COMEDY HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/65148.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY CINEMA CRIME & THRILLER HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/65144.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY CINEMA DISNEY HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/65135.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY CINEMA DRAMA & ROMANCE HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/65146.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY CINEMA FAMILY HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/65149.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY CINEMA HITS HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/80381.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY CINEMA MODERN GREATS HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/65142.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY CINEMA SCI FI & HORROR HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/74545.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY CINEMA SELECT HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/65140.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY CINEMA SHOWCASE HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/65151.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: SONY MOVIES
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/65106.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: THREE PUBLIC MOVIE CHANNELS
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: TRUE MOVIES 2 HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/102209.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: TRUE MOVIES ENTERTAINMENT HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/75691.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: VIP HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/198522.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: VIP (1+) HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/198523.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: VIP (2+) HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/198524.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: VIP (3+) HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/198525.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: VIP (4+) HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/198526.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: VIP (5+) HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/198527.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: VIP (7+) HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/198529.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: VIP (8+) HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/198530.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: VIP (9+) HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/198531.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: VIP (10+) HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/198522.m3u8
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: VIP
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/198521.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: VIP (1+)
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/198521.m3u8
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: ZEE CINEMA
+http://51.15.161.236:25461/live/nicsky/fuckface/2473.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: ZEE CINEMA (1+)
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/198317.ts
+
+#EXTINF:0 group-title="US: United States",US: 12 STRONG 2018 GEO
+https://bobmovies.net/hl/12.Strong.2018hd.m3u8
+
+#EXTINF:0 group-title="US: United States",US: 2 FAST 2 FURIOUS 2003
+https://bobmovies.net/hl/2.Fast.2.Furious.2003.m3u8
+
+#EXTINF:0 group-title="US: United States",US: 2036 ORIGIN UNKNOWN 2018 GEO
+https://bobmovies.net/hl/OriginUnknown.2018.m3u8
+
+#EXTINF:0 group-title="US: United States",US: 50 FIRST DATES 2004
+https://bobmovies.net/hl/50.First.Dates.2004.m3u8
+
+#EXTINF:0 group-title="US: United States",US: A QUIET PLACE 2018 GEO
+https://bobmovies.net/hl/A.Quiet.Place.2018.1080.m3u8
+
+#EXTINF:0 group-title="US: United States",US: ABRAHAM LINCOLN VAMPIRE HUNTER 2012
+https://bobmovies.net/hl/Abraham.Lincoln.Vampire.Hunter.2012new_360p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: AFN MOVIES
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/155607.ts
+
+#EXTINF:0 group-title="US: United States",US: ALADDIN 1992
+https://bobmovies.net/hl/Aladdin.1992.m3u8
+
+#EXTINF:0 group-title="US: United States",US: ALL EYEZ ON ME 2017 GEO
+https://bobmovies.net/hl/All_Eyez_on_Me_2017_n.m3u8
+
+#EXTINF:0 group-title="US: United States",US: ANNABELLE
+http://cdnvod.setv.ca/hls/Annabelle.2.Creation.2017.720p.BluRay.H264.AAC-RARBG.mp4/master.m3u8
+
+#EXTINF:0 group-title="US: United States",US: AVENGERS
+https://bobmovies.net/hl/Avengers_2_Age_of_Ultron_2015.m3u8
+
+#EXTINF:0 group-title="US: United States",US: BAD SANTA 2 2016 GEO
+https://bobmovies.net/hl/Bad_Santa_2_2016.m3u8
+
+#EXTINF:0 group-title="US: United States",US: BAD SANTA 2003
+https://bobmovies.net/hl/Bad.Santa.2003.m3u8
+
+#EXTINF:0 group-title="US: United States",US: BALTO 1995
+https://bobmovies.net/hl/Balto.1995.m3u8
+
+#EXTINF:0 group-title="US: United States",US: BATMAN & ROBIN 1997
+https://bobmovies.net/hl/Batman.and.Robin.1997.m3u8
+
+#EXTINF:0 group-title="US: United States",US: BATMAN & ROBIN 1997 (1+)
+https://bobmovies.net/hl/Batman.and.Robin.1997_720p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: BATMAN 1989
+https://bobmovies.net/hl/Batman.1989.m3u8
+
+#EXTINF:0 group-title="US: United States",US: BATMAN BEGINS 2005
+https://bobmovies.net/hl/Batman.Begins.2005.m3u8
+
+#EXTINF:0 group-title="US: United States",US: BATMAN FOREVER 1995
+https://bobmovies.net/hl/Batman.Forever.1995_720p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: BATMAN NINJA 2018 GEO
+https://bobmovies.net/hl/Batman.Ninja.2018.m3u8
+
+#EXTINF:0 group-title="US: United States",US: BATMAN RETURNS 1992
+https://bobmovies.net/hl/Batman.Returns.1992_720p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: BEAUTY AND THE BEAST 1991
+https://bobmovies.net/hl/Beauty.and.the.Beast.1991.m3u8
+
+#EXTINF:0 group-title="US: United States",US: BIG HERO 6 2014
+https://bobmovies.net/hl/Big.Hero.6.2014.m3u8
+
+#EXTINF:0 group-title="US: United States",US: BLACK PANTHER 2018 GEO
+https://bobmovies.net/hl/Black.Panther.2018.1080.m3u8
+
+#EXTINF:0 group-title="US: United States",US: BOX OFFICE MOVIES
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/74905.ts
+
+#EXTINF:0 group-title="US: United States",US: BOX OFFICE MOVIES (1+)
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/74905.m3u8
+
+#EXTINF:0 group-title="US: United States",US: BRAVEHEART 1995
+https://bobmovies.net/hl/Braveheart_1995.m3u8
+
+#EXTINF:0 group-title="US: United States",US: BUTCH CASSIDY AND THE SUNDANCE KID 1969
+https://bobmovies.net/hl/Butch_Cassidy_Sundance_Kid_1969.m3u8
+
+#EXTINF:0 group-title="US: United States",US: CARS 2 2011
+https://bobmovies.net/hl/Cars.2.2011.m3u8
+
+#EXTINF:0 group-title="US: United States",US: CARS 2006
+https://bobmovies.net/hl/Cars.2006.1080p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: CARS 3 2017 GEO
+https://bobmovies.net/hl/Cars_3_2017.m3u8
+
+#EXTINF:0 group-title="US: United States",US: CASINO 1995
+https://bobmovies.net/hl/Casino_1995.m3u8
+
+#EXTINF:0 group-title="US: United States",US: CATCH ME IF YOU CAN 2002
+https://bobmovies.net/hl/Catch_Me_If_You_Can_2002.m3u8
+
+#EXTINF:0 group-title="US: United States",US: CINE SONY
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/149932.ts
+
+#EXTINF:0 group-title="US: United States",US: CINE SONY (1+)
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/149932.m3u8
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 01 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/84375.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 02 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77658.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 03 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77657.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 04 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77656.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 05 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77655.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 06 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/84376.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 07 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77653.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 08 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77652.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 09 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77651.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 10 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77650.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 12 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77648.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 13 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77647.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 14 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77646.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 15 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77645.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 16 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77644.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 17 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77643.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 18 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77642.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 19 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77641.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 20 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77640.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 22 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77638.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 23 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77637.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 24 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77636.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 26 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77634.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 27 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/102055.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 28 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77632.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 29 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77631.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 29 PPV (1+)
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77631.m3u8
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 30 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77630.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 32 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77628.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 33 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77627.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 34 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77626.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 35 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77625.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 36 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77624.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 37 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77623.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 39 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77621.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 40 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77620.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMAX HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/74917.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMAX 5 STAR MAX HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/74927.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMAX ACTION HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/65085.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMAX ACTION (1+) HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/65085.m3u8
+
+#EXTINF:0 group-title="US: United States",US: CINEMAX ACTION 2 HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77698.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMAX ACTION MAX
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/159963.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMAX ACTION MAX (1+)
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/159963.m3u8
+
+#EXTINF:0 group-title="US: United States",US: CINEMAX ACTOIN EAST
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/76560.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMAX MOREMAX HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/74853.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMAX MOREMAX (1+) HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/74853.m3u8
+
+#EXTINF:0 group-title="US: United States",US: CINEMAX THRILLER HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/103708.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMAX WEST HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/152997.ts
+
+#EXTINF:0 group-title="US: United States",US: COCO 2017 GEO
+https://bobmovies.net/hl/Coco.2017.DVDScr_720p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: COMMANDO 1985
+https://bobmovies.net/hl/Commando.1985.m3u8
+
+#EXTINF:0 group-title="US: United States",US: DARKEST HOUR 2017 GEO
+https://bobmovies.net/hl/Darkest.Hour.2017.WEB-DL.m3u8
+
+#EXTINF:0 group-title="US: United States",US: DAWN OF THE DEAD 2004
+https://bobmovies.net/hl/Dawn.of.the.Dead.2004.m3u8
+
+#EXTINF:0 group-title="US: United States",US: DAY OF THE DEAD 1985
+https://bobmovies.net/hl/Day.of.the.Dead.1985.m3u8
+
+#EXTINF:0 group-title="US: United States",US: DEADPOOL 2 2018 GEO
+https://bobmovies.net/hl/Deadpool.2.2018.HD_720p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: DEADPOOL 2016
+https://bobmovies.net/hl/Deadpool_2016.m3u8
+
+#EXTINF:0 group-title="US: United States",US: DEATH WISH 2018 GEO
+https://bobmovies.net/hl/DeathWish.2018.m3u8
+
+#EXTINF:0 group-title="US: United States",US: DESCENDANTS 2 2017 GEO
+https://bobmovies.net/hl/Descendants_2_2017_HDRip.m3u8
+
+#EXTINF:0 group-title="US: United States",US: DESPICABLE ME 3 2017 GEO
+https://bobmovies.net/hl/Despicable_Me_3_2017_1080p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: DJANGO UNCHAINED 2012
+https://bobmovies.net/hl/Django_2012.m3u8
+
+#EXTINF:0 group-title="US: United States",US: DOWNSIZING 2017 GEO
+https://bobmovies.net/hl/Downsizing.2017.m3u8
+
+#EXTINF:0 group-title="US: United States",US: ERAGON 2006
+https://bobmovies.net/hl/Eragon.2006.m3u8
+
+#EXTINF:0 group-title="US: United States",US: FINDING DORY 2016
+https://bobmovies.net/hl/Finding_Dory_2016.m3u8
+
+#EXTINF:0 group-title="US: United States",US: FINDING NEMO 2003
+https://bobmovies.net/hl/Finding.Nemo.2003.m3u8
+
+#EXTINF:0 group-title="US: United States",US: FINDING NEMO 2003 (1+)
+https://bobmovies.net/hl/Finding.Nemo.2003_720p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: FLATLINERS 2017 GEO
+https://bobmovies.net/hl/Flatliners.2017.m3u8
+
+#EXTINF:0 group-title="US: United States",US: FOX PREMIUM CINEMA
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+
+#EXTINF:0 group-title="US: United States",US: FOX PREMIUM CINEMA (1+)
+http://161.0.157.7/PLTV/88888888/224/3221226793/index.m3u8
+
+#EXTINF:0 group-title="US: United States",US: FOX PREMIUM MOVIES
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+
+#EXTINF:0 group-title="US: United States",US: FULL METAL JACKET 1987
+https://bobmovies.net/hl/Full_Metal_Jacket_1987.m3u8
+
+#EXTINF:0 group-title="US: United States",US: FUN MOM DINNER 2017 GEO
+https://bobmovies.net/hl/Fun_Mom_Dinner_2017.m3u8
+
+#EXTINF:0 group-title="US: United States",US: FURIOUS 7 2015
+https://bobmovies.net/hl/Furious_Seven_2015.m3u8
+
+#EXTINF:0 group-title="US: United States",US: GEOSTORM 2017 GEO
+https://bobmovies.net/hl/Geostorm.2017HDRip.m3u8
+
+#EXTINF:0 group-title="US: United States",US: GODZILLA
+https://bobmovies.net/hl/Godzilla.Monster.Planet.2017.WEBRip.m3u8
+
+#EXTINF:0 group-title="US: United States",US: GOLDENEYE 1995
+https://bobmovies.net/hl/James.Bond.GoldenEye.1995.m3u8
+
+#EXTINF:0 group-title="US: United States",US: GRAN TORINO 2008
+https://bobmovies.net/hl/Gran_Torino_2008_720p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: HALLMARK MOVIES & MYSTERIES HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77089.ts
+
+#EXTINF:0 group-title="US: United States",US: HALLOWEEN
+https://bobmovies.net/hl/Halloween.6.The.Curse.of.Michael.Myers.1995.m3u8
+
+#EXTINF:0 group-title="US: United States",US: HEAT 1995
+https://bobmovies.net/hl/Heat.1995.m3u8
+
+#EXTINF:0 group-title="US: United States",US: HELLRAISER
+https://bobmovies.net/hl/Hellraiser.Judgment.2018.m3u8
+
+#EXTINF:0 group-title="US: United States",US: HERCULES 1997
+https://bobmovies.net/hl/Hercules.1997.m3u8
+
+#EXTINF:0 group-title="US: United States",US: HICKOK 2017 GEO
+https://bobmovies.net/hl/Hickok_2017.m3u8
+
+#EXTINF:0 group-title="US: United States",US: HIDDEN FIGURES 2016
+https://bobmovies.net/hl/Hidden_Figures_2016.m3u8
+
+#EXTINF:0 group-title="US: United States",US: HOCUS POCUS 1993
+https://bobmovies.net/hl/Hocus.Pocus.1993.m3u8
+
+#EXTINF:0 group-title="US: United States",US: I CAN ONLY IMAGINE 2018 GEO
+https://bobmovies.net/hl/ICanOnlyImagine.2018.1080p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: ICE AGE
+https://bobmovies.net/hl/Ice.Age.The.Meltdown.2006.m3u8
+
+#EXTINF:0 group-title="US: United States",US: ICE AGE (1+)
+https://bobmovies.net/hl/Ice.Age.Continental.Drift.2012.m3u8
+
+#EXTINF:0 group-title="US: United States",US: ICE AGE (2+)
+https://bobmovies.net/hl/Ice.Age.Dawn.Of.The.Dinosaurs.2009.m3u8
+
+#EXTINF:0 group-title="US: United States",US: ICE AGE 2002
+https://bobmovies.net/hl/Ice.Age.2002.m3u8
+
+#EXTINF:0 group-title="US: United States",US: INCEPTION 2010
+https://bobmovies.net/hl/Inception_2010_360p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: INDEPENDENCE DAY
+https://bobmovies.net/hl/Independence_Day_Resurgence_2016.m3u8
+
+#EXTINF:0 group-title="US: United States",US: INDIANA JONES AND THE LAST CRUSADE 1989
+https://bobmovies.net/hl/Indiana_Jones_and_the_Last_Crusade_1989.m3u8
+
+#EXTINF:0 group-title="US: United States",US: INTERSTELLAR 2014
+https://bobmovies.net/hl/Interstellar_2014.m3u8
+
+#EXTINF:0 group-title="US: United States",US: IT 2017 GEO
+https://bobmovies.net/hl/IT.2017.EBRip.m3u8
+
+#EXTINF:0 group-title="US: United States",US: JASON BOURNE 2016
+https://bobmovies.net/hl/Jason_Bourne_2016.m3u8
+
+#EXTINF:0 group-title="US: United States",US: JEEPERS CREEPERS 2001
+https://bobmovies.net/hl/Jeepers.Creepers.2001.m3u8
+
+#EXTINF:0 group-title="US: United States",US: JEEPERS CREEPERS 3 2017 GEO
+https://bobmovies.net/hl/Jeepers_Creepers_3.2017.HDRip.m3u8
+
+#EXTINF:0 group-title="US: United States",US: JIGSAW 2017 GEO
+https://bobmovies.net/hl/Jigsaw.2017.WEB-DL.m3u8
+
+#EXTINF:0 group-title="US: United States",US: JUMANJI
+https://bobmovies.net/hl/Jumanji_2018_HDTS.m3u8
+
+#EXTINF:0 group-title="US: United States",US: JURASSIC WORLD
+https://bobmovies.net/hl/Jurassic.World.Fallen.Kingdom.2018.hddd_720p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: JUSTICE LEAGUE 2017 GEO
+https://bobmovies.net/hl/Justice.League.2017_hd.m3u8
+
+#EXTINF:0 group-title="US: United States",US: JUSTICE LEAGUE DARK 2017 GEO
+https://bobmovies.net/hl/Justice_League_Dark_2017_720p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: KINDERGARTEN COP 1990
+https://bobmovies.net/hl/Kindergarten.Cop.1990.m3u8
+
+#EXTINF:0 group-title="US: United States",US: KUNG FU PANDA 2 2011
+https://bobmovies.net/hl/Kung.Fu.Panda.2.2011.m3u8
+
+#EXTINF:0 group-title="US: United States",US: KUNG FU PANDA 2008
+https://bobmovies.net/hl/Kung.Fu.Panda.2008.m3u8
+
+#EXTINF:0 group-title="US: United States",US: KUNG FU PANDA 3 2016
+https://bobmovies.net/hl/Kung_Fu_Panda_3_2016.m3u8
+
+#EXTINF:0 group-title="US: United States",US: LAST ACTION HERO 1993
+https://bobmovies.net/hl/Last.Action.Hero.1993.m3u8
+
+#EXTINF:0 group-title="US: United States",US: LEFT BEHIND
+https://bobmovies.net/hl/VanishedLeftBehindNextGeneration.2016_720p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: LIFETIME MOVIE NETWORK HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/98308.ts
+
+#EXTINF:0 group-title="US: United States",US: LIFETIME MOVIES HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/76502.ts
+
+#EXTINF:0 group-title="US: United States",US: LINCOLN ONDEMANDMOVIES ENGLISH
+http://vd111.fastbroad.com/vdsoltv1/mp4:Lincoln.2012.720p.mp4/playlist.m3u8
+
+#EXTINF:0 group-title="US: United States",US: LOOPER 2012
+https://bobmovies.net/hl/Looper.2012.m3u8
+
+#EXTINF:0 group-title="US: United States",US: MISSION
+https://bobmovies.net/hl/Mission_Impossible_Rogue_Nation_2015.m3u8
+
+#EXTINF:0 group-title="US: United States",US: MONEYBALL 2011
+https://bobmovies.net/hl/Moneyball.2011_360p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: MOVEE 4U
+https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
+
+#EXTINF:0 group-title="US: United States",US: MOVIE MAX HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77688.ts
+
+#EXTINF:0 group-title="US: United States",US: MOVIE MAX (1+) HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77688.m3u8
+
+#EXTINF:0 group-title="US: United States",US: MOVIE PLEX HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77687.ts
+
+#EXTINF:0 group-title="US: United States",US: MOVISTAR ANTENA PUBLIC MOVIE CHANNELS ENGLISH
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_4_av-b.m3u8
+
+#EXTINF:0 group-title="US: United States",US: MULAN 1998
+https://bobmovies.net/hl/Mulan.1998.m3u8
+
+#EXTINF:0 group-title="US: United States",US: MURDER ON THE ORIENT EXPRESS 2017 GEO
+https://bobmovies.net/hl/Murder.on.the.Orient.Express.2017_HD.m3u8
+
+#EXTINF:0 group-title="US: United States",US: NAKED 2017 GEO
+https://bobmovies.net/hl/Naked_2017_WEBRip.m3u8
+
+#EXTINF:0 group-title="US: United States",US: NIGHT OF THE LIVING DEAD 1990
+https://bobmovies.net/hl/Night.Of.The.Living.Dead.1990.m3u8
+
+#EXTINF:0 group-title="US: United States",US: OKJA 2017 GEO
+https://bobmovies.net/hl/Okja_2017.m3u8
+
+#EXTINF:0 group-title="US: United States",US: PACIFIC RIM
+https://bobmovies.net/hl/Pacific.Rim.Uprising.2018.m3u8
+
+#EXTINF:0 group-title="US: United States",US: PACIFIC RIM (1+)
+https://bobmovies.net/hl/Pacific.Rim.Uprising.2018_720p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: PARAMOUNT
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/156796.ts
+
+#EXTINF:0 group-title="US: United States",US: PIRATES OF THE CARIBBEAN
+https://bobmovies.net/hl/Pirates_of_the_Caribbean_2017.m3u8
+
+#EXTINF:0 group-title="US: United States",US: POCAHONTAS 1995
+https://bobmovies.net/hl/Pocahontas.1995.m3u8
+
+#EXTINF:0 group-title="US: United States",US: POWER RANGERS 2017 GEO
+https://bobmovies.net/hl/Power_Rangers_2017_1080p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: ROBOCOP 1987
+https://bobmovies.net/hl/RoboCop.1987.m3u8
+
+#EXTINF:0 group-title="US: United States",US: SMURFS
+https://bobmovies.net/hl/Smurfs_The_Lost_Village_2017.m3u8
+
+#EXTINF:0 group-title="US: United States",US: SONY MOVIE CHANNEL HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/117736.ts
+
+#EXTINF:0 group-title="US: United States",US: SONY MOVIES
+http://tvpremiumhd.club/lista-gratuita/210002/on/live.php?id=yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.ts
+
+#EXTINF:0 group-title="US: United States",US: SONY MOVIES (1+)
+http://tvpremiumhd.club/lista-gratuita/212829/on/live.php?id=yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.ts
+
+#EXTINF:0 group-title="US: United States",US: SOUTH PARK
+https://bobmovies.net/hl/South.Park.Bigger.Longer.and.Uncut.1999.m3u8
+
+#EXTINF:0 group-title="US: United States",US: SPIDER MAN
+https://bobmovies.net/hl/Spider_Man_Homecoming_2017.m3u8
+
+#EXTINF:0 group-title="US: United States",US: SPIDER MAN 2 2004
+https://bobmovies.net/hl/Spider.Man.2.2004.m3u8
+
+#EXTINF:0 group-title="US: United States",US: SPIDER MAN 2002
+https://bobmovies.net/hl/Spider.Man.2002.m3u8
+
+#EXTINF:0 group-title="US: United States",US: SPIKE/PARAMOUNT HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/74845.ts
+
+#EXTINF:0 group-title="US: United States",US: STAR WARS
+https://bobmovies.net/hl/Star.Wars.The.Last.Jedi.2017hd_720p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: STAR WARS THE FORCE AWAKENS 2015
+https://bobmovies.net/hl/Star_Wars_Episode_7_The_Force_Awakens_2015.m3u8
+
+#EXTINF:0 group-title="US: United States",US: STARZ CINEMA HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/76479.ts
+
+#EXTINF:0 group-title="US: United States",US: STARZ CINEMA (1+) HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/76479.m3u8
+
+#EXTINF:0 group-title="US: United States",US: STARZ CINEMA WEST HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77680.ts
+
+#EXTINF:0 group-title="US: United States",US: STARZ CINEMA WEST (1+) HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77680.m3u8
+
+#EXTINF:0 group-title="US: United States",US: SUICIDE SQUAD 2016
+https://bobmovies.net/hl/Suicide_Squad_2016.m3u8
+
+#EXTINF:0 group-title="US: United States",US: TCM PUBLIC MOVIE CHANNELS ENGLISH
+http://cw.tcm10.com.br:80/low/canal10.m3u8
+
+#EXTINF:0 group-title="US: United States",US: TED 2012
+https://bobmovies.net/hl/Ted.2012_720p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: TERMINATOR GENISYS 2015
+https://bobmovies.net/hl/Terminator_Genisys_2015.m3u8
+
+#EXTINF:0 group-title="US: United States",US: THE ABYSS 1989
+https://bobmovies.net/hl/The.Abyss.1989.m3u8
+
+#EXTINF:0 group-title="US: United States",US: THE AVENGERS 2012
+https://bobmovies.net/hl/The.Avengers.2012.m3u8
+
+#EXTINF:0 group-title="US: United States",US: THE BOSS BABY 2017 GEO
+https://bobmovies.net/hl/The_Boss_Baby_2017_WEB-DL.m3u8
+
+#EXTINF:0 group-title="US: United States",US: THE CIRCLE 2017 GEO
+https://bobmovies.net/hl/The_Circle_2017_1080p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: THE CLOVERFIELD PARADOX 2018 GEO
+https://bobmovies.net/hl/the.cloverfield.paradox.2018.m3u8
+
+#EXTINF:0 group-title="US: United States",US: THE DARK KNIGHT 2008
+https://bobmovies.net/hl/Batman.The.Dark.Knight.2008.m3u8
+
+#EXTINF:0 group-title="US: United States",US: THE DARK TOWER 2017 GEO
+https://bobmovies.net/hl/The_Dark_Tower_2017_hdd.m3u8
+
+#EXTINF:0 group-title="US: United States",US: THE DEATH OF SUPERMAN 2018 GEO
+https://bobmovies.net/hl/The.Death.Of.Superman.2018_720p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: THE FATE OF THE FURIOUS 2017 GEO
+https://bobmovies.net/hl/The_Fate_of_the_Furious_2017_1080p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: THE HELP 2011
+https://bobmovies.net/hl/The_Help_2011.m3u8
+
+#EXTINF:0 group-title="US: United States",US: THE LION KING 2
+https://bobmovies.net/hl/The.Lion.King.2.Simbas.Pride.1998.m3u8
+
+#EXTINF:0 group-title="US: United States",US: THE LITTLE MERMAID 1989
+https://bobmovies.net/hl/The.Little.Mermaid.1989.m3u8
+
+#EXTINF:0 group-title="US: United States",US: THE MAGNIFICENT SEVEN 2016
+https://bobmovies.net/hl/The_Magnificent_Seven_2016_new.m3u8
+
+#EXTINF:0 group-title="US: United States",US: THE NEIGHBOR 2018
+https://bobmovies.net/hl/The.Neighbor.2017.m3u8
+
+#EXTINF:0 group-title="US: United States",US: THE NUT JOB 2
+https://bobmovies.net/hl/The.Nut.Job.2.Nutty.by.Nature.2017.m3u8
+
+#EXTINF:0 group-title="US: United States",US: THE REVENANT 2015
+https://bobmovies.net/hl/The_Revenant_2015.m3u8
+
+#EXTINF:0 group-title="US: United States",US: THE SECRET LIFE OF WALTER MITTY 2013
+https://bobmovies.net/hl/The.Secret.Life.of.Walter.Mitty.2013new.m3u8
+
+#EXTINF:0 group-title="US: United States",US: THE SHAPE OF WATER 2017 GEO
+https://bobmovies.net/hl/The.Shape.of.Water.2017.m3u8
+
+#EXTINF:0 group-title="US: United States",US: THERE WILL BE BLOOD 2007
+https://bobmovies.net/hl/The_Prestige_2006_360p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: THOR
+https://bobmovies.net/hl/Thor.Ragnarok.2017.web.m3u8
+
+#EXTINF:0 group-title="US: United States",US: TOY STORY 2 1999
+https://bobmovies.net/hl/Toy.Story.2.1999.m3u8
+
+#EXTINF:0 group-title="US: United States",US: TOY STORY 3 2010
+https://bobmovies.net/hl/Toy_story_3_2010.m3u8
+
+#EXTINF:0 group-title="US: United States",US: TRANSFORMERS
+https://bobmovies.net/hl/Transformers.Revenge.Of.The.Fallen.2009.m3u8
+
+#EXTINF:0 group-title="US: United States",US: TREMORS 1990
+https://bobmovies.net/hl/Tremors.1990.m3u8
+
+#EXTINF:0 group-title="US: United States",US: TWINS 1988
+https://bobmovies.net/hl/Twins.1988.m3u8
+
+#EXTINF:0 group-title="US: United States",US: UNDERWORLD
+https://bobmovies.net/hl/Underworld_Blood_Wars_2016.m3u8
+
+#EXTINF:0 group-title="US: United States",US: UNFORGIVEN 1992
+https://bobmovies.net/hl/Unforgiven_1992.m3u8
+
+#EXTINF:0 group-title="US: United States",US: UNTHINKABLE 2010
+https://bobmovies.net/hl/Unthinkable.2010_720p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: VALERIAN AND THE CITY OF A THOUSAND PLANETS 2017 GEO
+https://bobmovies.net/hl/ValerianandtheCityofaThousandPlanets2017_HD.m3u8
+
+#EXTINF:0 group-title="US: United States",US: WAR FOR THE PLANET OF THE APES 2017 GEO
+https://bobmovies.net/hl/War.For.The.Planet.Of.The.Apes.2017nn.m3u8
+
+#EXTINF:0 group-title="US: United States",US: WHEN WE FIRST MET 2018 GEO
+https://bobmovies.net/hl/When.We.First.Met.2018.m3u8
+
+#EXTINF:0 group-title="US: United States",US: WHIPLASH 2014
+https://bobmovies.net/hl/Whiplash_2014_720p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: WISH UPON 2017
+http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8
+
+#EXTINF:0 group-title="US: United States",US: WRECK IT RALPH 2012
+https://bobmovies.net/hl/Wreck.it.Ralph.2012_720p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: ZEE CINEMA
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/137671.ts
+
+#EXTINF:0 group-title="WW: World Wide",WW: MOVEE 4YOU
+http://tvpremiumhd.club/lista-gratuita/210002/on/lives.php?id=nimble.dashmedia.tv/onestudio/movee4u/playlist.ts
+
+#EXTINF:0 group-title="WW: World Wide",WW: MOVEE 4YOU (1+)
+http://tvpremiumhd.club/lista-gratuita/212829/on/lives.php?id=nimble.dashmedia.tv/onestudio/movee4u/playlist.ts
+
+#EXTINF:0 group-title="_: _",_: CAR
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/197148.ts
+
+#EXTINF:0 group-title="_: _",_: CAR (1+)
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/197149.ts
+
+#EXTINF:0 group-title="_: _",_: CINE
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:0 group-title="_: _",_: CINE (1+)
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/eurochannel.php/%20index.m3u8
+
+#EXTINF:0 group-title="_: _",_: CINE MO VIP
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/198655.ts
+
+#EXTINF:0 group-title="_: _",_: CINE MO VIP (1+)
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/198655.m3u8
+
+#EXTINF:0 group-title="_: _",_: CINE VOICE
+http://tvpremiumhd.club/lista-gratuita/210002/on/live.php?id=live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.ts
+
+#EXTINF:0 group-title="_: _",_: CINE VOICE (1+)
+http://tvpremiumhd.club/lista-gratuita/212829/on/live.php?id=live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.ts
+
+#EXTINF:0 group-title="_: _",_: CINECANAL
+http://tvpremiumhd.club/lista-gratuita/210002/on/lo/430.ts
+
+#EXTINF:0 group-title="_: _",_: CINECANAL CALIDAD LISTA PRIVADA HD
+http://tvpremiumhd.club/lista-gratuita/210002/on/lof/430.ts
+
+#EXTINF:0 group-title="_: _",_: CINEMA ACTION & ADVENTURE HD
+http://51.15.161.236:25461/live/nicsky/fuckface/1051.ts
+
+#EXTINF:0 group-title="_: _",_: CINEMA DISNEY HD
+http://51.15.161.236:25461/live/nicsky/fuckface/1054.ts
+
+#EXTINF:0 group-title="_: _",_: CINEMA DRAMA AND ROMANCE HD
+http://51.15.161.236:25461/live/nicsky/fuckface/1055.ts
+
+#EXTINF:0 group-title="_: _",_: CINEMA FAMILY HD
+http://51.15.161.236:25461/live/nicsky/fuckface/1056.ts
+
+#EXTINF:0 group-title="_: _",_: CINEMA MODERN GREATS HD
+http://51.15.161.236:25461/live/nicsky/fuckface/1057.ts
+
+#EXTINF:0 group-title="_: _",_: CINEMA PREMIERE HD
+http://51.15.161.236:25461/live/nicsky/fuckface/1052.ts
+
+#EXTINF:0 group-title="_: _",_: CINEMA SCI FI & HORROR HD
+http://51.15.161.236:25461/live/nicsky/fuckface/1058.ts
+
+#EXTINF:0 group-title="_: _",_: CINEMA SELECT HD
+http://51.15.161.236:25461/live/nicsky/fuckface/1060.ts
+
+#EXTINF:0 group-title="_: _",_: CINEMA THRILLER HD
+http://51.15.161.236:25461/live/nicsky/fuckface/1061.ts
+
+#EXTINF:0 group-title="_: _",_: CINEMAX
+http://tvpremiumhd.club/lista-gratuita/210002/on/lo/481.ts
+
+#EXTINF:0 group-title="_: _",_: CINEMAX (1+)
+http://tvpremiumhd.club/lista-gratuita/212829/on/live.php?id=aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/1384.ts
+
+#EXTINF:0 group-title="_: _",_: CINEMAX CALIDAD LISTA PRIVADA HD
+http://tvpremiumhd.club/lista-gratuita/210002/on/lof/481.ts
+
+#EXTINF:0 group-title="_: _",_: CINEVISION CANAL 19
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/116121.ts
+
+#EXTINF:0 group-title="_: _",_: DIRECTV CINEMA
+http://tvpremiumhd.club/lista-gratuita/210002/tv/v/1243.ts
+
+#EXTINF:0 group-title="_: _",_: DIRECTV CINEMA (1+)
+http://tvpremiumhd.club/lista-gratuita/212829/tv/live.php?id=1243.ts
+
+#EXTINF:0 group-title="_: _",_: DISCOVERY THEATER HD
+http://tvpremiumhd.club/lista-gratuita/210002/on/lo/351.ts
+
+#EXTINF:0 group-title="_: _",_: DISCOVERY THEATER CALIDAD LISTA PRIVADA HD
+http://tvpremiumhd.club/lista-gratuita/210002/on/lof/351.ts
+
+#EXTINF:0 group-title="_: _",_: DMOVIES 3 HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/197621.ts
+
+#EXTINF:0 group-title="_: _",_: FOX CINEMA
+http://tvpremiumhd.club/lista-gratuita/210002/on/lo/421.ts
+
+#EXTINF:0 group-title="_: _",_: FOX CINEMA CALIDAD LISTA PRIVADA HD
+http://tvpremiumhd.club/lista-gratuita/210002/on/lof/421.ts
+
+#EXTINF:0 group-title="_: _",_: FOX MOVIES (1+)
+http://tvpremiumhd.club/lista-gratuita/212829/on/live.php?id=aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/604.ts
+
+#EXTINF:0 group-title="_: _",_: FOX MOVIES CALIDAD LISTA PRIVADA HD
+http://tvpremiumhd.club/lista-gratuita/210002/on/lof/417.ts
+
+#EXTINF:0 group-title="_: _",_: FOX PREMIUM CINEMA
+http://161.0.157.9/PLTV/88888888/224/3221226793/index.m3u8
+
+#EXTINF:0 group-title="_: _",_: JALSA MOVIES
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/101956.ts
+
+#EXTINF:0 group-title="_: _",_: KURD MOVIES HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/127314.ts
+
+#EXTINF:0 group-title="_: _",_: MOVIES4MEN
+http://51.15.161.236:25461/live/nicsky/fuckface/2338.ts
+
+#EXTINF:0 group-title="_: _",_: PARAMOUNT CHANNEL
+http://stream.euroasia.lfstrm.tv/paramount_channel/1/index.m3u8
+
+#EXTINF:0 group-title="_: _",_: PHEONIX MOVIE CHANNELS MY MANDARIN
+http://ktv028.cdnak.ds.kylintv.net/nlds/kylin/pxasia/as/live/pxasia_4.m3u8
+
+#EXTINF:0 group-title="_: _",_: PLATINIUM HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/275.m3u8
+
+#EXTINF:0 group-title="_: _",_: PLATINIUM (2+) HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/278.m3u8
+
+#EXTINF:0 group-title="_: _",_: PLATINIUM
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/262.m3u8
+
+#EXTINF:0 group-title="_: _",_: PLATINIUM (1+)
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/270.m3u8
+
+#EXTINF:0 group-title="_: _",_: PLATINIUM (2+)
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/272.m3u8
+
+#EXTINF:0 group-title="_: _",_: RAI MOVIE
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8
+
+#EXTINF:0 group-title="_: _",_: ROTANA CINEMA
+http://www.freeiptvdaily.net:8000/live/3927980/8246578/24.ts
+
+#EXTINF:0 group-title="_: _",_: ROTANA CINEMA (1+)
+http://www.freeiptvdaily.net:8000/live/3927980/8246578/24.m3u8
+
+#EXTINF:0 group-title="_: _",_: SKY CINEMA COMEDY HD
+http://51.15.161.236:25461/live/nicsky/fuckface/1062.ts
+
+#EXTINF:0 group-title="_: _",_: SKY MOVIES COMEDY
+http://51.15.161.236:25461/live/nicsky/fuckface/198.ts
+
+#EXTINF:0 group-title="_: _",_: SKY MOVIES DISNEY
+http://51.15.161.236:25461/live/nicsky/fuckface/200.ts
+
+#EXTINF:0 group-title="_: _",_: SKY MOVIES FAMILY
+http://51.15.161.236:25461/live/nicsky/fuckface/202.ts
+
+#EXTINF:0 group-title="_: _",_: SKY MOVIES GREATS
+http://51.15.161.236:25461/live/nicsky/fuckface/740.ts
+
+#EXTINF:0 group-title="_: _",_: SKY MOVIES PREMIERE
+http://51.15.161.236:25461/live/nicsky/fuckface/204.ts
+
+#EXTINF:0 group-title="_: _",_: SKY MOVIES SCI FI & HORROR
+http://51.15.161.236:25461/live/nicsky/fuckface/205.ts
+
+#EXTINF:0 group-title="_: _",_: SKY MOVIES SELECT
+http://51.15.161.236:25461/live/nicsky/fuckface/207.ts
+
+#EXTINF:0 group-title="_: _",_: SKY MOVIES THRILLER
+http://51.15.161.236:25461/live/nicsky/fuckface/199.ts
+
+#EXTINF:0 group-title="_: _",_: SLO HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/93124.ts
+
+#EXTINF:0 group-title="_: _",_: SLO
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/176211.ts
+
+#EXTINF:0 group-title="_: _",_: SLO (1+)
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/176212.ts
+
+#EXTINF:0 group-title="_: _",_: SLO (2+)
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/176211.m3u8
+
+#EXTINF:0 group-title="_: _",_: SONY MOVIES
+http://51.15.161.236:25461/live/nicsky/fuckface/2337.ts
+
+#EXTINF:0 group-title="_: _",_: STAR JHALSA MOVIES
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/143894.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY CINEMA GREATS
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/198391.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY CINEMA HITS HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/80381.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY CINEMA MODERN GREATS HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/65142.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY CINEMA SCI FI & HORROR HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/74545.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY CINEMA SELECT HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/65140.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY CINEMA SHOWCASE HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/65151.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: SONY MOVIES
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/65106.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: THREE PUBLIC MOVIE CHANNELS
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: TRUE MOVIES 2 HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/102209.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: TRUE MOVIES ENTERTAINMENT HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/75691.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: VIP HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/198522.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: VIP (1+) HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/198523.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: VIP (2+) HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/198524.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: VIP (3+) HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/198525.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: VIP (4+) HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/198526.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: VIP (5+) HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/198527.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: VIP (7+) HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/198529.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: VIP (8+) HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/198530.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: VIP (9+) HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/198531.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: VIP (10+) HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/198522.m3u8
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: VIP
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/198521.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: VIP (1+)
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/198521.m3u8
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: ZEE CINEMA
+http://51.15.161.236:25461/live/nicsky/fuckface/2473.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: ZEE CINEMA (1+)
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/198317.ts
+
+#EXTINF:0 group-title="US: United States",US: 12 STRONG 2018 GEO
+https://bobmovies.net/hl/12.Strong.2018hd.m3u8
+
+#EXTINF:0 group-title="US: United States",US: 2 FAST 2 FURIOUS 2003
+https://bobmovies.net/hl/2.Fast.2.Furious.2003.m3u8
+
+#EXTINF:0 group-title="US: United States",US: 2036 ORIGIN UNKNOWN 2018 GEO
+https://bobmovies.net/hl/OriginUnknown.2018.m3u8
+
+#EXTINF:0 group-title="US: United States",US: 50 FIRST DATES 2004
+https://bobmovies.net/hl/50.First.Dates.2004.m3u8
+
+#EXTINF:0 group-title="US: United States",US: A QUIET PLACE 2018 GEO
+https://bobmovies.net/hl/A.Quiet.Place.2018.1080.m3u8
+
+#EXTINF:0 group-title="US: United States",US: ABRAHAM LINCOLN VAMPIRE HUNTER 2012
+https://bobmovies.net/hl/Abraham.Lincoln.Vampire.Hunter.2012new_360p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: AFN MOVIES
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/155607.ts
+
+#EXTINF:0 group-title="US: United States",US: ALADDIN 1992
+https://bobmovies.net/hl/Aladdin.1992.m3u8
+
+#EXTINF:0 group-title="US: United States",US: ALL EYEZ ON ME 2017 GEO
+https://bobmovies.net/hl/All_Eyez_on_Me_2017_n.m3u8
+
+#EXTINF:0 group-title="US: United States",US: ANNABELLE
+http://cdnvod.setv.ca/hls/Annabelle.2.Creation.2017.720p.BluRay.H264.AAC-RARBG.mp4/master.m3u8
+
+#EXTINF:0 group-title="US: United States",US: AVENGERS
+https://bobmovies.net/hl/Avengers_2_Age_of_Ultron_2015.m3u8
+
+#EXTINF:0 group-title="US: United States",US: BAD SANTA 2 2016 GEO
+https://bobmovies.net/hl/Bad_Santa_2_2016.m3u8
+
+#EXTINF:0 group-title="US: United States",US: BAD SANTA 2003
+https://bobmovies.net/hl/Bad.Santa.2003.m3u8
+
+#EXTINF:0 group-title="US: United States",US: BALTO 1995
+https://bobmovies.net/hl/Balto.1995.m3u8
+
+#EXTINF:0 group-title="US: United States",US: BATMAN & ROBIN 1997
+https://bobmovies.net/hl/Batman.and.Robin.1997.m3u8
+
+#EXTINF:0 group-title="US: United States",US: BATMAN & ROBIN 1997 (1+)
+https://bobmovies.net/hl/Batman.and.Robin.1997_720p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: BATMAN 1989
+https://bobmovies.net/hl/Batman.1989.m3u8
+
+#EXTINF:0 group-title="US: United States",US: BATMAN BEGINS 2005
+https://bobmovies.net/hl/Batman.Begins.2005.m3u8
+
+#EXTINF:0 group-title="US: United States",US: BATMAN FOREVER 1995
+https://bobmovies.net/hl/Batman.Forever.1995_720p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: BATMAN NINJA 2018 GEO
+https://bobmovies.net/hl/Batman.Ninja.2018.m3u8
+
+#EXTINF:0 group-title="US: United States",US: BATMAN RETURNS 1992
+https://bobmovies.net/hl/Batman.Returns.1992_720p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: BEAUTY AND THE BEAST 1991
+https://bobmovies.net/hl/Beauty.and.the.Beast.1991.m3u8
+
+#EXTINF:0 group-title="US: United States",US: BIG HERO 6 2014
+https://bobmovies.net/hl/Big.Hero.6.2014.m3u8
+
+#EXTINF:0 group-title="US: United States",US: BLACK PANTHER 2018 GEO
+https://bobmovies.net/hl/Black.Panther.2018.1080.m3u8
+
+#EXTINF:0 group-title="US: United States",US: BOX OFFICE MOVIES
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/74905.ts
+
+#EXTINF:0 group-title="US: United States",US: BOX OFFICE MOVIES (1+)
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/74905.m3u8
+
+#EXTINF:0 group-title="US: United States",US: BRAVEHEART 1995
+https://bobmovies.net/hl/Braveheart_1995.m3u8
+
+#EXTINF:0 group-title="US: United States",US: BUTCH CASSIDY AND THE SUNDANCE KID 1969
+https://bobmovies.net/hl/Butch_Cassidy_Sundance_Kid_1969.m3u8
+
+#EXTINF:0 group-title="US: United States",US: CARS 2 2011
+https://bobmovies.net/hl/Cars.2.2011.m3u8
+
+#EXTINF:0 group-title="US: United States",US: CARS 2006
+https://bobmovies.net/hl/Cars.2006.1080p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: CARS 3 2017 GEO
+https://bobmovies.net/hl/Cars_3_2017.m3u8
+
+#EXTINF:0 group-title="US: United States",US: CASINO 1995
+https://bobmovies.net/hl/Casino_1995.m3u8
+
+#EXTINF:0 group-title="US: United States",US: CATCH ME IF YOU CAN 2002
+https://bobmovies.net/hl/Catch_Me_If_You_Can_2002.m3u8
+
+#EXTINF:0 group-title="US: United States",US: CINE SONY
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/149932.ts
+
+#EXTINF:0 group-title="US: United States",US: CINE SONY (1+)
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/149932.m3u8
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 01 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/84375.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 02 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77658.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 03 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77657.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 04 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77656.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 05 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77655.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 06 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/84376.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 07 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77653.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 08 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77652.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 09 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77651.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 10 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77650.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 12 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77648.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 13 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77647.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 14 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77646.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 15 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77645.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 16 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77644.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 17 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77643.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 18 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77642.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 19 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77641.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 20 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77640.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 22 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77638.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 23 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77637.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 24 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77636.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 26 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77634.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 27 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/102055.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 28 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77632.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 29 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77631.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 29 PPV (1+)
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77631.m3u8
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 30 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77630.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 32 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77628.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 33 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77627.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 34 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77626.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 35 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77625.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 36 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77624.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 37 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77623.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 39 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77621.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMA 40 PPV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77620.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMAX HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/74917.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMAX 5 STAR MAX HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/74927.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMAX ACTION HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/65085.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMAX ACTION (1+) HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/65085.m3u8
+
+#EXTINF:0 group-title="US: United States",US: CINEMAX ACTION 2 HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77698.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMAX ACTOIN EAST
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/76560.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMAX MOREMAX HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/74853.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMAX THRILLER HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/103708.ts
+
+#EXTINF:0 group-title="US: United States",US: CINEMAX WEST HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/152997.ts
+
+#EXTINF:0 group-title="US: United States",US: COCO 2017 GEO
+https://bobmovies.net/hl/Coco.2017.DVDScr_720p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: COMMANDO 1985
+https://bobmovies.net/hl/Commando.1985.m3u8
+
+#EXTINF:0 group-title="US: United States",US: DARKEST HOUR 2017 GEO
+https://bobmovies.net/hl/Darkest.Hour.2017.WEB-DL.m3u8
+
+#EXTINF:0 group-title="US: United States",US: DAWN OF THE DEAD 2004
+https://bobmovies.net/hl/Dawn.of.the.Dead.2004.m3u8
+
+#EXTINF:0 group-title="US: United States",US: DAY OF THE DEAD 1985
+https://bobmovies.net/hl/Day.of.the.Dead.1985.m3u8
+
+#EXTINF:0 group-title="US: United States",US: DEADPOOL 2016
+https://bobmovies.net/hl/Deadpool_2016.m3u8
+
+#EXTINF:0 group-title="US: United States",US: DEATH WISH 2018 GEO
+https://bobmovies.net/hl/DeathWish.2018.m3u8
+
+#EXTINF:0 group-title="US: United States",US: DESCENDANTS 2 2017 GEO
+https://bobmovies.net/hl/Descendants_2_2017_HDRip.m3u8
+
+#EXTINF:0 group-title="US: United States",US: DJANGO UNCHAINED 2012
+https://bobmovies.net/hl/Django_2012.m3u8
+
+#EXTINF:0 group-title="US: United States",US: DOWNSIZING 2017 GEO
+https://bobmovies.net/hl/Downsizing.2017.m3u8
+
+#EXTINF:0 group-title="US: United States",US: ERAGON 2006
+https://bobmovies.net/hl/Eragon.2006.m3u8
+
+#EXTINF:0 group-title="US: United States",US: FINDING DORY 2016
+https://bobmovies.net/hl/Finding_Dory_2016.m3u8
+
+#EXTINF:0 group-title="US: United States",US: FINDING NEMO 2003
+https://bobmovies.net/hl/Finding.Nemo.2003.m3u8
+
+#EXTINF:0 group-title="US: United States",US: FINDING NEMO 2003 (1+)
+https://bobmovies.net/hl/Finding.Nemo.2003_720p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: FLATLINERS 2017 GEO
+https://bobmovies.net/hl/Flatliners.2017.m3u8
+
+#EXTINF:0 group-title="US: United States",US: FOX PREMIUM CINEMA
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+
+#EXTINF:0 group-title="US: United States",US: FOX PREMIUM CINEMA (1+)
+http://161.0.157.7/PLTV/88888888/224/3221226793/index.m3u8
+
+#EXTINF:0 group-title="US: United States",US: FOX PREMIUM MOVIES
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+
+#EXTINF:0 group-title="US: United States",US: FULL METAL JACKET 1987
+https://bobmovies.net/hl/Full_Metal_Jacket_1987.m3u8
+
+#EXTINF:0 group-title="US: United States",US: FUN MOM DINNER 2017 GEO
+https://bobmovies.net/hl/Fun_Mom_Dinner_2017.m3u8
+
+#EXTINF:0 group-title="US: United States",US: FURIOUS 7 2015
+https://bobmovies.net/hl/Furious_Seven_2015.m3u8
+
+#EXTINF:0 group-title="US: United States",US: GEOSTORM 2017 GEO
+https://bobmovies.net/hl/Geostorm.2017HDRip.m3u8
+
+#EXTINF:0 group-title="US: United States",US: GODZILLA
+https://bobmovies.net/hl/Godzilla.Monster.Planet.2017.WEBRip.m3u8
+
+#EXTINF:0 group-title="US: United States",US: GOLDENEYE 1995
+https://bobmovies.net/hl/James.Bond.GoldenEye.1995.m3u8
+
+#EXTINF:0 group-title="US: United States",US: GRAN TORINO 2008
+https://bobmovies.net/hl/Gran_Torino_2008_720p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: HALLMARK MOVIES & MYSTERIES HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77089.ts
+
+#EXTINF:0 group-title="US: United States",US: HALLOWEEN
+https://bobmovies.net/hl/Halloween.6.The.Curse.of.Michael.Myers.1995.m3u8
+
+#EXTINF:0 group-title="US: United States",US: HEAT 1995
+https://bobmovies.net/hl/Heat.1995.m3u8
+
+#EXTINF:0 group-title="US: United States",US: HELLRAISER
+https://bobmovies.net/hl/Hellraiser.Judgment.2018.m3u8
+
+#EXTINF:0 group-title="US: United States",US: HERCULES 1997
+https://bobmovies.net/hl/Hercules.1997.m3u8
+
+#EXTINF:0 group-title="US: United States",US: HICKOK 2017 GEO
+https://bobmovies.net/hl/Hickok_2017.m3u8
+
+#EXTINF:0 group-title="US: United States",US: HIDDEN FIGURES 2016
+https://bobmovies.net/hl/Hidden_Figures_2016.m3u8
+
+#EXTINF:0 group-title="US: United States",US: HOCUS POCUS 1993
+https://bobmovies.net/hl/Hocus.Pocus.1993.m3u8
+
+#EXTINF:0 group-title="US: United States",US: I CAN ONLY IMAGINE 2018 GEO
+https://bobmovies.net/hl/ICanOnlyImagine.2018.1080p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: ICE AGE
+https://bobmovies.net/hl/Ice.Age.The.Meltdown.2006.m3u8
+
+#EXTINF:0 group-title="US: United States",US: ICE AGE (1+)
+https://bobmovies.net/hl/Ice.Age.Continental.Drift.2012.m3u8
+
+#EXTINF:0 group-title="US: United States",US: ICE AGE (2+)
+https://bobmovies.net/hl/Ice.Age.Dawn.Of.The.Dinosaurs.2009.m3u8
+
+#EXTINF:0 group-title="US: United States",US: ICE AGE 2002
+https://bobmovies.net/hl/Ice.Age.2002.m3u8
+
+#EXTINF:0 group-title="US: United States",US: INCEPTION 2010
+https://bobmovies.net/hl/Inception_2010_360p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: INDEPENDENCE DAY
+https://bobmovies.net/hl/Independence_Day_Resurgence_2016.m3u8
+
+#EXTINF:0 group-title="US: United States",US: INDIANA JONES AND THE LAST CRUSADE 1989
+https://bobmovies.net/hl/Indiana_Jones_and_the_Last_Crusade_1989.m3u8
+
+#EXTINF:0 group-title="US: United States",US: INTERSTELLAR 2014
+https://bobmovies.net/hl/Interstellar_2014.m3u8
+
+#EXTINF:0 group-title="US: United States",US: IT 2017 GEO
+https://bobmovies.net/hl/IT.2017.EBRip.m3u8
+
+#EXTINF:0 group-title="US: United States",US: JASON BOURNE 2016
+https://bobmovies.net/hl/Jason_Bourne_2016.m3u8
+
+#EXTINF:0 group-title="US: United States",US: JEEPERS CREEPERS 2001
+https://bobmovies.net/hl/Jeepers.Creepers.2001.m3u8
+
+#EXTINF:0 group-title="US: United States",US: JEEPERS CREEPERS 3 2017 GEO
+https://bobmovies.net/hl/Jeepers_Creepers_3.2017.HDRip.m3u8
+
+#EXTINF:0 group-title="US: United States",US: JIGSAW 2017 GEO
+https://bobmovies.net/hl/Jigsaw.2017.WEB-DL.m3u8
+
+#EXTINF:0 group-title="US: United States",US: JUMANJI
+https://bobmovies.net/hl/Jumanji_2018_HDTS.m3u8
+
+#EXTINF:0 group-title="US: United States",US: JURASSIC WORLD
+https://bobmovies.net/hl/Jurassic.World.Fallen.Kingdom.2018.hddd_720p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: JUSTICE LEAGUE 2017 GEO
+https://bobmovies.net/hl/Justice.League.2017_hd.m3u8
+
+#EXTINF:0 group-title="US: United States",US: JUSTICE LEAGUE DARK 2017 GEO
+https://bobmovies.net/hl/Justice_League_Dark_2017_720p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: KINDERGARTEN COP 1990
+https://bobmovies.net/hl/Kindergarten.Cop.1990.m3u8
+
+#EXTINF:0 group-title="US: United States",US: KUNG FU PANDA 2 2011
+https://bobmovies.net/hl/Kung.Fu.Panda.2.2011.m3u8
+
+#EXTINF:0 group-title="US: United States",US: KUNG FU PANDA 2008
+https://bobmovies.net/hl/Kung.Fu.Panda.2008.m3u8
+
+#EXTINF:0 group-title="US: United States",US: KUNG FU PANDA 3 2016
+https://bobmovies.net/hl/Kung_Fu_Panda_3_2016.m3u8
+
+#EXTINF:0 group-title="US: United States",US: LAST ACTION HERO 1993
+https://bobmovies.net/hl/Last.Action.Hero.1993.m3u8
+
+#EXTINF:0 group-title="US: United States",US: LEFT BEHIND
+https://bobmovies.net/hl/VanishedLeftBehindNextGeneration.2016_720p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: LIFETIME MOVIE NETWORK HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/98308.ts
+
+#EXTINF:0 group-title="US: United States",US: LIFETIME MOVIES HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/76502.ts
+
+#EXTINF:0 group-title="US: United States",US: LINCOLN ONDEMANDMOVIES ENGLISH
+http://vd111.fastbroad.com/vdsoltv1/mp4:Lincoln.2012.720p.mp4/playlist.m3u8
+
+#EXTINF:0 group-title="US: United States",US: LOOPER 2012
+https://bobmovies.net/hl/Looper.2012.m3u8
+
+#EXTINF:0 group-title="US: United States",US: MISSION
+https://bobmovies.net/hl/Mission_Impossible_Rogue_Nation_2015.m3u8
+
+#EXTINF:0 group-title="US: United States",US: MONEYBALL 2011
+https://bobmovies.net/hl/Moneyball.2011_360p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: MOVIE MAX HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77688.ts
+
+#EXTINF:0 group-title="US: United States",US: MOVIE MAX (1+) HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77688.m3u8
+
+#EXTINF:0 group-title="US: United States",US: MOVIE PLEX HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77687.ts
+
+#EXTINF:0 group-title="US: United States",US: MOVISTAR ANTENA PUBLIC MOVIE CHANNELS ENGLISH
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_4_av-b.m3u8
+
+#EXTINF:0 group-title="US: United States",US: MULAN 1998
+https://bobmovies.net/hl/Mulan.1998.m3u8
+
+#EXTINF:0 group-title="US: United States",US: MURDER ON THE ORIENT EXPRESS 2017 GEO
+https://bobmovies.net/hl/Murder.on.the.Orient.Express.2017_HD.m3u8
+
+#EXTINF:0 group-title="US: United States",US: NAKED 2017 GEO
+https://bobmovies.net/hl/Naked_2017_WEBRip.m3u8
+
+#EXTINF:0 group-title="US: United States",US: NIGHT OF THE LIVING DEAD 1990
+https://bobmovies.net/hl/Night.Of.The.Living.Dead.1990.m3u8
+
+#EXTINF:0 group-title="US: United States",US: OKJA 2017 GEO
+https://bobmovies.net/hl/Okja_2017.m3u8
+
+#EXTINF:0 group-title="US: United States",US: PACIFIC RIM
+https://bobmovies.net/hl/Pacific.Rim.Uprising.2018.m3u8
+
+#EXTINF:0 group-title="US: United States",US: PACIFIC RIM (1+)
+https://bobmovies.net/hl/Pacific.Rim.Uprising.2018_720p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: PARAMOUNT
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/156796.ts
+
+#EXTINF:0 group-title="US: United States",US: PIRATES OF THE CARIBBEAN
+https://bobmovies.net/hl/Pirates_of_the_Caribbean_2017.m3u8
+
+#EXTINF:0 group-title="US: United States",US: POCAHONTAS 1995
+https://bobmovies.net/hl/Pocahontas.1995.m3u8
+
+#EXTINF:0 group-title="US: United States",US: POWER RANGERS 2017 GEO
+https://bobmovies.net/hl/Power_Rangers_2017_1080p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: ROBOCOP 1987
+https://bobmovies.net/hl/RoboCop.1987.m3u8
+
+#EXTINF:0 group-title="US: United States",US: SMURFS
+https://bobmovies.net/hl/Smurfs_The_Lost_Village_2017.m3u8
+
+#EXTINF:0 group-title="US: United States",US: SONY MOVIE CHANNEL HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/117736.ts
+
+#EXTINF:0 group-title="US: United States",US: SOUTH PARK
+https://bobmovies.net/hl/South.Park.Bigger.Longer.and.Uncut.1999.m3u8
+
+#EXTINF:0 group-title="US: United States",US: SPIDER MAN
+https://bobmovies.net/hl/Spider_Man_Homecoming_2017.m3u8
+
+#EXTINF:0 group-title="US: United States",US: SPIDER MAN 2 2004
+https://bobmovies.net/hl/Spider.Man.2.2004.m3u8
+
+#EXTINF:0 group-title="US: United States",US: SPIDER MAN 2002
+https://bobmovies.net/hl/Spider.Man.2002.m3u8
+
+#EXTINF:0 group-title="US: United States",US: SPIKE/PARAMOUNT HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/74845.ts
+
+#EXTINF:0 group-title="US: United States",US: STAR WARS THE FORCE AWAKENS 2015
+https://bobmovies.net/hl/Star_Wars_Episode_7_The_Force_Awakens_2015.m3u8
+
+#EXTINF:0 group-title="US: United States",US: STARZ CINEMA HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/76479.ts
+
+#EXTINF:0 group-title="US: United States",US: STARZ CINEMA (1+) HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/76479.m3u8
+
+#EXTINF:0 group-title="US: United States",US: STARZ CINEMA WEST HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77680.ts
+
+#EXTINF:0 group-title="US: United States",US: STARZ CINEMA WEST (1+) HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77680.m3u8
+
+#EXTINF:0 group-title="US: United States",US: SUICIDE SQUAD 2016
+https://bobmovies.net/hl/Suicide_Squad_2016.m3u8
+
+#EXTINF:0 group-title="US: United States",US: TCM PUBLIC MOVIE CHANNELS ENGLISH
+http://cw.tcm10.com.br:80/low/canal10.m3u8
+
+#EXTINF:0 group-title="US: United States",US: TED 2012
+https://bobmovies.net/hl/Ted.2012_720p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: TERMINATOR GENISYS 2015
+https://bobmovies.net/hl/Terminator_Genisys_2015.m3u8
+
+#EXTINF:0 group-title="US: United States",US: THE ABYSS 1989
+https://bobmovies.net/hl/The.Abyss.1989.m3u8
+
+#EXTINF:0 group-title="US: United States",US: THE AVENGERS 2012
+https://bobmovies.net/hl/The.Avengers.2012.m3u8
+
+#EXTINF:0 group-title="US: United States",US: THE BOSS BABY 2017 GEO
+https://bobmovies.net/hl/The_Boss_Baby_2017_WEB-DL.m3u8
+
+#EXTINF:0 group-title="US: United States",US: THE CIRCLE 2017 GEO
+https://bobmovies.net/hl/The_Circle_2017_1080p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: THE CLOVERFIELD PARADOX 2018 GEO
+https://bobmovies.net/hl/the.cloverfield.paradox.2018.m3u8
+
+#EXTINF:0 group-title="US: United States",US: THE DARK KNIGHT 2008
+https://bobmovies.net/hl/Batman.The.Dark.Knight.2008.m3u8
+
+#EXTINF:0 group-title="US: United States",US: THE DARK TOWER 2017 GEO
+https://bobmovies.net/hl/The_Dark_Tower_2017_hdd.m3u8
+
+#EXTINF:0 group-title="US: United States",US: THE DEATH OF SUPERMAN 2018 GEO
+https://bobmovies.net/hl/The.Death.Of.Superman.2018_720p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: THE FATE OF THE FURIOUS 2017 GEO
+https://bobmovies.net/hl/The_Fate_of_the_Furious_2017_1080p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: THE HELP 2011
+https://bobmovies.net/hl/The_Help_2011.m3u8
+
+#EXTINF:0 group-title="US: United States",US: THE LION KING 2
+https://bobmovies.net/hl/The.Lion.King.2.Simbas.Pride.1998.m3u8
+
+#EXTINF:0 group-title="US: United States",US: THE SECRET LIFE OF WALTER MITTY 2013
+https://bobmovies.net/hl/The.Secret.Life.of.Walter.Mitty.2013new.m3u8
+
+#EXTINF:0 group-title="US: United States",US: THE SHAPE OF WATER 2017 GEO
+https://bobmovies.net/hl/The.Shape.of.Water.2017.m3u8
+
+#EXTINF:0 group-title="US: United States",US: THERE WILL BE BLOOD 2007
+https://bobmovies.net/hl/The_Prestige_2006_360p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: THOR
+https://bobmovies.net/hl/Thor.Ragnarok.2017.web.m3u8
+
+#EXTINF:0 group-title="US: United States",US: TOY STORY 2 1999
+https://bobmovies.net/hl/Toy.Story.2.1999.m3u8
+
+#EXTINF:0 group-title="US: United States",US: TOY STORY 3 2010
+https://bobmovies.net/hl/Toy_story_3_2010.m3u8
+
+#EXTINF:0 group-title="US: United States",US: TRANSFORMERS
+https://bobmovies.net/hl/Transformers.Revenge.Of.The.Fallen.2009.m3u8
+
+#EXTINF:0 group-title="US: United States",US: UNFORGIVEN 1992
+https://bobmovies.net/hl/Unforgiven_1992.m3u8
+
+#EXTINF:0 group-title="US: United States",US: UNTHINKABLE 2010
+https://bobmovies.net/hl/Unthinkable.2010_720p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: VALERIAN AND THE CITY OF A THOUSAND PLANETS 2017 GEO
+https://bobmovies.net/hl/ValerianandtheCityofaThousandPlanets2017_HD.m3u8
+
+#EXTINF:0 group-title="US: United States",US: WAR FOR THE PLANET OF THE APES 2017 GEO
+https://bobmovies.net/hl/War.For.The.Planet.Of.The.Apes.2017nn.m3u8
+
+#EXTINF:0 group-title="US: United States",US: WHEN WE FIRST MET 2018 GEO
+https://bobmovies.net/hl/When.We.First.Met.2018.m3u8
+
+#EXTINF:0 group-title="US: United States",US: WHIPLASH 2014
+https://bobmovies.net/hl/Whiplash_2014_720p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: WISH UPON 2017
+http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8
+
+#EXTINF:0 group-title="US: United States",US: WRECK IT RALPH 2012
+https://bobmovies.net/hl/Wreck.it.Ralph.2012_720p.m3u8
+
+#EXTINF:0 group-title="US: United States",US: ZEE CINEMA
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/137671.ts
+
+#EXTINF:0 group-title="WW: World Wide",WW: MOVEE 4YOU
+http://tvpremiumhd.club/lista-gratuita/210002/on/lives.php?id=nimble.dashmedia.tv/onestudio/movee4u/playlist.ts
+
+#EXTINF:0 group-title="WW: World Wide",WW: MOVEE 4YOU (1+)
+http://tvpremiumhd.club/lista-gratuita/212829/on/lives.php?id=nimble.dashmedia.tv/onestudio/movee4u/playlist.ts
+
+#EXTINF:0 group-title="_: _",_: CAR
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/197148.ts
+
+#EXTINF:0 group-title="_: _",_: CAR (1+)
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/197149.ts
+
+#EXTINF:0 group-title="_: _",_: CINE
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:0 group-title="_: _",_: CINE (1+)
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/eurochannel.php/%20index.m3u8
+
+#EXTINF:0 group-title="_: _",_: CINE MO VIP
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/198655.ts
+
+#EXTINF:0 group-title="_: _",_: CINE VOICE
+http://tvpremiumhd.club/lista-gratuita/210002/on/live.php?id=live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.ts
+
+#EXTINF:0 group-title="_: _",_: CINECANAL
+http://tvpremiumhd.club/lista-gratuita/210002/on/lo/430.ts
+
+#EXTINF:0 group-title="_: _",_: CINEMA ACTION & ADVENTURE HD
+http://51.15.161.236:25461/live/nicsky/fuckface/1051.ts
+
+#EXTINF:0 group-title="_: _",_: CINEMA DISNEY HD
+http://51.15.161.236:25461/live/nicsky/fuckface/1054.ts
+
+#EXTINF:0 group-title="_: _",_: CINEMA DRAMA AND ROMANCE HD
+http://51.15.161.236:25461/live/nicsky/fuckface/1055.ts
+
+#EXTINF:0 group-title="_: _",_: CINEMA HITS HD
+http://51.15.161.236:25461/live/nicsky/fuckface/1059.ts
+
+#EXTINF:0 group-title="_: _",_: CINEMA MODERN GREATS HD
+http://51.15.161.236:25461/live/nicsky/fuckface/1057.ts
+
+#EXTINF:0 group-title="_: _",_: CINEMA PREMIERE HD
+http://51.15.161.236:25461/live/nicsky/fuckface/1052.ts
+
+#EXTINF:0 group-title="_: _",_: CINEMA SELECT HD
+http://51.15.161.236:25461/live/nicsky/fuckface/1060.ts
+
+#EXTINF:0 group-title="_: _",_: CINEMAX
+http://tvpremiumhd.club/lista-gratuita/210002/on/lo/481.ts
+
+#EXTINF:0 group-title="_: _",_: CINEMAX (1+)
+http://tvpremiumhd.club/lista-gratuita/212829/on/live.php?id=aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/1384.ts
+
+#EXTINF:0 group-title="_: _",_: CINEMAX CALIDAD LISTA PRIVADA HD
+http://tvpremiumhd.club/lista-gratuita/210002/on/lof/481.ts
+
+#EXTINF:0 group-title="_: _",_: CINEVISION CANAL 19
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/116121.ts
+
+#EXTINF:0 group-title="_: _",_: DIRECTV CINEMA
+http://tvpremiumhd.club/lista-gratuita/210002/tv/v/1243.ts
+
+#EXTINF:0 group-title="_: _",_: DISCOVERY THEATER HD
+http://tvpremiumhd.club/lista-gratuita/210002/on/lo/351.ts
+
+#EXTINF:0 group-title="_: _",_: DMOVIES 3 HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/197621.ts
+
+#EXTINF:0 group-title="_: _",_: FOX MOVIES (1+)
+http://tvpremiumhd.club/lista-gratuita/212829/on/live.php?id=aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/604.ts
+
+#EXTINF:0 group-title="_: _",_: FOX MOVIES CALIDAD LISTA PRIVADA HD
+http://tvpremiumhd.club/lista-gratuita/210002/on/lof/417.ts
+
+#EXTINF:0 group-title="_: _",_: FOX PREMIUM CINEMA
+http://161.0.157.9/PLTV/88888888/224/3221226793/index.m3u8
+
+#EXTINF:0 group-title="_: _",_: JALSA MOVIES
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/101956.ts
+
+#EXTINF:0 group-title="_: _",_: KURD MOVIES HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/127314.ts
+
+#EXTINF:0 group-title="_: _",_: MOVIES4MEN
+http://51.15.161.236:25461/live/nicsky/fuckface/2338.ts
+
+#EXTINF:0 group-title="_: _",_: PARAMOUNT CHANNEL
+http://stream.euroasia.lfstrm.tv/paramount_channel/1/index.m3u8
+
+#EXTINF:0 group-title="_: _",_: PLATINIUM HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/275.m3u8
+
+#EXTINF:0 group-title="_: _",_: PLATINIUM (2+) HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/278.m3u8
+
+#EXTINF:0 group-title="_: _",_: PLATINIUM
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/262.m3u8
+
+#EXTINF:0 group-title="_: _",_: PLATINIUM (1+)
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/270.m3u8
+
+#EXTINF:0 group-title="_: _",_: PLATINIUM (2+)
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/272.m3u8
+
+#EXTINF:0 group-title="_: _",_: RAI MOVIE
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8
+
+#EXTINF:0 group-title="_: _",_: ROTANA CINEMA
+http://www.freeiptvdaily.net:8000/live/3927980/8246578/24.ts
+
+#EXTINF:0 group-title="_: _",_: ROTANA CINEMA (1+)
+http://www.freeiptvdaily.net:8000/live/3927980/8246578/24.m3u8
+
+#EXTINF:0 group-title="_: _",_: SKY CINEMA COMEDY HD
+http://51.15.161.236:25461/live/nicsky/fuckface/1062.ts
+
+#EXTINF:0 group-title="_: _",_: SKY MOVIES COMEDY
+http://51.15.161.236:25461/live/nicsky/fuckface/198.ts
+
+#EXTINF:0 group-title="_: _",_: SKY MOVIES DISNEY
+http://51.15.161.236:25461/live/nicsky/fuckface/200.ts
+
+#EXTINF:0 group-title="_: _",_: SKY MOVIES FAMILY
+http://51.15.161.236:25461/live/nicsky/fuckface/202.ts
+
+#EXTINF:0 group-title="_: _",_: SKY MOVIES GREATS
+http://51.15.161.236:25461/live/nicsky/fuckface/740.ts
+
+#EXTINF:0 group-title="_: _",_: SKY MOVIES PREMIERE
+http://51.15.161.236:25461/live/nicsky/fuckface/204.ts
+
+#EXTINF:0 group-title="_: _",_: SKY MOVIES SELECT
+http://51.15.161.236:25461/live/nicsky/fuckface/207.ts
+
+#EXTINF:0 group-title="_: _",_: SKY MOVIES THRILLER
+http://51.15.161.236:25461/live/nicsky/fuckface/199.ts
+
+#EXTINF:0 group-title="_: _",_: SLO HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/93124.ts
+
+#EXTINF:0 group-title="_: _",_: SLO
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/176211.ts
+
+#EXTINF:0 group-title="_: _",_: SLO (1+)
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/176212.ts
+
+#EXTINF:0 group-title="_: _",_: SLO (2+)
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/176211.m3u8
+
+#EXTINF:0 group-title="_: _",_: SONY MOVIES
+http://51.15.161.236:25461/live/nicsky/fuckface/2337.ts
