@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:0,ATV
+#EXTVLCOPT:network-caching=1000
+http://85.132.81.184:8080/atv-4/index.m3u8
+#EXTINF:0,ATV
+#EXTVLCOPT:network-caching=1000
+http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8
+#EXTINF:0,MUZ TV [576p]
+#EXTVLCOPT:network-caching=1000
+http://85.132.78.6:1935/live/muztv.stream/index.m3u8
+#EXTINF:0,MUZ TV [576p]
+#EXTVLCOPT:network-caching=1000
+http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8
