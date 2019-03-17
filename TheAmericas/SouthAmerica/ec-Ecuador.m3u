@@ -1,0 +1,34 @@
+#EXTM3U
+#EXTINF:0,Canela TV
+#EXTVLCOPT:network-caching=1000
+http://servicioamerica.com:1935/8200/8200/playlist.m3u8
+#EXTINF:0,Centro Ecuador
+#EXTVLCOPT:network-caching=1000
+http://unsecure.streann.com/loadbalancer/services/public/channels/57cef28b2cdc6843385b86ce/playlist.m3u8
+#EXTINF:0,Ecuavisa HD
+#EXTVLCOPT:network-caching=1000
+http://elcanaldelfutbol.com/static/wowza/test/hls/20001/720p/playlist.m3u8
+#EXTINF:0,Ecuavisa SD
+#EXTVLCOPT:network-caching=1000
+http://elcanaldelfutbol.com/static/wowza/test/hls/20001/480p/playlist.m3u8
+#EXTINF:0,Hechos Ecuador
+#EXTVLCOPT:network-caching=1000
+http://37.187.7.106/hechostv/live.m3u8?fluxustv.m3u8
+#EXTINF:0,TC (Alt) HD
+#EXTVLCOPT:network-caching=1000
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
+#EXTINF:0,TC [480p]
+#EXTVLCOPT:network-caching=1000
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
+#EXTINF:0,TC [720p]
+#EXTVLCOPT:network-caching=1000
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
+#EXTINF:0,TC SD
+#EXTVLCOPT:network-caching=1000
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
+#EXTINF:0,UCSG
+#EXTVLCOPT:network-caching=1000
+http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
+#EXTINF:0,UCSG
+#EXTVLCOPT:network-caching=1000
+http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
