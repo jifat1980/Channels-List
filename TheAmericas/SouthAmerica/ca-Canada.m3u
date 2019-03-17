@@ -1,0 +1,130 @@
+#EXTM3U
+#EXTINF:0,Assemblee Nationale du Quebec (French)
+#EXTVLCOPT:network-caching=1000
+http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
+#EXTINF:0,BBC Toronto Gaunda Punjab
+#EXTVLCOPT:network-caching=1000
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:0,CANADA STAR TV [720p]
+#EXTVLCOPT:network-caching=1000
+http://981680400.publishstream.fdccdn.net/P981680400/canadastartv/playlist.m3u8
+#EXTINF:0,CATV [720p]
+#EXTVLCOPT:network-caching=1000
+http://192.226.228.32:8080/hls/catv/index.m3u8
+#EXTINF:0,CBC CANADA
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.50/PLTV/88888888/224/3221227004/01.m3u8
+#EXTINF:0,CBC CANADA
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.38/PLTV/88888888/224/3221227004/index.m3u8
+#EXTINF:0,CBC CANADA
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8
+#EXTINF:0,CBC CANADA
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.5/PLTV/88888888/224/3221227004/index.m3u8
+#EXTINF:0,CBC CANADA [480p]
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8
+#EXTINF:0,CBC Radio 2
+#EXTVLCOPT:network-caching=1000
+http://liveradiocanada.cbc.ca/i/CBCR2_TOR@382863/master.m3u8
+#EXTINF:0,CBC Radio 2
+#EXTVLCOPT:network-caching=1000
+http://liveradiocanada.cbc.ca/i/CBCR2_TOR@382863/master.m3u8
+#EXTINF:0,CBC Radio One
+#EXTVLCOPT:network-caching=1000
+http://liveradio.cbc.ca/i/CBCR1_OTT@348188/master.m3u8
+#EXTINF:0,CBC Radio One
+#EXTVLCOPT:network-caching=1000
+http://liveradio.cbc.ca/i/CBCR1_OTT@348188/master.m3u8
+#EXTINF:0,CBC Television
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.50/PLTV/88888888/224/3221227004/index.m3u8
+#EXTINF:0,CBC Television
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8?fluxustv.m3u8
+#EXTINF:0,CPAC
+#EXTVLCOPT:network-caching=1000
+http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
+#EXTINF:0,CPAC [720p]
+#EXTVLCOPT:network-caching=1000
+http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
+#EXTINF:0,CPAC Francais
+#EXTVLCOPT:network-caching=1000
+http://bcoveliveios-i.akamaihd.net/hls/live/248520/1242843915001_2/master.m3u8
+#EXTINF:0,CTV News Live 1 [720p]
+#EXTVLCOPT:network-caching=1000
+http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8
+#EXTINF:0,CTV News Live 2 [720p]
+#EXTVLCOPT:network-caching=1000
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8
+#EXTINF:0,CTV News Live 3 [720p]
+#EXTVLCOPT:network-caching=1000
+http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8
+#EXTINF:0,CTV News Live 4 [720p]
+#EXTVLCOPT:network-caching=1000
+http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
+#EXTINF:0,FEVA TV
+#EXTVLCOPT:network-caching=1000
+https://vcnfevatv.teleosmedia.com/stream/fevatv/fevatv/seglist_720p.m3u8
+#EXTINF:0,L'Assemblée nationale du Québec
+#EXTVLCOPT:network-caching=1000
+http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
+#EXTINF:0,LIFE TV [720p]
+#EXTVLCOPT:network-caching=1000
+https://d9ruw6nhj5a52.cloudfront.net/live/smil:VODmultibitrate.smil/chunklist_wF1TV_b3000000_sleng.m3u8
+#EXTINF:0,PRIME ASIA TV
+#EXTVLCOPT:network-caching=1000
+http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
+#EXTINF:0,PRIME CANADA TV
+#EXTVLCOPT:network-caching=1000
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
+#EXTINF:0,Punjabi TV Canada
+#EXTVLCOPT:network-caching=1000
+http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
+#EXTINF:0,SAGAR TV
+#EXTVLCOPT:network-caching=1000
+http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
+#EXTINF:0,Salt + Light Television
+#EXTVLCOPT:network-caching=1000
+http://livestream.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
+#EXTINF:0,SARDARI TV
+#EXTVLCOPT:network-caching=1000
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+#EXTINF:0,Space
+#EXTVLCOPT:network-caching=1000
+http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2c776/index/2176f3ac/live/stream/h264/v1/3500000/manifest.m3u8
+#EXTINF:0,SPACE
+#EXTVLCOPT:network-caching=1000
+http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2c776/index/2176f3ac/live/stream/h264/v1/3500000/manifest.m3u8
+#EXTINF:0,SPORTNET EAST CANADA SPORT CA
+#EXTVLCOPT:network-caching=1000
+http://rogerslive-i.akamaihd.net/hls/live/202800/event/index.m3u8
+#EXTINF:0,TAMIL VISION
+#EXTVLCOPT:network-caching=1000
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+#EXTINF:0,TEHLKA
+#EXTVLCOPT:network-caching=1000
+http://162.244.80.110:1935/amarpadda1/live/livestream/chunklist.m3u8
+#EXTINF:0,Tele-Quebec
+#EXTVLCOPT:network-caching=1000
+https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
+#EXTINF:0,The Shopping Channel
+#EXTVLCOPT:network-caching=1000
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:0,TORONTO 360 TV
+#EXTVLCOPT:network-caching=1000
+http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
+#EXTINF:0,TV PUNJAB
+#EXTVLCOPT:network-caching=1000
+http://cdn.samtv.ca/tvpunjab/index.m3u8
+#EXTINF:0,URDU TV TORONTO
+#EXTVLCOPT:network-caching=1000
+http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
+#EXTINF:0,VBS
+#EXTVLCOPT:network-caching=1000
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w1847269952_b204800.m3u8
+#EXTINF:0,VBS (WS)
+#EXTVLCOPT:network-caching=1000
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w530158239_b1228800.m3u8
