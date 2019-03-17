@@ -1,0 +1,40 @@
+#EXTM3U
+#EXTINF:0,Canal 36 Limon
+#EXTVLCOPT:network-caching=1000
+http://servicioamerica.com:1935/8022/8022/playlist.m3u8
+#EXTINF:0,Canal UCR
+#EXTVLCOPT:network-caching=1000
+http://163.178.170.181:1935/envivo/envivo/playlist.m3u8
+#EXTINF:0,CTNI [480p]
+#EXTVLCOPT:network-caching=1000
+http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8
+#EXTINF:0,Extrema TV
+#EXTVLCOPT:network-caching=1000
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:0,HBTV TICAVISION [880p]
+#EXTVLCOPT:network-caching=1000
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:0,Multimedios Costa Rica
+#EXTVLCOPT:network-caching=1000
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
+#EXTINF:0,Musica Urbana
+#EXTVLCOPT:network-caching=1000
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-034/chunklist.m3u8
+#EXTINF:0,NICOYA TV
+#EXTVLCOPT:network-caching=1000
+http://k4.usastreams.com/nicoyatv/nicoyatv/chunklist_w1409466758.m3u8
+#EXTINF:0,Nicoya TV
+#EXTVLCOPT:network-caching=1000
+http://k4.usastreams.com/nicoyatv/nicoyatv/chunklist_w1409466758.m3u8
+#EXTINF:0,Super Cinco SD
+#EXTVLCOPT:network-caching=1000
+http://k4.usastreams.com/superC/superC_1/chunklist_w27246718.m3u8
+#EXTINF:0,Telesur
+#EXTVLCOPT:network-caching=1000
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:0,TV Sur Canal 14
+#EXTVLCOPT:network-caching=1000
+http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
+#EXTINF:0,TV Sur SD
+#EXTVLCOPT:network-caching=1000
+http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
