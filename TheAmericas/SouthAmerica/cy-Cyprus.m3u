@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:0,ART
+#EXTVLCOPT:network-caching=1000
+http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
+#EXTINF:0,Capital
+#EXTVLCOPT:network-caching=1000
+http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-htvcapital-hsslive-25f-4x3-SDh/chunklist.m3u8
+#EXTINF:0,DEEJAY RADIO 93.5
+#EXTVLCOPT:network-caching=1000
+http://eradio.networksolutions.com.cy:1935/DeeJay/DeeJay.stream/playlist.m3u8
+#EXTINF:0,ERT WORLD
+#EXTVLCOPT:network-caching=1000
+http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-ertworld-hsslive-25f-4x3-SDh/chunklist.m3u8
+#EXTINF:0,FAROS on Air
+#EXTVLCOPT:network-caching=1000
+http://master.cystreams.com:25461/live/faros/farostv/1866.m3u8
+#EXTINF:0,LOVE FM 100.7
+#EXTVLCOPT:network-caching=1000
+http://eradio.networksolutions.com.cy:1935/LoveRadio/Loveradio.stream/playlist.m3u8
+#EXTINF:0,OMEGA
+#EXTVLCOPT:network-caching=1000
+http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-mega-hsslive-25f-4x3-SDh/chunklist.m3u8
+#EXTINF:0,Plus
+#EXTVLCOPT:network-caching=1000
+http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-plus_tv-hsslive-25f-4x3-SDh/chunklist.m3u8
+#EXTINF:0,RIKSAT
+#EXTVLCOPT:network-caching=1000
+http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:0,SIGMA
+#EXTVLCOPT:network-caching=1000
+http://81.21.47.74/hls/live.m3u8
