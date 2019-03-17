@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:0,KKRtv
+#EXTVLCOPT:network-caching=1000
+http://stream.kkr.dk/live/ngrp:kkr_adaptive/playlist.m3u8
+#EXTINF:0,KKR TV
+#EXTVLCOPT:network-caching=1000
+http://stream.kkr.dk/live/ngrp:kkr_adaptive/chunklist_w184691500_b1628000.m3u8
+#EXTINF:0,TV Syd
+#EXTVLCOPT:network-caching=1000
+http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/t/ut3_n5VQ1FqzlqMhwbQmJg/index-s32.m3u8
+#EXTINF:0,TV Syd
+#EXTVLCOPT:network-caching=1000
+http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/t/ut3_n5VQ1FqzlqMhwbQmJg/index-s32.m3u8
+#EXTINF:0,TV Syd
+#EXTVLCOPT:network-caching=1000
+http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/t/ut3_n5VQ1FqzlqMhwbQmJg/index-s32.m3u8
+#EXTINF:0,TV2 Bomholm (Dinamarca)
+#EXTVLCOPT:network-caching=1000
+http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
+#EXTINF:0,TV2 BORNHOLM
+#EXTVLCOPT:network-caching=1000
+http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
+#EXTINF:0,TV2 Fyn
+#EXTVLCOPT:network-caching=1000
+http://cdn-lt-hls-vod.tv2fyn.dk/fhls/p/1966291/sp/196629100/serveFlavor/entryId/0_yct7rqn3/v/2/flavorId/0_h2wfmuqm/name/a.mp4/index.m3u8
+#EXTINF:0,TV2 Lorry
+#EXTVLCOPT:network-caching=1000
+http://cdn-lt-hls-vod.tv2lorry.dk/fhls/p/2045321/sp/204532100/serveFlavor/entryId/0_0u9letdh/v/1/flavorId/0_p5f7q6yf/name/a.mp4/index.m3u8
