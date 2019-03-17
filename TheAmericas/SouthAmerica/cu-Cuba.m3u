@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:0,MARTI [540p]
+#EXTVLCOPT:network-caching=1000
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+#EXTINF:0,CU: DISCOVERY SCIENCE UHD
+#EXTVLCOPT:network-caching=1000
+http://kimbogrupol.com:25461/julian/julian1/17260
+#EXTINF:0,CU: ID UHD
+#EXTVLCOPT:network-caching=1000
+http://kimbogrupol.com:25461/julian/julian1/17253
+#EXTINF:0,CU: DISCOVERY TURBO UHD
+#EXTVLCOPT:network-caching=1000
+http://kimbogrupol.com:25461/julian/julian1/17257
+#EXTINF:0,CU: DISCOVERY WORLD UHD
+#EXTVLCOPT:network-caching=1000
+http://kimbogrupol.com:25461/julian/julian1/17258
+#EXTINF:0,CU: DISCOVERY THEATER UHD
+#EXTVLCOPT:network-caching=1000
+http://kimbogrupol.com:25461/julian/julian1/17259
+#EXTINF:0,CU: HISTORY CHANNEL UHD
+#EXTVLCOPT:network-caching=1000
+http://kimbogrupol.com:25461/julian/julian1/17267
+#EXTINF:0,CU: DISCOVERY ID UHD
+#EXTVLCOPT:network-caching=1000
+http://kimbogrupol.com:25461/julian/julian1/17338
+#EXTINF:0,CU: HISTORY UHD
+#EXTVLCOPT:network-caching=1000
+http://kimbogrupol.com:25461/julian/julian1/17339
+#EXTINF:0,CU: NATGEO MUNDO (USA) español
+#EXTVLCOPT:network-caching=1000
+http://kimbogrupol.com:25461/julian/julian1/17370
