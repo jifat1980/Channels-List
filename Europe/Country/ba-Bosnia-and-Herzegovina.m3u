@@ -1,0 +1,58 @@
+#EXTM3U
+#EXTINF:0,777 Tehnika TV
+#EXTVLCOPT:network-caching=1000
+http://109.123.70.27:1935/tehnikatv777/tehnikatv777/playlist.m3u8
+#EXTINF:0,Al Jazeera Balkans
+#EXTVLCOPT:network-caching=1000
+http://aljazeera-balkans-apple-live.adaptive.level3.net/apple/aljazeera/balkans/800.m3u8
+#EXTINF:0,AL JAZEERA BALKANS [1080p]
+#EXTVLCOPT:network-caching=1000
+http://178.132.6.97:/JazzeraAL1/tracks-v1a1/index.m3u8
+#EXTINF:0,AL JAZEERA BALKANS [360p]
+#EXTVLCOPT:network-caching=1000
+http://aljazeera-balkans-apple-live.adaptive.level3.net/apple/aljazeera/balkans/800.m3u8
+#EXTINF:0,BNTV Bosnia SD
+#EXTVLCOPT:network-caching=1000
+http://tvstream.rtvbn.com:1935/live/stream/chunklist_w1957700324.m3u8
+#EXTINF:0,Hidayah-Bosnian
+#EXTVLCOPT:network-caching=1000
+http://62.210.141.179:8000/live/ibrahim/123456/58.m3u8
+#EXTINF:0,K3 Prnjavor [720p]
+#EXTVLCOPT:network-caching=1000
+http://178.132.6.97:8080/k3tv1/tracks-v1a1/index.m3u8
+#EXTINF:0,RTV 7 Tuzla
+#EXTVLCOPT:network-caching=1000
+http://178.132.6.97:8080/TV7TUZLA1/tracks-v1a1/index.m3u8
+#EXTINF:0,RTV Bugojno
+#EXTVLCOPT:network-caching=1000
+http://178.132.6.97:8080/TVBugojno1/playlist.m3u8
+#EXTINF:0,RTV TK
+#EXTVLCOPT:network-caching=1000
+http://178.132.6.97:8080/TVTK1/tracks-v1a1/index.m3u8
+#EXTINF:0,RTV Vikom [288p]
+#EXTVLCOPT:network-caching=1000
+http://178.132.6.97:8080/a1vikom1/tracks-v1a1/index.m3u8
+#EXTINF:0,RTV Zenica
+#EXTVLCOPT:network-caching=1000
+http://178.132.6.97:8080/RTVZenica1/index.m3u8
+#EXTINF:0,SLON Extra
+#EXTVLCOPT:network-caching=1000
+http://178.132.6.97:8080/RTV:SLON1/tracks-v1a1/index.m3u8
+#EXTINF:0,TELEVIZIJA 5
+#EXTVLCOPT:network-caching=1000
+http://37.59.21.217:8809/live/tv5web.m3u8
+#EXTINF:0,Televizija 5
+#EXTVLCOPT:network-caching=1000
+http://37.59.21.217:8809/live/tv5web.m3u8
+#EXTINF:0,Top Sound
+#EXTVLCOPT:network-caching=1000
+http://tvstream.tvtopsound.com:1935/live/ngrp:mpegts.stream_all/playlist.m3u8
+#EXTINF:0,TUZLANSKI KANTON
+#EXTVLCOPT:network-caching=1000
+http://178.132.6.97:8080/TVTK1/index.m3u8
+#EXTINF:0,TV Vogosca
+#EXTVLCOPT:network-caching=1000
+http://178.132.6.97:8080/TVVogosca1/playlist.m3u8
+#EXTINF:0,TVSA HD
+#EXTVLCOPT:network-caching=1000
+http://178.132.6.97:8080/BA:TVSarajevo1/playlist.m3u8
