@@ -1,0 +1,103 @@
+#EXTM3U
+#EXTINF:0,---------------------------  Cultura  ---------------------------
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/7853.m3u8
+#EXTINF:0,ANIMAL PLANET
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2348.m3u8
+#EXTINF:0,DISCOVERY CH
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2298.m3u8
+#EXTINF:0,DISCOVERY CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2294.m3u8
+#EXTINF:0,DISCOVERY CIVILIZATION
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2335.m3u8
+#EXTINF:0,DISCOVERY SCIENCE
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2227.m3u8
+#EXTINF:0,DISCOVERY THEATER
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2241.m3u8
+#EXTINF:0,FHD:ANIMAL PLANET
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1682.m3u8
+#EXTINF:0,FHD:DISCOVERY CH
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1768.m3u8
+#EXTINF:0,FHD:DISCOVERY SHED EN
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1742.m3u8
+#EXTINF:0,FHD:DISCOVERY THEATER
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1674.m3u8
+#EXTINF:0,FHD:DISCOVERY WORLD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1716.m3u8
+#EXTINF:0,FHD:HISTORY
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1721.m3u8
+#EXTINF:0,FHD:LIFETIME
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1646.m3u8
+#EXTINF:0,FHD:NAT GEO
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1776.m3u8
+#EXTINF:0,FHD:NAT GEO MUNDO
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1729.m3u8
+#EXTINF:0,FHD:NAT GEO WILD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1775.m3u8
+#EXTINF:0,H2
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2318.m3u8
+#EXTINF:0,A&E MUNDO (HD)
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1886.m3u8
+#EXTINF:0,ANIMAL PLANET (HD)
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1884.m3u8
+#EXTINF:0,HD:DISCOVERY CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1864.m3u8
+#EXTINF:0,HD:DISCOVERY SCIENCE
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1861.m3u8
+#EXTINF:0,HD:DISCOVERY THEATER
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1860.m3u8
+#EXTINF:0,HD:DISCOVERY WORLD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1859.m3u8
+#EXTINF:0,HD:H2
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1833.m3u8
+#EXTINF:0,HD:HISTORY CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1829.m3u8
+#EXTINF:0,HD:LIFETIME
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1823.m3u8
+#EXTINF:0,HD:NATGEO
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1816.m3u8
+#EXTINF:0,HD:NATGEO WILD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1814.m3u8
+#EXTINF:0,HISTORY CH
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2300.m3u8
+#EXTINF:0,History Channel
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2154.m3u8
+#EXTINF:0,LIFETIME
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2357.m3u8
+#EXTINF:0,NAT GEO WILD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2308.m3u8
+#EXTINF:0,Nat Geo
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2149.m3u8
