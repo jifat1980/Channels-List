@@ -1,0 +1,21 @@
+#EXTINF:0,---------------------------  Venezuela  ---------------------------
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/7860.m3u8
+#EXTINF:0,VE:GLOBOVISION
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2223.m3u8
+#EXTINF:0,VE:TELEVEN
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/963.m3u8
+#EXTINF:0,VE:MERIDIANO
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/29109.m3u8
+#EXTINF:0,VE:VENEVISION
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/962.m3u8
+#EXTINF:0,VE:VENEVISION PLUS
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/965.m3u8
+#EXTINF:0,VE:VPI
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/966.m3u8
