@@ -1,358 +1,473 @@
 #EXTM3U
-#EXTINF:0,---------------------------  Cinema  ---------------------------
-#EXTVLCOPT:network-caching=1000
-http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/7854.m3u8
 #EXTINF:0,AMC (FHD)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1785.m3u8
 #EXTINF:0,AMC (HD)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1885.m3u8
 #EXTINF:0,AMC (SD)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2354.m3u8
 #EXTINF:0,AZTECA CINEMA  (FHD)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1647.m3u8
 #EXTINF:0,AZTECA CINEMA (FHD) op2
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2205.m3u8
 #EXTINF:0,CINE LATINO (SD)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2266.m3u8
 #EXTINF:0,CINECANAL (FHD)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1769.m3u8
 #EXTINF:0,CINECANAL (HQ)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1875.m3u8
 #EXTINF:0,CINECANAL (SD)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2181.m3u8
 #EXTINF:0,CINELATINO (HQ)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1874.m3u8
 #EXTINF:0,CINELATINO (HQ) op2
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1873.m3u8
 #EXTINF:0,CINEMA DINAMITA (SD)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2267.m3u8
+#EXTINF:0,CINEMA DINAMITA op6
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2180.m3u8
 #EXTINF:0,CINEMAX  (FHD)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1602.m3u8
 #EXTINF:0,CINEMAX (FHD) op2
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1720.m3u8
 #EXTINF:0,CINEMAX (HQ)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1872.m3u8
 #EXTINF:0,CINEMAX (SD)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2179.m3u8
 #EXTINF:0,CINEMAX ACTION  (FHD)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1604.m3u8
 #EXTINF:0,CINEMAX EAST  (FHD)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1603.m3u8
 #EXTINF:0,CLARO CINEMA (SD)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2177.m3u8
 #EXTINF:0,DE PELICULA (FHD)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1715.m3u8
 #EXTINF:0,DE PELICULA (HQ)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1866.m3u8
 #EXTINF:0,DE PELICULA PLUS (SD)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2332.m3u8
 #EXTINF:0,DHE (HQ)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1865.m3u8
 #EXTINF:0,FILM ZONE (SD)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2356.m3u8
 #EXTINF:0,FILM&ARTS (SD)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2239.m3u8
 #EXTINF:0,FOX CINEMA (HQ)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1672.m3u8
 #EXTINF:0,FOX CINEMA (SD)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2334.m3u8
 #EXTINF:0,FOX CINEMA PREMIUM (FHD)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1846.m3u8
 #EXTINF:0,FOX MOVIES (HQ)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1847.m3u8
 #EXTINF:0,FOX MOVIES (SD)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2338.m3u8
 #EXTINF:0,FOX PREMIUM ACTION (FHD)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1849.m3u8
 #EXTINF:0,FOX PREMIUM ACTION (HQ)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1690.m3u8
 #EXTINF:0,FOX PREMIUM ACTION (SD)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2339.m3u8
 #EXTINF:0,FX MOVIE  (FHD)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1704.m3u8
 #EXTINF:0,FX MOVIES (SD)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2158.m3u8
+#EXTINF:0,GOLDEN  PLUS (HQ)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1657.m3u8
 #EXTINF:0,GOLDEN (SD)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2345.m3u8
 #EXTINF:0,GOLDEN EDGE (SD)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2268.m3u8
 #EXTINF:0,GOLDEN PLUS  (FHD)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1656.m3u8
 #EXTINF:0,GOLDEN PLUS  (FHD) op2
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1837.m3u8
 #EXTINF:0,GOLDEN PLUS  (FHD) op3
 #EXTVLCOPT:network-caching=1000
-http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1723.m3u8
-#EXTINF:0,GOLDEN  PLUS (HQ)
 #EXTVLCOPT:network-caching=1000
-http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1657.m3u8
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1723.m3u8
 #EXTINF:0,GOLDEN PREMIER (HQ)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1836.m3u8
 #EXTINF:0,HBO (FHD)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1789.m3u8
 #EXTINF:0,HBO (HD)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/27728.m3u8
 #EXTINF:0,HBO (HD) (SUB)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1887.m3u8
 #EXTINF:0,HBO (SD)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2344.m3u8
 #EXTINF:0,HBO 2 (FHD)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1731.m3u8
 #EXTINF:0,HBO 2 (HD)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1888.m3u8
+#EXTINF:0,HBO 2 (SD) op4
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2343.m3u8
 #EXTINF:0,HBO EAST  (FHD)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1601.m3u8
+#EXTINF:0,HBO FAMILY  (FHD)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1600.m3u8
 #EXTINF:0,HBO FAMILY (HQ)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1832.m3u8
+#EXTINF:0,HBO FAMILY (SD) op6
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2156.m3u8
 #EXTINF:0,HBO PLUS  (FHD)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1599.m3u8
 #EXTINF:0,HBO PLUS (HQ)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1831.m3u8
+#EXTINF:0,HBO PLUS (SD) op6
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2155.m3u8
 #EXTINF:0,HBO PLUS WEST (HD)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1598.m3u8
 #EXTINF:0,HBO SIGNATURE (FHD)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1830.m3u8
 #EXTINF:0,HBO SIGNATURE (FHD) op2
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1730.m3u8
 #EXTINF:0,HBO SIGNATURE (SD)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2341.m3u8
 #EXTINF:0,HBO WEST (FHD)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1597.m3u8
 #EXTINF:0,I-SAT (HQ)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1825.m3u8
 #EXTINF:0,I-SAT (SD)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2152.m3u8
 #EXTINF:0,INDIE PLEX (FHD)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1596.m3u8
 #EXTINF:0,MAX (SD)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2290.m3u8
 #EXTINF:0,MAX PRIME (FHD)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1821.m3u8
 #EXTINF:0,MAX PRIME (FHD) op2
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1713.m3u8
+#EXTINF:0,MAX PRIME (SD) op6
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2150.m3u8
 #EXTINF:0,MAX PRIME ESTE (SD)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2340.m3u8
 #EXTINF:0,MAX UP (HQ)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1712.m3u8
+#EXTINF:0,MOVIE MAX (FHD) op6
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1594.m3u8
 #EXTINF:0,MOVIE PLEX (FHD)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1593.m3u8
 #EXTINF:0,MULTIPREMIER (HQ)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1817.m3u8
 #EXTINF:0,MULTIPREMIER (SD)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2263.m3u8
 #EXTINF:0,PARAMOUNT (SD)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2302.m3u8
 #EXTINF:0,PARAMOUNT CHANNEL (FHD)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1810.m3u8
 #EXTINF:0,PARAMOUNT CHANNEL (FHD) op2
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1773.m3u8
 #EXTINF:0,SONY  (FHD)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1696.m3u8
 #EXTINF:0,SONY  (FHD) op2
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1677.m3u8
 #EXTINF:0,SONY  (FHD) op3
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1808.m3u8
 #EXTINF:0,SONY (HQ)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2142.m3u8
 #EXTINF:0,SPACE (FHD)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1763.m3u8
 #EXTINF:0,SPACE (HQ)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2141.m3u8
 #EXTINF:0,SPACE (HQ) op2
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1807.m3u8
-#EXTINF:0,STUDIO UNIVERSAL  (FHD)
-#EXTVLCOPT:network-caching=1000
-http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1666.m3u8
-#EXTINF:0,STUDIO UNIVERSAL (HQ)
-#EXTVLCOPT:network-caching=1000
-http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1806.m3u8
-#EXTINF:0,STUDIO UNIVERSAL (SD)
-#EXTVLCOPT:network-caching=1000
-http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2309.m3u8
 #EXTINF:0,Starz (HD)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/11465.m3u8
 #EXTINF:0,Starz Black (HD)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/11478.m3u8
 #EXTINF:0,Starz Cinema (HD)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/11477.m3u8
 #EXTINF:0,Starz Comedy (HD)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/11476.m3u8
 #EXTINF:0,Starz East (HD)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/11475.m3u8
 #EXTINF:0,Starz Edge (HD)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/11474.m3u8
 #EXTINF:0,Starz Encore (HD)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/11469.m3u8
 #EXTINF:0,Starz Encore Action (HD)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/11473.m3u8
 #EXTINF:0,Starz Encore Black (HD)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/11472.m3u8
 #EXTINF:0,Starz Encore Classic (HD)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/11471.m3u8
 #EXTINF:0,Starz Encore Family (HD)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/11470.m3u8
 #EXTINF:0,Starz Encore Suspense (HD)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/11468.m3u8
 #EXTINF:0,Starz Encore Western (HD)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/11467.m3u8
 #EXTINF:0,Starz Family (HD)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/11466.m3u8
 #EXTINF:0,Starz Kids & Family (HD)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/11464.m3u8
 #EXTINF:0,Starz West (HD)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/11463.m3u8
+#EXTINF:0,STUDIO UNIVERSAL  (FHD)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1666.m3u8
+#EXTINF:0,STUDIO UNIVERSAL (HQ)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1806.m3u8
+#EXTINF:0,STUDIO UNIVERSAL (SD)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2309.m3u8
 #EXTINF:0,TBS (FHD)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1804.m3u8
 #EXTINF:0,TBS (HQ)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1710.m3u8
 #EXTINF:0,TBS (SD)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2139.m3u8
 #EXTINF:0,TBS VERYFUNNY (SD)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2311.m3u8
 #EXTINF:0,THE FILM ZONE (FHD)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1801.m3u8
 #EXTINF:0,TNT (FHD)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1770.m3u8
 #EXTINF:0,TNT (HQ)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1800.m3u8
 #EXTINF:0,TNT (SD)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2301.m3u8
 #EXTINF:0,UNIVERSAL CHANNEL (FHD)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1709.m3u8
 #EXTINF:0,UNIVERSAL CHANNEL (HQ)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1794.m3u8
 #EXTINF:0,UNIVERSAL CHANNEL (SD)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2129.m3u8
 #EXTINF:0,WARNER (FHD)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1791.m3u8
 #EXTINF:0,WARNER (FHD) op2
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1722.m3u8
 #EXTINF:0,WARNER (SD)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2299.m3u8
-#EXTINF:0,CINEMA DINAMITA op6
-#EXTVLCOPT:network-caching=1000
-http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2180.m3u8
-#EXTINF:0,HBO 2 (SD) op4
-#EXTVLCOPT:network-caching=1000
-http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2343.m3u8
-#EXTINF:0,HBO FAMILY  (FHD)
-#EXTVLCOPT:network-caching=1000
-http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1600.m3u8
-#EXTINF:0,HBO FAMILY (SD) op6
-#EXTVLCOPT:network-caching=1000
-http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2156.m3u8
-#EXTINF:0,HBO PLUS (SD) op6
-#EXTVLCOPT:network-caching=1000
-http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2155.m3u8
-#EXTINF:0,MAX PRIME (SD) op6
-#EXTVLCOPT:network-caching=1000
-http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2150.m3u8
-#EXTINF:0,MOVIE MAX (FHD) op6
-#EXTVLCOPT:network-caching=1000
-http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1594.m3u8
