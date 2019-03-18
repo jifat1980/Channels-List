@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:0,---------------------------  Bolivia  ---------------------------
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/25091.m3u8
+#EXTINF:0,BOL:ATB
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/25090.m3u8
+#EXTINF:0,BOL:Bolivia TV
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/25089.m3u8
+#EXTINF:0,BOL:Logos Bolivia
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/25088.m3u8
+#EXTINF:0,BOL:Pat
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/25087.m3u8
