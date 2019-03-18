@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:0,---------------------------  Honduras  ---------------------------
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/7867.m3u8
+#EXTINF:0,HN:AZTECA HONDURAS
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/850.m3u8
+#EXTINF:0,HN:TSI
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/847.m3u8
+#EXTINF:0,HN:ACTIVA TV
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/32279.m3u8
+#EXTINF:0,HN:CAMPUS TV
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/32280.m3u8
+#EXTINF:0,HN:MVC
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/32281.m3u8
+#EXTINF:0,HN:TELECEIBA CANAL 7
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/32282.m3u8
+#EXTINF:0,HN:TEN CANAL 10
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/32283.m3u8
