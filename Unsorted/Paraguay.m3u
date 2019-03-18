@@ -1,0 +1,33 @@
+#EXTINF:0,---------------------------  Paraguay  ---------------------------
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/7875.m3u8
+#EXTINF:0,PR:Paravision
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/977.m3u8
+#EXTINF:0,PR:Red Guarani
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/976.m3u8
+#EXTINF:0,PR:SNT
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2143.m3u8
+#EXTINF:0,PR:Telefuturo HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2133.m3u8
+#EXTINF:0,PR:Paraguay TV
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/978.m3u8
+#EXTINF:0,PR:Unicanal
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2130.m3u8
+#EXTINF:0,PR:C9N
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2187.m3u8
+#EXTINF:0,PR:WAPA
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/975.m3u8
+#EXTINF:0,PR:La Tele
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2151.m3u8
+#EXTINF:0,PR:TIGO SPORT
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/22229.m3u8
