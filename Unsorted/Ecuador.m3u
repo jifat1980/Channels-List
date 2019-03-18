@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:0,---------------------------  Ecuador  ---------------------------
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/7873.m3u8
+#EXTINF:0,EC:CANAL UNO
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/961.m3u8
+#EXTINF:0,EC:Canal Uno op2
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/960.m3u8
+#EXTINF:0,EC:CANELA TV
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/9972.m3u8
+#EXTINF:0,EC:Ecuador TV
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/959.m3u8
+#EXTINF:0,EC:ECUADOR TV op2
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/957.m3u8
+#EXTINF:0,EC:ECUADOR TV op3
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/9973.m3u8
+#EXTINF:0,EC:Ecuavisa
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/958.m3u8
+#EXTINF:0,EC:ECUAVISA HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/953.m3u8
+#EXTINF:0,EC:ECUAVISA op2
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/956.m3u8
+#EXTINF:0,EC:GAMATV
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/955.m3u8
+#EXTINF:0,EC:OROMAR TV
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2286.m3u8
+#EXTINF:0,EC:OROMAR TV HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/9971.m3u8
+#EXTINF:0,EC:RTS
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2285.m3u8
+#EXTINF:0,EC:RTS ECUADOR HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/952.m3u8
+#EXTINF:0,EC:TC ECUADOR HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/954.m3u8
+#EXTINF:0,EC:TC Television
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2138.m3u8
+#EXTINF:0,EC:TC TELEVISION HD
+#EXTVLCOPT:network-caching=1000
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
+#EXTINF:0,EC:TC TELEVISION op2
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/9974.m3u8
+#EXTINF:0,EC:Teleamazonas
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2137.m3u8
