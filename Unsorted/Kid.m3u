@@ -1,0 +1,106 @@
+#EXTM3U
+#EXTINF:0,---------------------------  Infantil  ---------------------------
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/7859.m3u8
+#EXTINF:0,BABY TV
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2245.m3u8
+#EXTINF:0,BOOMERANG
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2350.m3u8
+#EXTINF:0,Canal J
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2185.m3u8
+#EXTINF:0,Cartoon Network
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2182.m3u8
+#EXTINF:0,DISNEY CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2317.m3u8
+#EXTINF:0,Discovery Kids
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2172.m3u8
+#EXTINF:0,Disney Jr
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2170.m3u8
+#EXTINF:0,Disney XD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2169.m3u8
+#EXTINF:0,ETC TV
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/7933.m3u8
+#EXTINF:0,FHD:BABY TV
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1660.m3u8
+#EXTINF:0,FHD:BOOMERANG
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1678.m3u8
+#EXTINF:0,CARTOON NETWORK (FHD)
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1784.m3u8
+#EXTINF:0,FHD:DISCOVERY KIDS
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1659.m3u8
+#EXTINF:0,FHD:DISNEY CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1673.m3u8
+#EXTINF:0,FHD:NAT GEO KIDS
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1667.m3u8
+#EXTINF:0,FHD:NICK 2
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1653.m3u8
+#EXTINF:0,FHD:NICKELODEON
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1655.m3u8
+#EXTINF:0,HD:BABYTV
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1880.m3u8
+#EXTINF:0,HD:BOOMERANG
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1878.m3u8
+#EXTINF:0,HD:CARTOON NETWORK
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1876.m3u8
+#EXTINF:0,HD:DISCOVERY KIDS
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1862.m3u8
+#EXTINF:0,HD:DISNEY JR
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1858.m3u8
+#EXTINF:0,HD:DISNEY XD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1857.m3u8
+#EXTINF:0,HD:NATGEO KIDS
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1815.m3u8
+#EXTINF:0,HD:NICK 2
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1812.m3u8
+#EXTINF:0,HD:NICK JR
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1811.m3u8
+#EXTINF:0,HD:NICKELODEON
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1813.m3u8
+#EXTINF:0,HD:TOONCAST
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1798.m3u8
+#EXTINF:0,NAT GEO KIDS
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2259.m3u8
+#EXTINF:0,NICKTOONS
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2204.m3u8
+#EXTINF:0,NatGeo Kids
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2148.m3u8
+#EXTINF:0,Nick Jr
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2147.m3u8
+#EXTINF:0,Nickelodeon
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2146.m3u8
+#EXTINF:0,TOONCAST
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2313.m3u8
