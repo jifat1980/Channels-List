@@ -1,0 +1,670 @@
+#EXTM3U
+#EXTINF:0,---------------------------  España  ---------------------------
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/7868.m3u8
+#EXTINF:0,ES:#0 HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/727.m3u8
+#EXTINF:0,ES:24 HORAS
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/726.m3u8
+#EXTINF:0,ES:A&E
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/725.m3u8
+#EXTINF:0,ES:A3 SERIES
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/724.m3u8
+#EXTINF:0,ES:ALQ XXHARD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/723.m3u8
+#EXTINF:0,ES:ALQUILER 1
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/722.m3u8
+#EXTINF:0,ES:ALQUILER 2
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/721.m3u8
+#EXTINF:0,ES:ALQUILER 2 HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/720.m3u8
+#EXTINF:0,ES:ALQUILER 3
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/719.m3u8
+#EXTINF:0,ES:ALQUILER 4
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/718.m3u8
+#EXTINF:0,ES:ALQUILER 5
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/717.m3u8
+#EXTINF:0,ES:ALQUILER 6
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/716.m3u8
+#EXTINF:0,ES:ALQUILER HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/715.m3u8
+#EXTINF:0,ES:ALQUILER X
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/714.m3u8
+#EXTINF:0,ES:ALQUILER XX
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/713.m3u8
+#EXTINF:0,ES:ALQUILER XY
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/712.m3u8
+#EXTINF:0,ES:AMC
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/531.m3u8
+#EXTINF:0,ES:AMC HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/711.m3u8
+#EXTINF:0,ES:ANDALUCIA TV
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/710.m3u8
+#EXTINF:0,ES:AXN
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/602.m3u8
+#EXTINF:0,ES:AXN HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/709.m3u8
+#EXTINF:0,ES:AXN WHITE
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/708.m3u8
+#EXTINF:0,ES:AXN White HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/601.m3u8
+#EXTINF:0,ES:Antena 3 HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/603.m3u8
+#EXTINF:0,ES:BAR.A TV
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/707.m3u8
+#EXTINF:0,ES:BEIN LA LIGA TV 1
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/516.m3u8
+#EXTINF:0,ES:BEIN LA LIGA TV 2
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/515.m3u8
+#EXTINF:0,ES:BEIN LA LIGA TV 3
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/514.m3u8
+#EXTINF:0,ES:BEIN LALIGA1 (solo eventos)
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/614.m3u8
+#EXTINF:0,ES:BEIN LALIGA2 (solo eventos)
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/613.m3u8
+#EXTINF:0,ES:BEIN LALIGA3 (solo eventos)
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/612.m3u8
+#EXTINF:0,ES:BEIN MAX 1
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/706.m3u8
+#EXTINF:0,ES:BEIN MAX 1 HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/513.m3u8
+#EXTINF:0,ES:BEIN MAX 2
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/705.m3u8
+#EXTINF:0,ES:BEIN MAX 2 HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/512.m3u8
+#EXTINF:0,ES:BEIN MAX 3
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/704.m3u8
+#EXTINF:0,ES:BEIN MAX 4
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/703.m3u8
+#EXTINF:0,ES:BEIN MAX 5
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/702.m3u8
+#EXTINF:0,ES:BEIN MAX 6
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/701.m3u8
+#EXTINF:0,ES:BEIN MAX 7
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/700.m3u8
+#EXTINF:0,ES:BEIN MAX 8
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/699.m3u8
+#EXTINF:0,ES:BEIN SPORT HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/605.m3u8
+#EXTINF:0,ES:BEIN SPORT SP FHD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/611.m3u8
+#EXTINF:0,ES:BEIN SPORT SP HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/698.m3u8
+#EXTINF:0,ES:BEIN SPORTS
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/697.m3u8
+#EXTINF:0,ES:BEINLALIGA1
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/696.m3u8
+#EXTINF:0,ES:BEINLALIGA2
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/695.m3u8
+#EXTINF:0,ES:BEINLALIGA3
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/694.m3u8
+#EXTINF:0,ES:BEINLALIGA4
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/693.m3u8
+#EXTINF:0,ES:BEINLALIGA5
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/692.m3u8
+#EXTINF:0,ES:BEINLALIGA6
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/691.m3u8
+#EXTINF:0,ES:BEINLALIGA7
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/690.m3u8
+#EXTINF:0,ES:BEINLALIGA8
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/689.m3u8
+#EXTINF:0,ES:BOING
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/688.m3u8
+#EXTINF:0,ES:Baby TV
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/600.m3u8
+#EXTINF:0,ES:Barca TV
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/530.m3u8
+#EXTINF:0,ES:Bein LaLiga
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/599.m3u8
+#EXTINF:0,ES:Bein Sportpana
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/598.m3u8
+#EXTINF:0,ES:CANAL DEPORTES 1 FHD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/610.m3u8
+#EXTINF:0,ES:CANAL DEPORTES 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/609.m3u8
+#EXTINF:0,ES:CANAL FUTBOL FHD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/608.m3u8
+#EXTINF:0,ES:CANAL ORBE 21
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/687.m3u8
+#EXTINF:0,ES:CANAL ORBE21
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/686.m3u8
+#EXTINF:0,ES:CANAL PANDA
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/685.m3u8
+#EXTINF:0,ES:CANAL SUR A.
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/684.m3u8
+#EXTINF:0,ES:CAZA Y PESCA
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/683.m3u8
+#EXTINF:0,ES:CAZAyPESCA HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/682.m3u8
+#EXTINF:0,ES:CLAN  TVE
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/681.m3u8
+#EXTINF:0,ES:CLAN TVE
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/680.m3u8
+#EXTINF:0,ES:COCINA
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/679.m3u8
+#EXTINF:0,ES:COMEDYCENTRALHD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/678.m3u8
+#EXTINF:0,ES:CRIMEN INVES
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/677.m3u8
+#EXTINF:0,ES:CUATRO
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/676.m3u8
+#EXTINF:0,ES:Calle 13 HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/595.m3u8
+#EXTINF:0,ES:Canal Cocina
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/593.m3u8
+#EXTINF:0,ES:Canal DeCasa
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/592.m3u8
+#EXTINF:0,ES:Canal DeportSP
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/594.m3u8
+#EXTINF:0,ES:Cartoon Network
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/591.m3u8
+#EXTINF:0,ES:Comedy Central
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/590.m3u8
+#EXTINF:0,ES:Cosmo HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/589.m3u8
+#EXTINF:0,ES:Crimen y Investigation
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/588.m3u8
+#EXTINF:0,ES:Cuatro HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/587.m3u8
+#EXTINF:0,ES:DISCOVERY
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/675.m3u8
+#EXTINF:0,ES:DISNEY CH HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/674.m3u8
+#EXTINF:0,ES:DISNEY JR
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/673.m3u8
+#EXTINF:0,ES:DIVINITY
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/672.m3u8
+#EXTINF:0,ES:Disney Channel
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/586.m3u8
+#EXTINF:0,ES:Disney Junior
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/585.m3u8
+#EXTINF:0,ES:Disney XD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/584.m3u8
+#EXTINF:0,ES:EUROSPORT
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/582.m3u8
+#EXTINF:0,ES:EUROSPORT 1
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/671.m3u8
+#EXTINF:0,ES:EUROSPORT 1 HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/670.m3u8
+#EXTINF:0,ES:Energy
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/583.m3u8
+#EXTINF:0,ES:F1 Formula 1
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/669.m3u8
+#EXTINF:0,ES:FDF
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/668.m3u8
+#EXTINF:0,ES:FOX
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/581.m3u8
+#EXTINF:0,ES:FOX HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/667.m3u8
+#EXTINF:0,ES:FOX LIFE
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/580.m3u8
+#EXTINF:0,ES:FOX Life HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/579.m3u8
+#EXTINF:0,ES:FOX NEWS
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/666.m3u8
+#EXTINF:0,ES:GALICIA TV
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/528.m3u8
+#EXTINF:0,ES:GLAMOUR FM
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/665.m3u8
+#EXTINF:0,ES:GOL
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/664.m3u8
+#EXTINF:0,ES:GOL TV HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/578.m3u8
+#EXTINF:0,ES:HOLLYWOOD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/663.m3u8
+#EXTINF:0,ES:Historia
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/577.m3u8
+#EXTINF:0,ES:Hollywood HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/576.m3u8
+#EXTINF:0,ES:IBERALIA TV
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/527.m3u8
+#EXTINF:0,ES:LA 1
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/662.m3u8
+#EXTINF:0,ES:LA 1 HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/661.m3u8
+#EXTINF:0,ES:LA 2
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/660.m3u8
+#EXTINF:0,ES:LA LIGA FHD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/607.m3u8
+#EXTINF:0,ES:LA LIGA TV BAR
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/511.m3u8
+#EXTINF:0,ES:LA LIGA TV HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/575.m3u8
+#EXTINF:0,ES:LA SEXTA
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/659.m3u8
+#EXTINF:0,ES:LA sexta HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/574.m3u8
+#EXTINF:0,ES:LA1 HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/510.m3u8
+#EXTINF:0,ES:LA2
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/509.m3u8
+#EXTINF:0,ES:LALIGATV BAR
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/658.m3u8
+#EXTINF:0,ES:LALIGATV BAR 1
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/657.m3u8
+#EXTINF:0,ES:MEZZO
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/642.m3u8
+#EXTINF:0,ES:MEZZO LIVE HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/641.m3u8
+#EXTINF:0,ES:MOVISTAR ACCION HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/656.m3u8
+#EXTINF:0,ES:MOVISTAR Cine Español
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/655.m3u8
+#EXTINF:0,ES:MOVISTAR DCINE HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/654.m3u8
+#EXTINF:0,ES:MOVISTAR DEP 1 HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/653.m3u8
+#EXTINF:0,ES:MOVISTAR DEPORTES 1 HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/573.m3u8
+#EXTINF:0,ES:MOVISTAR DEPORTES 2 HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/572.m3u8
+#EXTINF:0,ES:MOVISTAR DISNEY
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/652.m3u8
+#EXTINF:0,ES:MOVISTAR FORMULA 1
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/647.m3u8
+#EXTINF:0,ES:MOVISTAR FORMULA 1 HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/646.m3u8
+#EXTINF:0,ES:MOVISTAR FUTBOL HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/651.m3u8
+#EXTINF:0,ES:MOVISTAR GOLF HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/650.m3u8
+#EXTINF:0,ES:MOVISTAR MOTO GP HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/571.m3u8
+#EXTINF:0,ES:MOVISTAR MOTOGP HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/645.m3u8
+#EXTINF:0,ES:MOVISTAR Partidazo
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/644.m3u8
+#EXTINF:0,ES:MOVISTAR Partidazo HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/643.m3u8
+#EXTINF:0,ES:MOVISTAR SERIES HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/649.m3u8
+#EXTINF:0,ES:MOVISTAR Series Xtra HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/648.m3u8
+#EXTINF:0,ES:MTV
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/558.m3u8
+#EXTINF:0,ES:MTV espana
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/559.m3u8
+#EXTINF:0,ES:MULTI-X
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/640.m3u8
+#EXTINF:0,ES:MULTIDEPORTE
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/634.m3u8
+#EXTINF:0,ES:MULTIDEPORTE 1
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/639.m3u8
+#EXTINF:0,ES:MULTIDEPORTE 2
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/638.m3u8
+#EXTINF:0,ES:MULTIDEPORTE 3
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/637.m3u8
+#EXTINF:0,ES:MULTIDEPORTE 4
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/636.m3u8
+#EXTINF:0,ES:MULTIDEPORTE 5
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/635.m3u8
+#EXTINF:0,ES:MULTIDEPORTES 1
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/508.m3u8
+#EXTINF:0,ES:MULTIDEPORTES 2
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/507.m3u8
+#EXTINF:0,ES:MULTIDEPORTES 3
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/506.m3u8
+#EXTINF:0,ES:MULTIFUTBOL 1
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/633.m3u8
+#EXTINF:0,ES:MULTIFUTBOL 2
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/632.m3u8
+#EXTINF:0,ES:MULTIFUTBOL 3
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/631.m3u8
+#EXTINF:0,ES:MULTIFUTBOL 4
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/630.m3u8
+#EXTINF:0,ES:Mega
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/570.m3u8
+#EXTINF:0,ES:Movistar Accion
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/569.m3u8
+#EXTINF:0,ES:Movistar Comedia HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/568.m3u8
+#EXTINF:0,ES:Movistar DCine
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/567.m3u8
+#EXTINF:0,ES:Movistar F1
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/566.m3u8
+#EXTINF:0,ES:MOVISTAR MOTOGP FHD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/565.m3u8
+#EXTINF:0,ES:Movistar SeriSP Xtra
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/562.m3u8
+#EXTINF:0,ES:Movistar Series
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/564.m3u8
+#EXTINF:0,ES:Movistar Series Xtra
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/563.m3u8
+#EXTINF:0,ES:Movistar Xtra
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/561.m3u8
+#EXTINF:0,ES:Movistar estrenos
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/560.m3u8
+#EXTINF:0,ES:NAT GEO HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/629.m3u8
+#EXTINF:0,ES:NEOX
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/628.m3u8
+#EXTINF:0,ES:NG WILD HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/627.m3u8
+#EXTINF:0,ES:NICK JR
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/626.m3u8
+#EXTINF:0,ES:NONSTOPEOPLE
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/625.m3u8
+#EXTINF:0,ES:Nat Geo Wild
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/557.m3u8
+#EXTINF:0,ES:National Geographic
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/556.m3u8
+#EXTINF:0,ES:Neox TV
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/555.m3u8
+#EXTINF:0,ES:Nickelodeon HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/554.m3u8
+#EXTINF:0,ES:Nova
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/553.m3u8
+#EXTINF:0,ES:Odisea TV
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/552.m3u8
+#EXTINF:0,ES:Paramount Channel
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/551.m3u8
+#EXTINF:0,ES:RTVA
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/550.m3u8
+#EXTINF:0,ES:Real Madrid tv
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/529.m3u8
+#EXTINF:0,ES:SUNDANCE
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/624.m3u8
+#EXTINF:0,ES:SYFY
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/549.m3u8
+#EXTINF:0,ES:TCM HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/623.m3u8
+#EXTINF:0,ES:TELECINCO
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/622.m3u8
+#EXTINF:0,ES:TELECINCO FHD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/621.m3u8
+#EXTINF:0,ES:TELEDEPORTE FHD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/606.m3u8
+#EXTINF:0,ES:TELEDEPORTE HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/620.m3u8
+#EXTINF:0,ES:TELEDEPORTES
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/505.m3u8
+#EXTINF:0,ES:TNT
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/619.m3u8
+#EXTINF:0,ES:TNT HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/618.m3u8
+#EXTINF:0,ES:TOROS TV HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/617.m3u8
+#EXTINF:0,ES:TV GALICIA
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/616.m3u8
+#EXTINF:0,ES:TV3 Catalynia HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/536.m3u8
+#EXTINF:0,ES:TVE Clan
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/535.m3u8
+#EXTINF:0,ES:TVE LA 1
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/526.m3u8
+#EXTINF:0,ES:TVE LA 1 HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/534.m3u8
+#EXTINF:0,ES:TVE LA 2
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/533.m3u8
+#EXTINF:0,ES:Taquilla 1
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/548.m3u8
+#EXTINF:0,ES:Taquilla 10
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/547.m3u8
+#EXTINF:0,ES:Taquilla 2
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/546.m3u8
+#EXTINF:0,ES:Taquilla 3
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/545.m3u8
+#EXTINF:0,ES:Taquilla 4
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/544.m3u8
+#EXTINF:0,ES:Taquilla 5
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/543.m3u8
+#EXTINF:0,ES:Taquilla 6
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/542.m3u8
+#EXTINF:0,ES:Taquilla 7
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/541.m3u8
+#EXTINF:0,ES:Taquilla 8
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/540.m3u8
+#EXTINF:0,ES:Taquilla 9
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/539.m3u8
+#EXTINF:0,ES:Telecinco HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/538.m3u8
+#EXTINF:0,ES:Toros Tv
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/537.m3u8
+#EXTINF:0,ES:VH1
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/615.m3u8
+#EXTINF:0,ES:Viajar HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/532.m3u8
+#EXTINF:0,ES:beIN Max 1 {partidos en vivo}
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/525.m3u8
+#EXTINF:0,ES:beIN Max 2 HD {partidos en vivo}
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/524.m3u8
+#EXTINF:0,ES:beIN Max 2 {partidos en vivo}
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/523.m3u8
+#EXTINF:0,ES:beIN Max 3 {partidos en vivo}
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/522.m3u8
+#EXTINF:0,ES:beIN Max 4 {partidos en vivo}
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/521.m3u8
+#EXTINF:0,ES:beIN Max 5 {partidos en vivo}
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/520.m3u8
+#EXTINF:0,ES:beIN Max 6 {partidos en vivo}
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/519.m3u8
+#EXTINF:0,ES:beIN Max 7 {partidos en vivo}
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/518.m3u8
+#EXTINF:0,ES:beIN Max 8 {partidos en vivo}
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/517.m3u8
+#EXTINF:0,ES:bein SPORTS HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/597.m3u8
+#EXTINF:0,ES:bein SPORTS LA LIGA HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/596.m3u8
