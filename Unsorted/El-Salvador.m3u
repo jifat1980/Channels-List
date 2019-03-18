@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:0,---------------------------  El Salvador  ---------------------------
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/7869.m3u8
+#EXTINF:0,SAL:Canal  21
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/801.m3u8
+#EXTINF:0,SAL:CANAL 12
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/798.m3u8
+#EXTINF:0,SAL:Canal 19
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/800.m3u8
+#EXTINF:0,SAL:CANAL 2
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/797.m3u8
+#EXTINF:0,SAL:CANAL 4
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/795.m3u8
+#EXTINF:0,SAL:CANAL 6
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/796.m3u8
+#EXTINF:0,SAL:VTV Canal 35
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/799.m3u8
+#EXTINF:0,SAL:WOW TV
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2273.m3u8
