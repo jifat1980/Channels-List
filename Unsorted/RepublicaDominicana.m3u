@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:0,---------------------------  República Dominicana  ---------------------------
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/7862.m3u8
+#EXTINF:0,RP:Color Vision 9
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/31965.m3u8
+#EXTINF:0,RP:Luna TV
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/31964.m3u8
+#EXTINF:0,RP:Naranja TV
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/31963.m3u8
+#EXTINF:0,RP:Orbit TV
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/31962.m3u8
+#EXTINF:0,RP:Tele Antillas 2
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/31961.m3u8
+#EXTINF:0,RP:Telemicro 5 (Opt-1)
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/31960.m3u8
+#EXTINF:0,RP:Telemicro 5 (Opt-2)
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/31959.m3u8
+#EXTINF:0,RP:Telemilenio Canal 50
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/31958.m3u8
+#EXTINF:0,RP:Telenord Canal 10
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/31956.m3u8
+#EXTINF:0,RP:Telenord Canal 12
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/31955.m3u8
+#EXTINF:0,RP:Telenord Canal 14
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/31954.m3u8
+#EXTINF:0,RP:Telenord Canal 8
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/31957.m3u8
+#EXTINF:0,RP:Teleradio America 45
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/31953.m3u8
+#EXTINF:0,RP:Teleuniverso 29
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/31952.m3u8
+#EXTINF:0,RP:Telever Canal 12
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/31951.m3u8
+#EXTINF:0,RP:Xtremo Channel
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/31949.m3u8
+#EXTINF:0,RP:Zol FM
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/31948.m3u8
