@@ -1,0 +1,64 @@
+#EXTM3U
+#EXTINF:0,---------------------------  Radios Chilenas  ---------------------------
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/10203.m3u8
+#EXTINF:0,RADIO:105 TV
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/10301.m3u8
+#EXTINF:0,RADIO:ADN
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/10294.m3u8
+#EXTINF:0,RADIO:ADN TV
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/10202.m3u8
+#EXTINF:0,RADIO:AE RADIO TV
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/10288.m3u8
+#EXTINF:0,RADIO:AGRICULTURA
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/10299.m3u8
+#EXTINF:0,RADIO:CAPPISSIMA MULTIMEDIAL ARICA
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/10305.m3u8
+#EXTINF:0,RADIO:CAROLINA TV
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/10014.m3u8
+#EXTINF:0,RADIO:COOPERATIVA
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/10295.m3u8
+#EXTINF:0,RADIO:DUNA
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/10292.m3u8
+#EXTINF:0,RADIO:FUTURO
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/10290.m3u8
+#EXTINF:0,RADIO:HOTMIX RADIO
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/10304.m3u8
+#EXTINF:0,RADIO:INJUV TV
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/10289.m3u8
+#EXTINF:0,RADIO:POLAR
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/10297.m3u8
+#EXTINF:0,RADIO:PORTAL FOX MIX
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/10303.m3u8
+#EXTINF:0,RADIO:POWER HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/10300.m3u8
+#EXTINF:0,RADIO:RADIOACTIVA
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/10302.m3u8
+#EXTINF:0,RADIO:ROMANTICA
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/10298.m3u8
+#EXTINF:0,RADIO:TELE 13 RADIO
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/10296.m3u8
+#EXTINF:0,RADIO:TIEMPO
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/10291.m3u8
+#EXTINF:0,RADIO:ZERO
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/10293.m3u8
