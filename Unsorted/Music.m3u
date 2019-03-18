@@ -1,0 +1,265 @@
+#EXTM3U
+#EXTINF:0,---------------------------  Música  ---------------------------
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/7865.m3u8
+#EXTINF:0,24/7:Falling Skies
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/23448.m3u8
+#EXTINF:0,4FUN Dance (PL)
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/202.m3u8
+#EXTINF:0,AFRO MUSIC CHANNEL (PT)
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/201.m3u8
+#EXTINF:0,Ashk TV (AL)
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/200.m3u8
+#EXTINF:0,BB11 Music HD (AL)
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/198.m3u8
+#EXTINF:0,BBF Music (AL)
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/197.m3u8
+#EXTINF:0,BBF Muzik HD (AL)
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/196.m3u8
+#EXTINF:0,BBLACK AFRICA (FR)
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/195.m3u8
+#EXTINF:0,BBLACK CLASSIC (FR)
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/194.m3u8
+#EXTINF:0,BRIT HITS
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/193.m3u8
+#EXTINF:0,Balkanika Music (BG)
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/199.m3u8
+#EXTINF:0,CONCERT CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2207.m3u8
+#EXTINF:0,Claromusic
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2176.m3u8
+#EXTINF:0,DJING IBIZA
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/192.m3u8
+#EXTINF:0,Elrodi TV (AL)
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/191.m3u8
+#EXTINF:0,FHD:BANDAMAX
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1751.m3u8
+#EXTINF:0,FHD:CONCERT CHANEL SD/
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1675.m3u8
+#EXTINF:0,FHD:MI MUSICA
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1668.m3u8
+#EXTINF:0,FHD:MTV
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1654.m3u8
+#EXTINF:0,FHD:MTV SIM
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1777.m3u8
+#EXTINF:0,FHD:Music Top
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1685.m3u8
+#EXTINF:0,FHD:RITMOZON LATINO
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1749.m3u8
+#EXTINF:0,FHD:TELEHIT
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1771.m3u8
+#EXTINF:0,FHD:VH1
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1661.m3u8
+#EXTINF:0,HD:CONCERT CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1867.m3u8
+#EXTINF:0,HD:HTV
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1827.m3u8
+#EXTINF:0,HD:K MUSIC
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1824.m3u8
+#EXTINF:0,HD:MTV
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1820.m3u8
+#EXTINF:0,HD:MTV HITS
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1819.m3u8
+#EXTINF:0,HD:MTV LIVE
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1818.m3u8
+#EXTINF:0,HD:VH1
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1792.m3u8
+#EXTINF:0,HD:VH1 CLASSIC
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/1793.m3u8
+#EXTINF:0,HOT MUSIC
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/190.m3u8
+#EXTINF:0,HTV
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2292.m3u8
+#EXTINF:0,INDIE
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/189.m3u8
+#EXTINF:0,Kadak Hits (INDIA)
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/31865.m3u8
+#EXTINF:0,M6 MUSIC (FR)
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/188.m3u8
+#EXTINF:0,MCM POP (PT)
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/187.m3u8
+#EXTINF:0,MTV
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2304.m3u8
+#EXTINF:0,MTV (FR)
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/186.m3u8
+#EXTINF:0,MTV (SP)
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/185.m3u8
+#EXTINF:0,MTV Base HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/184.m3u8
+#EXTINF:0,MTV Classic
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/183.m3u8
+#EXTINF:0,MTV Classic (UK)
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/182.m3u8
+#EXTINF:0,MTV DANCE (PT)
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/180.m3u8
+#EXTINF:0,MTV Dance (AL)
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/181.m3u8
+#EXTINF:0,MTV Dance (UK)
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/179.m3u8
+#EXTINF:0,MTV Dance (USA)
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/178.m3u8
+#EXTINF:0,MTV HIT
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2264.m3u8
+#EXTINF:0,MTV Hits (AL)
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/177.m3u8
+#EXTINF:0,MTV Hits HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/176.m3u8
+#EXTINF:0,MTV Hits HD (IN)
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/175.m3u8
+#EXTINF:0,MTV Live HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/174.m3u8
+#EXTINF:0,MTV Live HD (UK)
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/173.m3u8
+#EXTINF:0,MTV Music
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/172.m3u8
+#EXTINF:0,MTV Music (UK)
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/171.m3u8
+#EXTINF:0,MTV PORTUGAL
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/170.m3u8
+#EXTINF:0,MTV PORTUGAL (PT)
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/169.m3u8
+#EXTINF:0,MTV Rocks
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/168.m3u8
+#EXTINF:0,Music Choice
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/167.m3u8
+#EXTINF:0,Music Choice ALTERNATIVE
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/166.m3u8
+#EXTINF:0,Music Choice DANCE EDM
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/165.m3u8
+#EXTINF:0,Music Choice HIP HOP R&B
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/164.m3u8
+#EXTINF:0,Music Choice LATINO POP
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/163.m3u8
+#EXTINF:0,Music Choice MC PLAY
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/162.m3u8
+#EXTINF:0,Music Choice MEXICANA
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/161.m3u8
+#EXTINF:0,Music Choice POP & COUNTRY
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/160.m3u8
+#EXTINF:0,Music Choice RAP
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/159.m3u8
+#EXTINF:0,Music Choice ROCK
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/158.m3u8
+#EXTINF:0,NRJ TV (FR)
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/157.m3u8
+#EXTINF:0,Retro Music (CZ)
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/156.m3u8
+#EXTINF:0,TODAYS COUNTRY
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/154.m3u8
+#EXTINF:0,TRACE AFRICA HD (FR)
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/153.m3u8
+#EXTINF:0,TRACE URBAN HD (FR)
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/152.m3u8
+#EXTINF:0,TROPICALES
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/151.m3u8
+#EXTINF:0,Telemusica
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2355.m3u8
+#EXTINF:0,The Vault
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/155.m3u8
+#EXTINF:0,VH1
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2262.m3u8
+#EXTINF:0,VH1 CLASSICS
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2261.m3u8
+#EXTINF:0,VH1 MEGAHITS
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2228.m3u8
+#EXTINF:0,VIRGIN RADIO TV (FR)
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/149.m3u8
+#EXTINF:0,Via X
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2195.m3u8
+#EXTINF:0,Vintage TV
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/150.m3u8
+#EXTINF:0,Virgin TV
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/10742.m3u8
+#EXTINF:0,XITE HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/148.m3u8
+#EXTINF:0,Zona Latina
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2127.m3u8
+#EXTINF:0,RE:Dios Te Ve
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/28738.m3u8
