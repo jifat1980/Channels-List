@@ -1,0 +1,196 @@
+
+#EXTINF:0,---------------------------  Colombia  ---------------------------
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/7874.m3u8
+#EXTINF:0,CO:CABLENOTICIAS op2
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/793.m3u8
+#EXTINF:0,CO:CANAL ANTIESTRES
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/792.m3u8
+#EXTINF:0,CO:CANAL ANTIESTRES v2
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/791.m3u8
+#EXTINF:0,CO:CANAL CAPITAL
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2280.m3u8
+#EXTINF:0,CO:CANAL U
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/790.m3u8
+#EXTINF:0,CO:CITY TV
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/777.m3u8
+#EXTINF:0,CO:COSMOVISION
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/788.m3u8
+#EXTINF:0,CO:Canal Uno
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2184.m3u8
+#EXTINF:0,CO:Caracol Nacional
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2364.m3u8
+#EXTINF:0,CO:LIFEDESING
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/786.m3u8
+#EXTINF:0,CO:NTN 24 HORAS
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2287.m3u8
+#EXTINF:0,CO:RCN
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/32277.m3u8
+#EXTINF:0,CO:RCN FHD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2352.m3u8
+#EXTINF:0,CO:RCN HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/9990.m3u8
+#EXTINF:0,CO:RCN NOVELAS
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2250.m3u8
+#EXTINF:0,CO:TELE VIDA
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/785.m3u8
+#EXTINF:0,CO:TELEANTIOQUIA
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/784.m3u8
+#EXTINF:0,CO:TELECAFE
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/783.m3u8
+#EXTINF:0,CO:TELEPACIFICO
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/778.m3u8
+#EXTINF:0,CO:TRENDY MUSICA
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/781.m3u8
+#EXTINF:0,CO:TV AGRO
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/780.m3u8
+#EXTINF:0,CO:TV AGRO V2
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/787.m3u8
+#EXTINF:0,CO:Telecaribe
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2135.m3u8
+#EXTINF:0,CO:VMAS
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/779.m3u8
+#EXTINF:0,---------------------------  Perú  ---------------------------
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/7863.m3u8
+#EXTINF:0,PE: GOL PERU (HD)
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/31212.m3u8
+#EXTINF:0,PE:AMERICA FULL HD 1
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/31155.m3u8
+#EXTINF:0,PE:AMERICA HD 2
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/31179.m3u8
+#EXTINF:0,PE:AMERICA TV HD 1
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/776.m3u8
+#EXTINF:0,PE:ATV (HD) 720p
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/765.m3u8
+#EXTINF:0,PE:ATV HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/775.m3u8
+#EXTINF:0,PE:ATV Plus
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/25084.m3u8
+#EXTINF:0,PE:Antares TV
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/25085.m3u8
+#EXTINF:0,PE:CANAL N
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/774.m3u8
+#EXTINF:0,PE:CMD (HD) 720p
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/767.m3u8
+#EXTINF:0,PE:Capital TV
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2183.m3u8
+#EXTINF:0,PE:Capital TV v2
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/758.m3u8
+#EXTINF:0,PE:Digital TV HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/25083.m3u8
+#EXTINF:0,PE:Enlace
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/25082.m3u8
+#EXTINF:0,PE:Exitosa
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/25081.m3u8
+#EXTINF:0,PE:FRECUENCIA LATINA
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/764.m3u8
+#EXTINF:0,PE:GOL PERU HD 1080
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/763.m3u8
+#EXTINF:0,PE:IPE
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/25079.m3u8
+#EXTINF:0,PE:LATINA
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/773.m3u8
+#EXTINF:0,PE:LATINA FHD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/30037.m3u8
+#EXTINF:0,PE:La Tele
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/25078.m3u8
+#EXTINF:0,PE:Monterrico TV
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/25077.m3u8
+#EXTINF:0,PE:Movistar Deportes (HD) 720p
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/25076.m3u8
+#EXTINF:0,PE:Movistar Plus
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/25075.m3u8
+#EXTINF:0,PE:Nex TV
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/25074.m3u8
+#EXTINF:0,PE:PANAMERICANA
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/772.m3u8
+#EXTINF:0,PE:PANAMERICANA HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/762.m3u8
+#EXTINF:0,PE:PARTIDOS DE PERU
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/29217.m3u8
+#EXTINF:0,PE:PERU MAGICO
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/771.m3u8
+#EXTINF:0,PE:PERU MAGICO HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/761.m3u8
+#EXTINF:0,PE:PLUS TV
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/770.m3u8
+#EXTINF:0,PE:Panamericana TV
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/2145.m3u8
+#EXTINF:0,PE:RED TV
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/760.m3u8
+#EXTINF:0,PE:TNP
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/769.m3u8
+#EXTINF:0,PE:TV Noticias 7.3
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/25073.m3u8
+#EXTINF:0,PE:TV Noticias 7.3 V2
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/25188.m3u8
+#EXTINF:0,PE:TV PERU
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/759.m3u8
+#EXTINF:0,PE:TV Peru HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/25072.m3u8
+#EXTINF:0,PE:Willax HD
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/25071.m3u8
