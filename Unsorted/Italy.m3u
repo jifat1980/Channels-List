@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:0,---------------------------  Italia  ---------------------------
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/10616.m3u8
+#EXTINF:0,IT:CANALE 7
+#EXTVLCOPT:network-caching=1000
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/31867.m3u8
