@@ -1,0 +1,328 @@
+#EXTM3U
+#EXTINF:0,A&E
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14083
+#EXTINF:0,ABC
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14099
+#EXTINF:0,ABC NEWS UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14100
+#EXTINF:0,ACTIONMAX UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14098
+#EXTINF:0,AFN Movie
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14097
+#EXTINF:0,AFN News
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14096
+#EXTINF:0,AFN Prime Atlantic
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14095
+#EXTINF:0,AFN Prime Pacific
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14094
+#EXTINF:0,AFN Pulse
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14093
+#EXTINF:0,AFN Spectrum
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14092
+#EXTINF:0,AMC UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14085
+#EXTINF:0,AMG TV
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14086
+#EXTINF:0,ANIMAL PLANET'
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14084
+#EXTINF:0,BBC AMERICA
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14082
+#EXTINF:0,BET HER
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14080
+#EXTINF:0,BET'
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14079
+#EXTINF:0,BLOOMBERG  UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14077
+#EXTINF:0,BRAVO UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14076
+#EXTINF:0,C Toon Kids
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14052
+#EXTINF:0,CARTOON NETWORK UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14072
+#EXTINF:0,CBN
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14070
+#EXTINF:0,CBS
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14069
+#EXTINF:0,CC
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14066
+#EXTINF:0,Cinemax 5 Starmax
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14065
+#EXTINF:0,CINEMAX ACTIONMAX
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14064
+#EXTINF:0,Cinemax Moremax
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14063
+#EXTINF:0,CINEMAX UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14062
+#EXTINF:0,CNBC-US
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14059
+#EXTINF:0,CNN UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14061
+#EXTINF:0,CW NETWORK UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14051
+#EXTINF:0,DISCOVERY LIFE  UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14047
+#EXTINF:0,DISCOVERY SCIENCE CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14043
+#EXTINF:0,DISNEY CHANNEL UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14046
+#EXTINF:0,DISNEY JR  UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14045
+#EXTINF:0,DISNEY XD  UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14044
+#EXTINF:0,DIY NETWORK UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14041
+#EXTINF:0,E! UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14040
+#EXTINF:0,Epix
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14033
+#EXTINF:0,escape
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14034
+#EXTINF:0,FOX BUSINESS UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14029
+#EXTINF:0,Fox Soccer Plus HD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14025
+#EXTINF:0,FX East UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14015
+#EXTINF:0,FXM UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14014
+#EXTINF:0,FXX   UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14013
+#EXTINF:0,FYI UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14012
+#EXTINF:0,GSN UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14009
+#EXTINF:0,HALLMARK CHANNEL UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14008
+#EXTINF:0,HBO COMEDY UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14006
+#EXTINF:0,HBO East
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14003
+#EXTINF:0,HBO FAMILY UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14005
+#EXTINF:0,HBO SIGNATURE UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14002
+#EXTINF:0,HBO ZONE UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14004
+#EXTINF:0,HGTV
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/14001
+#EXTINF:0,History Channel
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13999
+#EXTINF:0,HLN
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13998
+#EXTINF:0,IFC UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13997
+#EXTINF:0,Investigation Discovery
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13996
+#EXTINF:0,iON
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13995
+#EXTINF:0,LIFETIME MOVIE NETWORK UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13992
+#EXTINF:0,LIFETIME UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13991
+#EXTINF:0,ME TV UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13986
+#EXTINF:0,MSNBC HD UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13984
+#EXTINF:0,NASA TV
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13972
+#EXTINF:0,Nat Geo
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13974
+#EXTINF:0,NBC Upstate NY UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13971
+#EXTINF:0,NFL NOW
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13964
+#EXTINF:0,NFL Red Zone
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13963
+#EXTINF:0,NHL Network HD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13949
+#EXTINF:0,NICK JR UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13947
+#EXTINF:0,NICKELODEON 2
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13945
+#EXTINF:0,NICKELODEON UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13946
+#EXTINF:0,OUTDOOR CHANNEL UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13943
+#EXTINF:0,OWN  UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13942
+#EXTINF:0,OXYGEN TV UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13941
+#EXTINF:0,PARAMOUNT NETWORK UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13940
+#EXTINF:0,QVC UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13935
+#EXTINF:0,RT America
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13931
+#EXTINF:0,Science Channel
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13930
+#EXTINF:0,SHOWTIME 2 UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13928
+#EXTINF:0,SHOWTIME SHOWCASE UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13926
+#EXTINF:0,SHOWTIME UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13925
+#EXTINF:0,SMITHSONIAN CHANNEL UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13924
+#EXTINF:0,STARZ CINEMA UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13923
+#EXTINF:0,STARZ COMEDY UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13922
+#EXTINF:0,STARZ EDGE UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13921
+#EXTINF:0,STARZ ENCORE UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13919
+#EXTINF:0,STARZ KIDS & FAMILY UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13920
+#EXTINF:0,SUNDANCE TV UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13918
+#EXTINF:0,SYFY UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13917
+#EXTINF:0,TBN
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13915
+#EXTINF:0,TBS UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13916
+#EXTINF:0,TCM UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13914
+#EXTINF:0,Tennis Channel
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13913
+#EXTINF:0,Tennis Channel 2
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13912
+#EXTINF:0,The Blaze
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13909
+#EXTINF:0,TLC 2
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13907
+#EXTINF:0,TLC UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13908
+#EXTINF:0,TNT 1
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13906
+#EXTINF:0,TNT 2
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13905
+#EXTINF:0,TRAVEL CHANNEL UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13904
+#EXTINF:0,TRU TV UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13902
+#EXTINF:0,TV Land
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13900
+#EXTINF:0,TV ONE UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13901
+#EXTINF:0,UNIVISION
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13897
+#EXTINF:0,VELOCITY UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13895
+#EXTINF:0,WE TV UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13891
+#EXTINF:0,WGN AMERICA UHD
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13890
+#EXTINF:0,WWE NETWORK
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13889
+#EXTINF:0,Yes Network
+#EXTVLCOPT:network-caching=1000
+http://5.254.66.150:25461/Richard2/Richard2/13888
