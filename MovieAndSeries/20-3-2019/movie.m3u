@@ -1,0 +1,137 @@
+#EXTM3U
+#EXTINF:0,UK: ALAAN MOVIE CHANNELS AE ARABIC
+http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist_w636969599_b800000_t64NTc2cA==.m3u8
+#EXTINF:0,UK: B4U MOVIES
+http://161.0.157.5/PLTV/88888888/224/3221226255/03.m3u8
+#EXTINF:0,UK: B4U MOVIES (1+)
+http://51.15.161.236:25461/live/nicsky/fuckface/2481.ts
+#EXTINF:0,UK: FOX ACTION MOVIES
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
+#EXTINF:0,UK: THREE PUBLIC MOVIE CHANNELS
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
+#EXTINF:0,UK: ZEE CINEMA
+http://51.15.161.236:25461/live/nicsky/fuckface/2473.ts
+#EXTINF:0,US: ANNABELLE
+http://cdnvod.setv.ca/hls/Annabelle.2.Creation.2017.720p.BluRay.H264.AAC-RARBG.mp4/master.m3u8
+#EXTINF:0,US: FOX PREMIUM CINEMA
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+#EXTINF:0,US: FOX PREMIUM CINEMA (1+)
+http://161.0.157.7/PLTV/88888888/224/3221226793/index.m3u8
+#EXTINF:0,US: FOX PREMIUM MOVIES
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:0,US: LINCOLN ONDEMANDMOVIES ENGLISH
+http://vd111.fastbroad.com/vdsoltv1/mp4:Lincoln.2012.720p.mp4/playlist.m3u8
+#EXTINF:0,US: MOVEE 4U
+https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
+#EXTINF:0,US: MOVISTAR ANTENA PUBLIC MOVIE CHANNELS ENGLISH
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_4_av-b.m3u8
+#EXTINF:0,US: SONY MOVIES
+http://tvpremiumhd.club/lista-gratuita/210002/on/live.php?id=yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.ts
+#EXTINF:0,US: SONY MOVIES (1+)
+http://tvpremiumhd.club/lista-gratuita/212829/on/live.php?id=yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.ts
+#EXTINF:0,US: WISH UPON 2017
+http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8
+#EXTINF:0,WW: MOVEE 4YOU
+http://tvpremiumhd.club/lista-gratuita/210002/on/lives.php?id=nimble.dashmedia.tv/onestudio/movee4u/playlist.ts
+#EXTINF:0,WW: MOVEE 4YOU (1+)
+http://tvpremiumhd.club/lista-gratuita/212829/on/lives.php?id=nimble.dashmedia.tv/onestudio/movee4u/playlist.ts
+#EXTINF:0,_: CINE
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+#EXTINF:0,_: CINE (1+)
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/eurochannel.php/%20index.m3u8
+#EXTINF:0,_: CINECANAL
+http://tvpremiumhd.club/lista-gratuita/210002/on/lo/430.ts
+#EXTINF:0,_: CINECANAL CALIDAD LISTA PRIVADA HD
+http://tvpremiumhd.club/lista-gratuita/210002/on/lof/430.ts
+#EXTINF:0,_: CINEMA ACTION & ADVENTURE HD
+http://51.15.161.236:25461/live/nicsky/fuckface/1051.ts
+#EXTINF:0,_: CINEMA DISNEY HD
+http://51.15.161.236:25461/live/nicsky/fuckface/1054.ts
+#EXTINF:0,_: CINEMA DRAMA AND ROMANCE HD
+http://51.15.161.236:25461/live/nicsky/fuckface/1055.ts
+#EXTINF:0,_: CINEMA FAMILY HD
+http://51.15.161.236:25461/live/nicsky/fuckface/1056.ts
+#EXTINF:0,_: CINEMA HITS HD
+http://51.15.161.236:25461/live/nicsky/fuckface/1059.ts
+#EXTINF:0,_: CINEMA MODERN GREATS HD
+http://51.15.161.236:25461/live/nicsky/fuckface/1057.ts
+#EXTINF:0,_: CINEMA PREMIERE HD
+http://51.15.161.236:25461/live/nicsky/fuckface/1052.ts
+#EXTINF:0,_: CINEMA SCI FI & HORROR HD
+http://51.15.161.236:25461/live/nicsky/fuckface/1058.ts
+#EXTINF:0,_: CINEMA SELECT HD
+http://51.15.161.236:25461/live/nicsky/fuckface/1060.ts
+#EXTINF:0,_: CINEMA THRILLER HD
+http://51.15.161.236:25461/live/nicsky/fuckface/1061.ts
+#EXTINF:0,_: CINEMAX
+http://tvpremiumhd.club/lista-gratuita/210002/on/lo/481.ts
+#EXTINF:0,_: CINEMAX (1+)
+http://tvpremiumhd.club/lista-gratuita/212829/on/live.php?id=aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/1384.ts
+#EXTINF:0,_: CINEMAX CALIDAD LISTA PRIVADA HD
+http://tvpremiumhd.club/lista-gratuita/210002/on/lof/481.ts
+#EXTINF:0,_: DIRECTV CINEMA
+http://tvpremiumhd.club/lista-gratuita/210002/tv/v/1243.ts
+#EXTINF:0,_: DIRECTV CINEMA (1+)
+http://tvpremiumhd.club/lista-gratuita/212829/tv/live.php?id=1243.ts
+#EXTINF:0,_: DISCOVERY THEATER HD
+http://tvpremiumhd.club/lista-gratuita/210002/on/lo/351.ts
+#EXTINF:0,_: DISCOVERY THEATER CALIDAD LISTA PRIVADA HD
+http://tvpremiumhd.club/lista-gratuita/210002/on/lof/351.ts
+#EXTINF:0,_: FOX CINEMA
+http://tvpremiumhd.club/lista-gratuita/210002/on/lo/421.ts
+#EXTINF:0,_: FOX CINEMA CALIDAD LISTA PRIVADA HD
+http://tvpremiumhd.club/lista-gratuita/210002/on/lof/421.ts
+#EXTINF:0,_: FOX MOVIES
+http://tvpremiumhd.club/lista-gratuita/210002/on/lo/417.ts
+#EXTINF:0,_: FOX MOVIES (1+)
+http://tvpremiumhd.club/lista-gratuita/212829/on/live.php?id=aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/604.ts
+#EXTINF:0,_: FOX MOVIES CALIDAD LISTA PRIVADA HD
+http://tvpremiumhd.club/lista-gratuita/210002/on/lof/417.ts
+#EXTINF:0,_: FOX PREMIUM CINEMA
+http://161.0.157.9/PLTV/88888888/224/3221226793/index.m3u8
+#EXTINF:0,_: KURIAKOS CINE
+http://37.59.41.145:5050/live/admin/dreemedia/100.m3u8
+#EXTINF:0,_: MOVIES4MEN
+http://51.15.161.236:25461/live/nicsky/fuckface/2338.ts
+#EXTINF:0,_: PARAMOUNT CHANNEL
+http://stream.euroasia.lfstrm.tv/paramount_channel/1/index.m3u8
+#EXTINF:0,_: PHEONIX MOVIE CHANNELS MY MANDARIN
+http://ktv028.cdnak.ds.kylintv.net/nlds/kylin/pxasia/as/live/pxasia_4.m3u8
+#EXTINF:0,_: PLATINIUM HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/275.m3u8
+#EXTINF:0,_: PLATINIUM (2+) HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/277.m3u8
+#EXTINF:0,_: PLATINIUM (3+) HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/278.m3u8
+#EXTINF:0,_: PLATINIUM
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/262.m3u8
+#EXTINF:0,_: PLATINIUM (1+)
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/270.m3u8
+#EXTINF:0,_: PLATINIUM (2+)
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/272.m3u8
+#EXTINF:0,_: RAI MOVIE
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8
+#EXTINF:0,_: ROTANA CINEMA
+http://www.freeiptvdaily.net:8000/live/3927980/8246578/24.m3u8
+#EXTINF:0,_: SKY CINEMA COMEDY HD
+http://51.15.161.236:25461/live/nicsky/fuckface/1062.ts
+#EXTINF:0,_: SKY MOVIES COMEDY
+http://51.15.161.236:25461/live/nicsky/fuckface/198.ts
+#EXTINF:0,_: SKY MOVIES DISNEY
+http://51.15.161.236:25461/live/nicsky/fuckface/200.ts
+#EXTINF:0,_: SKY MOVIES DRAMA & ROMANCE
+http://51.15.161.236:25461/live/nicsky/fuckface/201.ts
+#EXTINF:0,_: SKY MOVIES FAMILY
+http://51.15.161.236:25461/live/nicsky/fuckface/202.ts
+#EXTINF:0,_: SKY MOVIES GREATS
+http://51.15.161.236:25461/live/nicsky/fuckface/740.ts
+#EXTINF:0,_: SKY MOVIES PREMIERE
+http://51.15.161.236:25461/live/nicsky/fuckface/204.ts
+#EXTINF:0,_: SKY MOVIES SCI FI & HORROR
+http://51.15.161.236:25461/live/nicsky/fuckface/205.ts
+#EXTINF:0,_: SKY MOVIES SELECT
+http://51.15.161.236:25461/live/nicsky/fuckface/207.ts
+#EXTINF:0,_: SKY MOVIES THRILLER
+http://51.15.161.236:25461/live/nicsky/fuckface/199.ts
+#EXTINF:0,_: SONY MOVIES
+http://51.15.161.236:25461/live/nicsky/fuckface/2337.ts
