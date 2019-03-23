@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Movies",FOX Movies
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",FOX Movies (arab)
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",FOX Cinema Movies
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",FOX Comedy Movies
+http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/FOX-Premium-Movies-Logo-300x98.png" group-title="Movies",Fox Premium Movies
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",FOX Premium Cinema
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",FOX Action Movies (arab)
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",FOX Action Movies
+http://103.242.13.90:5555/udp/239.4.1.72:10000
+#EXTINF:-1 tvg-logo="" group-title="Movies",FOX Family Movies
+http://5.79.87.234:8278/Foxfamily/playlist.m3u8?tid=17030309&tsum=5d5b5b6d5d134a520d7ee4acad2e24cd
+#EXTINF:-1 tvg-logo="" group-title="Movies",Star Movies HD
+http://landiptv.live:8080/EDGARDO/203040/70287
+#EXTINF:-1 tvg-logo="" group-title="Movies",HBO
+http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",HBO (Asia)
+http://218.202.220.2:5000/nn_live.ts?id=HBO
+#EXTINF:-1 tvg-logo="http://www.firstonetv.net/images/logos/si/HBO2.png" group-title="Movies",HBO 2 (Dual)
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movies",HBO Hits (Asia)
+http://iss01.ott.net.tw:8090/live/coship_DCTV2291445940028640_1200.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Cinema World
+http://rr.dens.tv/h/h04/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Cinemax
+http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/209.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies",Cinemax OuterMax
+http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/210.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png" group-title="Movies",Sony Movie Channel (Opt-1)
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",WOWOW Movies
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+#EXTINF:-1 tvg-logo="" group-title="Movies",Blue Ant Extreme
+http://45.126.83.51/dr9445/h/h15/01.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Hallmark Movies & Mysteries
+http://23.237.22.82:8086/udp/127.0.0.1:56067
