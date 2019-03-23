@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Kids",Cartoon Network
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids",Disney Channel
+http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids",Disney Junior
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids",DISNEY XD
+http://144.217.69.93:25461/live/Allaccessiptv/5GaUMC9H0T/122.ts
+#EXTINF:-1 tvg-logo="" group-title="Kids",Nickelodeon
+http://cliente.iptvdosogro.net:8585/live/airerdhq/Lionricky1/12635.ts
+#EXTINF:-1 tvg-logo="" group-title="Kids",Cartoon Club
+http://main-a.for-our.info:8081/tv1/ch17.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids",Boomerang
+http://213.59.128.162:9999/play/Boomerang
+#EXTINF:-1 tvg-logo="" group-title="Kids",KIDS CHANNEL
+http://wowza60.indostreamserver.com:1935/kids/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids",BIZNET KIDS
+http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=KtBR4kNKKiprUBcuDy5kEENEVkzkgFgMsEfSlNamPqjnP-SC3OrXMAISH4ip6xvz
+#EXTINF:-1 tvg-logo="" group-title="Kids",TOONMAX TV
+http://rr2.dens.tv/s/s37/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids",Da Vinci
+http://rr.dens.tv/h/h01/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids",MY KIDS VOD
+http://210.210.155.35/session/e182f600-c3a1-11e8-aa13-a4dba5aaae34/x6bnqe/s/s30/S4/mnf.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids",Duck TV
+http://82.119.96.66:1935/ducktv/DuckTV_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids",BABY TV 
+http://landiptv.live:8080/EDGARDO/203040/65125
+#EXTINF:-1,Cbeebies
+http://bestiptvsubscriptiontv.com:8080/live/eddysol37@hotmail.com2/TkZCQHvkTp/23125.ts
