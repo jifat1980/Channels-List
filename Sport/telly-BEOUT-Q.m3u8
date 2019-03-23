@@ -1,22 +1,15 @@
 #EXTM3U
 #EXTINF:0,BEOUTQ 1
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
 http://56af988a-stream.nmbs.top/c/36/79410.m3u8
 #EXTINF:0,BEOUTQ 2
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
 http://56af988a-stream.nmbs.top/c/36/79411.m3u8
 #EXTINF:0,BEOUTQ 3
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
 http://56af988a-stream.nmbs.top/c/36/79412.m3u8
 #EXTINF:0,BEOUTQ 4
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
 http://56af988a-stream.nmbs.top/c/36/79413.m3u8
 #EXTINF:0,BEOUTQ 5
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
 http://56af988a-stream.nmbs.top/c/36/79414.m3u8
 #EXTINF:0,BEOUTQ 6
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
 http://56af988a-stream.nmbs.top/c/36/79415.m3u8
 #EXTINF:0,BEOUTQ 7
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
 http://56af988a-stream.nmbs.top/c/36/79416.m3u8
