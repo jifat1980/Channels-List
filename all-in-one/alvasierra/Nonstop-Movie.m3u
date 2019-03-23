@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Movies",Nonstop Movie 1
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Nonstop Movie 2
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Nonstop Movie 3
+http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Nonstop Movie 4
+http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1_1200.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Nonstop Movie 5
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
