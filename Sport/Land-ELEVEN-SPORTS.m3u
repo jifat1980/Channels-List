@@ -1,5 +1,32 @@
 #EXTM3U
 
+#EXTINF:-1,BE: ELEVEN SPORTS 2 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/127943
+
+#EXTINF:-1,BE: ELEVEN SPORTS 3 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/127944
+
+#EXTINF:-1,FR: ELEVEN SPORTS 1 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/127942
+
+#EXTINF:-1,FR: ELEVEN SPORTS 2 HD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/139511
+
+#EXTINF:-1,FR: ELEVEN SPORTS 3
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/152552
+
+#EXTINF:-1,SPORT: FR - ELEVEN SPORTS 3
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/139512
+
+#EXTINF:-1,PL: ELEVEN SPORTS 1 FHD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/143427
+
+#EXTINF:-1,PL: ELEVEN SPORTS 2 FHD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/151195
+
+#EXTINF:-1,PL: ELEVEN SPORTS 4 FHD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/197914
+
 #EXTINF:-1,PT: ELEVEN SPORTS 1 FHD
 http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/133685
 
@@ -36,48 +63,8 @@ http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/127743
 #EXTINF:-1,SPORT: PT - ELEVEN SPORTS 6 HD
 http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/140850
 
-
-
-
-
-
-
-
-#EXTINF:-1,BE: ELEVEN SPORTS 2 HD
-http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/127943
-
-#EXTINF:-1,BE: ELEVEN SPORTS 3 HD
-http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/127944
-
-#EXTINF:-1,FR: ELEVEN SPORTS 1 HD
-http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/127942
-
-#EXTINF:-1,FR: ELEVEN SPORTS 2 HD
-http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/139511
-
-#EXTINF:-1,FR: ELEVEN SPORTS 3
-http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/152552
-
-#EXTINF:-1,SPORT: FR - ELEVEN SPORTS 3
-http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/139512
-
-
-#EXTINF:-1,PL: ELEVEN SPORTS 1 FHD
-http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/143427
-
-#EXTINF:-1,PL: ELEVEN SPORTS 2 FHD
-http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/151195
-
-#EXTINF:-1,PL: ELEVEN SPORTS 4 FHD
-http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/197914
-
-
-
 #EXTINF:-1,UK: ELEVEN SPORTS 1 FHD
 http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/124390
-
-#EXTINF:-1,UK: ELEVEN SPORTS 2 FHD
-http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/137212
 
 #EXTINF:-1,SPORT: UK - ELEVEN SPORTS 1 FHD
 http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/137211
@@ -85,26 +72,11 @@ http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/137211
 #EXTINF:-1,SPORT: UK - ELEVEN SPORTS 2 FHD
 http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/197901
 
+#EXTINF:-1,UK: ELEVEN SPORTS 2 FHD
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/137212
+
 #EXTINF:-1,US: ELEVEN SPORTS HD
 http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/77121
 
 #EXTINF:-1,SPORT: US - ELEVEN SPORTS HD
 http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/198544
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
