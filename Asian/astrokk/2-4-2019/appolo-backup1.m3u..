@@ -18,6 +18,8 @@ http://landiptv.live:8080/marco/polo/145957
 http://landiptv.live:8080/marco/polo/150649
 #EXTINF:-1,MY: ASTRO AEC HD [VIP]
 http://landiptv.live:8080/marco/polo/142600
+#EXTINF:-1,MY: Astro Arena [VIP]
+http://landiptv.live:8080/marco/polo/141646
 #EXTINF:-1,MY: Astro Awani [VIP]
 http://landiptv.live:8080/marco/polo/145959
 #EXTINF:-1,MY: ASTRO CERIA [VIP]
@@ -220,3 +222,4 @@ http://landiptv.live:8080/marco/polo/142635
 http://landiptv.live:8080/marco/polo/146026
 #EXTINF:-1,MY: SNWL HD
 http://landiptv.live:8080/marco/polo/198115
+
