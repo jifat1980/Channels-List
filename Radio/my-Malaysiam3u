@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 radio="true",[COLOR yellow] HITZ.FM [/COLOR]
+http://astro1.rastream.com/hitz
+#EXTINF:-1 radio="true",[COLOR yellow] LITE.FM [/COLOR]
+http://astro1.rastream.com/lite
+#EXTINF:-1 radio="true",[COLOR yellow] MY.FM [/COLOR]
+http://astro1.rastream.com/myfm
+#EXTINF:-1 radio="true",[COLOR yellow] MIX.FM [/COLOR]
+http://astro2.rastream.com/mix
+#EXTINF:-1 radio="true",[COLOR yellow] SINAR.FM [/COLOR]
+http://astro2.rastream.com/sinar
+#EXTINF:-1 radio="true",[COLOR yellow] ERA.FM [/COLOR]
+http://astro2.rastream.com/era
+#EXTINF:-1 radio="true",[COLOR yellow] OPUS.FM [/COLOR]
+http://astro4.rastream.com/opus
+#EXTINF:-1 radio="true",[COLOR yellow] GOLD.FM [/COLOR]
+http://astro4.rastream.com/gold
+#EXTINF:-1 radio="true",[COLOR yellow] JAZZ.FM [/COLOR]
+http://astro4.rastream.com/jazz
+#EXTINF:-1 radio="true",[COLOR yellow] ROCK.FM [/COLOR]
+http://astro4.rastream.com/rock
