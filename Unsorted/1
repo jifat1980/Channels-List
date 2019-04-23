@@ -1,0 +1,672 @@
+#EXTM3U
+
+
+#EXTINF:0 tvg-logo="http://i67.tinypic.com/1pecqs.jpg" ,ZALVISION GROUP Telegram - "WARNING" DON'T SHARE
+https://www.googleapis.com/drive/v3/files/1o9yVu1p9vt1K2mvCRZSGzRG5LqtkJ5Sy?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:0 tvg-logo="http://i68.tinypic.com/ymefo.jpg" ,Teguhvirgo-IPTV
+http://139.59.166.48:8081/live/live3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NetTV.id" tvg-name="NET TV FHD" tvg-logo="http://images2.useetv.com/logo_net_big1.png?v=1.0.0.0" group-title="Teguhvirgo-IPTV",NET TV FHD
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="http://images2.useetv.com/logo_transtv_big1.png?v=1.0.0.0" group-title="Teguhvirgo-IPTV",TRANS TV
+http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="http://images2.useetv.com/logo_trans7_big1.png?v=1.0.0.0" group-title="Teguhvirgo-IPTV",TRANS 7
+http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="http://images2.useetv.com/logo_sctv_big1.png?v=1.0.0.0" group-title="Teguhvirgo-IPTV",SCTV
+http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="Indosiar.id tvg-name="Indosiar" tvg-logo="http://images2.useetv.com/logo_indosiar_big1.png?v=1.0.0.0" group-title="Teguhvirgo-IPTV",Indosiar Bola
+http://id2.indostreamingtv.com/live/tv111/index.m3u8
+
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="http://images2.useetv.com/logo_antv_big1.png?v=1.0.0.0" group-title="Teguhvirgo-IPTV",ANTV
+http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV" tvg-logo="https://devanyahya.web.id/mnclogo.png" group-title="Teguhvirgo-IPTV",MNC TV
+http://202.80.222.171/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="GTV.id" tvg-name="Global TV" tvg-logo="https://devanyahya.web.id/logo_globaltv_big1.png" group-title="Teguhvirgo-IPTV",Global TV
+http://202.80.222.174/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCT" tvg-logo="https://devanyahya.web.id/rctilogo.png" group-title="Teguhvirgo-IPTV",RCTI
+http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTIHD" tvg-logo="https://devanyahya.web.id/rctilogo.png" group-title="Teguhvirgo-IPTV",RCTI HD
+http://id8.indostreamingtv.com/live/tv66/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/4c/BBSTV_%28September_2017%29.png/1200px-BBSTV_%28September_2017%29.png" group-title="Teguhvirgo-IPTV", BBSTV Surabaya
+http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="Teguhvirgo-IPTV",AREK TV SURABAYA
+http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="Teguhvirgo-IPTV",MALEO
+http://stream1.ninmedia.tv/maleo/udp.stream_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="Teguhvirgo-IPTV",MK TV
+http://stream1.ninmedia.tv/mktv/udp.stream_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="http://images2.useetv.com/logo_cnnindonesia_big1.png?v=1.0.0.0" group-title="Teguh-News",CNN Indo HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="Berita Satu News" tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="Teguh-News",Berita Satu News
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
+
+#EXTINF:-1 tvg-id="CNBC.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="Teguh-News",CNBC Indonesia HD
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w31589757_b384000_sleng.m3u8?_=1547207286697
+
+#EXTINF:-1 tvg-id="" tvg-name="DW TV Asia" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/05/DW-TV-ASIA-670x300.jpg" group-title="Teguh-News",DW TV Asia
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+
+#EXTINF:-1 tvg-id="TVOne.id" tvg-name="TV ONE" tvg-logo="http://images2.useetv.com/logo_tvone_big1.png?v=1.0.0.0" group-title="Teguh-News",TV ONE
+http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="KompasTv.id" tvg-name="Kompas TV" tvg-logo="http://images2.useetv.com/logo_kompastv_big1.png?v=1.0.0.0" group-title="Teguh-News",Kompas TV
+http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0 group-title="Teguh-News",METRO TV
+http://202.80.222.183/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-logo="http://images2.useetv.com/logo_metrotv_big1.png?v=1.0.0.0" group-title="Teguh-News",Metro TV HD
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/2j673mg.jpg" group-title="Teguh-News", JAKARTA GLOBE NEWS
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+
+#EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews TV" tvg-logo="https://yt3.ggpht.com/-PWtwDVBQ81I/AAAAAAAAAAI/AAAAAAAAAAA/TV9LxFTHLEA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Teguh-News",iNews TV
+http://202.80.222.171:80/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV Asia" tvg-logo="http://i63.tinypic.com/124iomr.jpg" group-title="Teguh-News",Bloomberg TV Asia
+https://bblive-liveprodapnortheast.hs.llnwd.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+
+#EXTINF:-1 tvg-id="JakTV.id" tvg-name="Jak TV" tvg-logo="http://images2.useetv.com/logo_jaktv_big1.png?v=1.0.0.0" group-title="Teguhvirgo-IPTV",Jak TV
+http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="Teguh-Kids",BIZnet Kids HD
+http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/chunklist_w761082683_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD0zekpVVldLVXZUbGtoUG03ZUMzU0FJMU13cnU0RVBKWVJDUEpIbXZ4Z1pLd0xJWmdkSGt1OXBXOWpud0xydDN2.m3u8
+
+#EXTINF:-1 tvg-logo="https://special.animax-asia.com/oo-kun/displays/images/video_wascot.gif" group-title="Teguh-Kids", NONSTOP ANIME
+http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/dragonball/images/e/ef/DBZ.png" group-title="Teguh-Kids", Dragon Ball Z
+http://alhls.cdn.zhanqi.tv/zqlive/197952_NHycj.m3u8
+
+#EXTINF:-1 group-title="Teguh-Kids", MIAO MI
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="AhsanTV" tvg-name="AhsanTV" tvg-logo="" group-title="Teguh-Religi",AhsanTV
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlIman TV" tvg-name="AlIman TV" tvg-logo="" group-title="Teguh-Religi",AlIman TV
+http://vs.suaraaliman.com:1935/aliman/HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Akhyar TV" tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="Teguh-Religi",Akhyar TV
+http://stream.asianastream.com:1935/live/ngrp:akhyartv_all/chunklist_w1758539554_b1398304.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Asjawa TV" tvg-logo="" group-title="Teguh-Religi",Asjawa TV
+http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Niaga TV" tvg-logo="" group-title="Teguh-Religi",Niaga TV
+http://wowza60.indostreamserver.com:1935/surautv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Wesal TV" tvg-logo="" group-title="Teguh-Religi",Wesal TV
+http://stream.aswajadev.com:8081/nadamuslim/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Bali TV" tvg-logo="" group-title="Teguhvirgo-IPTV",Bali TV
+http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="" tvg-name="Dangdutz" tvg-logo="" group-title="Teguh-Music",Dangdutz
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Inspira TV" tvg-logo="" group-title="Teguhvirgo-IPTV",Inspira TV
+http://stream1.ninmedia.tv/inspiratv/udp.stream_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="Teguhvirgo-IPTV",TABALONG TV
+http://stream1.ninmedia.tv/tabalongtv/udp.stream_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="JTV" tvg-logo="http://webtvonlive.com/wp-content/uploads/JTV-webtvonlive-com.jpg" group-title="Teguhvirgo-IPTV",JTV
+http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jpg" group-title="Teguh-Variety",FASHION TV MIDNIGHT FHD
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jpg" group-title="Teguh-Variety",ALJAZEERA ENG FHD
+https://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jpg" group-title="Teguh-Variety",HD FASHION
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/2ykfix2.jpg" group-title="Teguh-Movie",J'GO / FIRSTVMOVIE HD
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Teguh-Movie",FOX MOVIES COMEDY
+http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
+
+#EXTINF:-1 group-title="Teguh-Variety",SBS VICELAND HD
+http://49.176.184.179:9981/stream/channelid/1449265119
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Planet_Green_Logo.png" group-title="Teguh-Knowledge",Planet Green
+http://80.80.160.168/live/4/live.m3u8
+
+#EXTINF:-1 tvg-id="CrimeInvestigation.id" tvg-name="Crime Investigation" tvg-logo="http://www.nos.pt/particulares/televisao/canais/exclusivos/PublishingImages/crime-investigation/logo/large.jpg" group-title="Teguh-Knowledge",Crime Investigation
+http://80.80.160.168/live/5/500000/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Teguh-Variety",FOOD chanel HD
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/chunklist_b2288000.m3u8
+
+#EXTINF:-1 group-title="Teguh-Korea", BBS IN
+http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StarWorld.in" tvg-name="Star World" tvg-logo="https://i0.wp.com/www.vietcv.net/wp-content/uploads/2017/05/7e928a92-3ca2-11e7-b99f-cac091044fd5.jpg?resize=700%2C400" group-title="Teguh-Movie",Star World
+http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
+
+#EXTINF:-1 group-title="Teguh-Movie",Star Chinese Movie Legend
+http://iliketot.dyndns.tv/c8233976dbba4a06a101780907447375.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMjo1NzowOSBBTSZoYXNoX3ZhbHVlPXdtOTREeDJORTFpZDRYbjBnRHZrT0E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDkxMXx1cGxheXwxNTI4MjUzODI5fDIwMi4yOC40MS4xNDQ=
+
+#EXTINF:-1 tvg-logo="http://singteltv.com.sg/_channels/pic_ch585.jpg" group-title="Teguh-Movie",Celestial Clasic Movie ID
+http://iliketot.dyndns.tv/1c2276a2f1884b269ce281c3334e8f85.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMjo1Nzo0OCBBTSZoYXNoX3ZhbHVlPVAwSk5CRlBPTGwvRXJDRFMrTFZBS0E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDkxMnx1cGxheXwxNTI4MjUzODY4fDIwMi4yOC40MS4xNDQ=
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Star_chinese_movies_2012.png" group-title="Teguh-Movie",Chinese Word HD
+http://wshls.live.migucloud.com:80/live/41IXD6US_C0/playlist.m3u8
+
+#EXTINF:-1 group-title="Teguh-Movie",Stephen chow Movie
+http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 group-title="Teguh-Movie",Andy Lau Movie
+http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 group-title="Teguh-Movie",Jet Lie Movie
+http://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 group-title="Teguh-Movie",Jackie Chan Movie
+http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 group-title="Teguh-Movie",Cou Yun Fa Movie
+http://aldirect.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8
+
+#EXTINF-1 group-title="Teguh-Movie",SammoHung Movie
+http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 group-title="Teguh-Movie",Chinese Ghost
+http://tx.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1.m3u8
+
+#EXTINF:-1 group-title="Teguh-Movie",WOWOW MOVIES
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+
+#EXTINF:-1 group-title="Teguh-Music",RETRO Music
+http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 group-title="Teguh-Korea",CBS (Opt-1)
+http://cbs-live.gscdn.com:1935/cbs-live/cbs-live.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Teguh-Korea",CBS (Opt-2)
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
+
+#EXTINF:-1 group-title="Teguh-Korea",EBS 2
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="Teguh-Korea",EBS English
+http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="Teguh-Korea",EBS Kids
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+
+#EXTINF:-1 group-title="Teguh-Korea",EBS Plus 1
+http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
+
+#EXTINF:-1 group-title="Teguh-Korea",EBS Plus 2
+http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
+
+#EXTINF:-1 group-title="Teguh-Japan", JAPANET CHANEL DX
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+
+#EXTINF:-1 group-title="Teguh-Japan", TV ASAHI
+http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8?wowzasessionid=1566329228
+
+#EXTINF:-1 group-title="Teguh-Japan", TV TOKYO
+http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8?wowzasessionid=1009455217
+
+#EXTINF:-1 group-title="Teguh-Japan", Shop Chanel
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="TV1 Malay" tvg-logo="https://i.imgur.com/YVziC4l.png" group-title="Teguh-Malaysia" ,TV1 HD
+http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="TV2 Malay" tvg-logo="https://i.imgur.com/1MUp0KS.png" group-title="Teguh-Malaysia",TV2 HD
+http://rtm-live.glueapi.io/smil:rtmch002.smil/chunklist_b1064000_sleng.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="OKEY Malay" tvg-logo="https://i.imgur.com/wTJVFDG.png" group-title="Teguh-Malaysia",OKEY HD
+http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Zoom TV" tvg-logo="" group-title="Teguh-Music",Zoom TV
+http://zoomweblive-lh.akamaihd.net/i/Zoom-TIL-WAP/Zoomweb_1@348071/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="Teguh-Sports",MNC Sport
+https://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="" tvg-name="MU TV" tvg-logo="https://video.toggle.sg/image/9001988/16x9/947/533/998d326f612e921f010a0019edcab830/zb/mutv.png" group-title="Teguh-Sports",MU TV
+http://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/prog_index.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Teguh-Sports" tvg-logo="https://i.imgur.com/A0bbJ4i.png",CHELSEA TV
+http://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid TV" tvg-logo="https://i2.cdscdn.com/pdt2/8/8/0/1/700x700/auc3663439084880/rw/sticker-autocollant-foot-real-madrid-dimensions.jpg" group-title="Teguh-Sports",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/s3.loopme.sg/img/newos/brands/2x/Ex9cHUkjfxIzIEzh.png" group-title="Teguh-SINGAPURA",CHANNEL 8
+https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/s3.loopme.sg/img/newos/brands/2x/Ex9cHUkjfxIzIEzh.png" group-title="Teguh-SINGAPURA",CHANNEL OKTO
+https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master.m3u8
+
+#EXTINF:-1 group-title="Teguh-Music",JASMIN TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Teguh-Music",HIT TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
+
+#EXTINF:-1 group-title="Teguh-Music",M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+
+#EXTINF:-1 group-title="Teguh-Music",MiX Music
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
+
+#EXTINF:-1 group-title="Teguh-Music",Music Choice
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+
+#EXTINF:-1 group-title="Teguh-Music",BOX HITS
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+
+#EXTINF:-1 group-title="Teguh-Music",CALIFORNIA MUSIC CHANNEL
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+
+#EXTINF:-1 group-title="Teguh-Music",MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+
+#EXTINF:-1 group-title="Teguh-Music",ONE
+http://rtmp.one.by:1300
+
+#EXTINF:-1 group-title="Teguh-Music",XLITE MUSIC
+http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Teguh-Music",KAROKE CHANNEL
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
+
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/16lwrpz.jpg" group-title="Teguh-China",CCTV 12
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=7353916194983371497&livemode=1&authCode=3a&stbId=E44003FF004735100000288CB80A2BB4&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yZ8P6Ox.jpg" group-title="Teguh-China", HNN TV
+http://pili-live-hls.livelvy.sobeycache.com/livelvy/lvy1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/d6/MASTV.png/180px-MASTV.png" group-title="Teguh-China", MASTV
+http://stream.mastvnet.com/MSTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.newscctv.net/data/cctvnewsplatform//images/company/icon_10122_1493349547.jpg" group-title="Teguh-China", Oriental Finance Pudong
+http://w1.livecache.yicai.com/hls/live/dftv_hd/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="Teguh-China", RTHK 31 (Hong Kong)
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/220px-RTHK_TV_32.svg.png" group-title="Teguh-China", RTHK 32 (Hong Kong)
+http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_810_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/5519e17be4b01413b05f2b77/5618341ae4b07e497b3e825f/56183427e4b07e497b3e82cf/1444584167496/SinoVision_LOGO.jpg" group-title="Teguh-China", SinoVision (US)
+http://ec.sinovision.net/video/ts/lv.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Teguh-China", TVBS
+http://ax.micaesoft.com/YMitv/YMITV_CN_tvbs.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Teguh-China", macau
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Teguh-China", GoodTV
+http://live.streamingfast.net/osmflivech1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch2.gif" tvg-name="TV5 HD"  group-title="Teguh-Thailand",TV5 HD
+http://27.254.62.62:8081/live/tv5stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch91.gif" tvg-name="CHANNEL 8 HD"  group-title="Teguh-Thailand",CHANNEL 8 HD
+http://stream.rs.co.th/ch8-hi/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1045.gif" tvg-name="GMM25 HD"  group-title="Teguh-Thailand",GMM25 HD
+http://gmmservice.radical-enlighten.com/gmm/smil:gmm25.smil/chunklist_w240824316_b1128000.m3u8
+
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch6.gif" tvg-name="THAI PBS HD"  group-title="Teguh-Thailand",THAI PBS HD
+http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1049.gif" tvg-name="MCOT FAMMILY HD"  group-title="Teguh-Thailand",MCOT FAMMILY HD
+http://mcotdigital-5nrixa.cdn.byteark.com/mcotfamily/smil:mcotfamily.smil/chunklist_w319792887_b2000000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1021.gif" tvg-name="NEW TV HD"  group-title="Teguh-Thailand",NEW TV HD
+http://newtv.cdn.byteark.com/live/playlist_360p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1018.gif" tvg-name="THAIRATH TV HD"  group-title="Teguh-Thailand",THAIRATH TV HD
+https://live.thairath.co.th/trtv2/playlist_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1019.gif" tvg-name="WORKPOINT TV HD"  group-title="Teguh-Thailand",WORKPOINT TV HD
+http://122.155.205.9/live/workpoint.stream/chunklist_w1998776218.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1047.gif" tvg-name="BRIGHT TV HD"  group-title="Teguh-Thailand",BRIGHT TV HD
+http://live4.netdesignhost.com/brighttvlive/brighttvlive/chunklist_w112679112.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch83.gif" tvg-name="CHANNEL 2 HD"  group-title="Teguh-Thailand",CHANNEL 2 HD
+http://stream.rs.co.th/ch2-hi/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch111.gif" tvg-name="SABAIDEETV HD"  group-title="Teguh-Thailand",SABAIDEETV HD
+http://stream.rs.co.th/sbd-hi/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch67.gif" tvg-name="CARTOON CLUB HD"  group-title="Teguh-Thailand",CARTOON CLUB HD
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch107.gif" tvg-name="13 SIAM HD"  group-title="Teguh-Thailand",13 SIAM HD
+http://boonniyomtv-xefg3d.cdn.byteark.com/live/13wDt2b6g4/media_w347232082.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch108.gif" tvg-name="SENATE HD"  group-title="Teguh-Thailand",SENATE HD
+http://202.122.40.36/livestream/encoder3/media_w2122111964.m3u8
+
+#EXTINF:-1 group-title="Teguh-Radio",101JAK    101FM
+http://streaming.sim-indonesia.com:8000/jak
+
+#EXTINF:-1 group-title="Teguh-Radio",99ers   100FM
+http://ninetyninersbdg.sg.myradio.web.id:8888/ninetyninersbdg
+
+#EXTINF:-1 group-title="Teguh-Radio",Aksi   900AM
+http://live.radiobethany.com:8152/;
+
+#EXTINF:-1 group-title="Teguh-Radio",Al-Manshuroh   107.9FM
+http://209.58.160.62:11162/stream
+
+#EXTINF:-1 group-title="Teguh-Radio",Andika   105.7FM
+http://stream2.andikafm.com:1057/andikafm
+
+#EXTINF:-1 group-title="Teguh-Radio",Ardan   105.9FM
+http://listento.ardanradio.com:1059/;
+
+#EXTINF:-1 group-title="Teguh-Radio",Bahana   101.8FM
+http://onlineradiobox.com/ping/id.bahana
+
+#EXTINF:-1 group-title="Teguh-Radio",Batam   100.7FM
+http://live.indostreamserver.com:9070/batamfm
+
+#EXTINF:-1 group-title="Teguh-Radio",Bercahaya   94.3FM
+http://live.indostreamserver.com:8054/stream/7/;
+
+#EXTINF:-1 group-title="Teguh-Radio",Brava   103.8FM
+http://cloudstreaming.mramedia.com:8004/live
+
+#EXTINF:-1 group-title="Teguh-Radio",Buana Asri 94.7FM
+http://streaming1.lpplbuanaasri.com:9470/lpplbuanaasri_streaming
+
+#EXTINF:-1 group-title="Teguh-Radio",Cakra    90.5FM
+http://dengerin.radiocakrabandung.com:8905/;
+
+#EXTINF:-1 group-title="Teguh-Radio",City Radio   95.9FM
+http://streaming.cityradio.id:8000/cityradio.ogg
+
+#EXTINF:-1 group-title="Teguh-Radio",Cosmo-Bandung   101.9FM
+http://scg.streamingmurah.com:8074/;
+
+#EXTINF:-1 group-title="Teguh-Radio",Cosmopolitan   90.4FM
+http://cloudstreaming.mramedia.com:8002/live
+
+#EXTINF:-1 group-title="Teguh-Radio",Dangdut Indonesia   97.1 FM
+http://202.147.199.99:8000/;
+
+#EXTINF:-1 group-title="Teguh-Radio",DJ-FM   94.8FM
+http://u.klikhost.com:8000/djfm?hash=1510076766260.mp3
+
+#EXTINF:-1 group-title="Teguh-Radio",El Shadai   91.3FM
+http://shaddai.onlivestreaming.net:9130/live
+
+#EXTINF:-1 group-title="Teguh-Radio",Elpas Bandung  101.2 FM
+http://live.elpasfm.com:8888/elpasfm.m3u
+
+#EXTINF:-1 group-title="Teguh-Radio",FBI   91.8FM
+http://server.fbifm.com:9180/fbibaliradio
+
+#EXTINF:-1 group-title="Teguh-Radio",GajahMada   102.4FM
+http://gajahmada.i.streaming.id:8000/live
+
+#EXTINF:-1 group-title="Teguh-Radio",GCD Joga   98.6FM
+http://jkt.jogjastreamers.com:8000/gcdstereo
+
+#EXTINF:-1 group-title="Teguh-Radio",GenFM-Jakarta   98.7FM
+http://streaming.sim-indonesia.com:8000/genfm
+
+#EXTINF:-1 group-title="Teguh-Radio",Geronimo   106.1
+http://live2.indostreamserver.com:8018/;
+
+#EXTINF:-1,group-title="Teguh-Radio", GlobalRadioBandung   89.7FM
+http://202.154.42.226:8000/globalradiobandung.mp3
+
+#EXTINF:-1,group-title="Teguh-Radio", GlobalRadioJakarta   88.4FM
+http://202.147.199.98/;
+
+#EXTINF:-1,group-title="Teguh-Radio",GoldenHeart  Manado 92.6 FM
+http://ghfm.ddns.net:8000/goldenheart?1461075451166.mp3
+
+#EXTINF:-1,group-title="Teguh-Radio",Guntur  Jakarta  104.6 FM
+http://gunturfm.onlivestreaming.net:9595/stream
+
+#EXTINF:-1,group-title="Teguh-Radio",Hang   106FM
+http://185.47.62.52:8000/;
+
+#EXTINF:-1,group-title="Teguh-Radio",Hard Rock Bali   87.8FM
+http://cloudstreaming.mramedia.com:8012/live
+
+#EXTINF:-1,group-title="Teguh-Radio",Hard Rock Bandung   87.8FM
+http://cloudstreaming.mramedia.com:8010/live
+
+#EXTINF:-1,group-title="Teguh-Radio",Hard Rock Jakarta   87.6FM
+http://cloudstreaming.mramedia.com:8001/live
+
+#EXTINF:-1,group-title="Teguh-Radio",Hard Rock Surabaya   89.7FM
+http://cloudstreaming.mramedia.com:8011/live
+
+#EXTINF:-1,group-title="Teguh-Radio",Idola Surabaya  92.6  FM
+http://111.68.31.150:8000/idolafm.aac
+
+#EXTINF:-1,group-title="Teguh-Radio",IRadio Bandung
+http://cloudstreaming.mramedia.com:8005/live
+
+#EXTINF:-1,group-title="Teguh-Radio",IRadio Banjarmasin
+http://cloudstreaming.mramedia.com:8007/live
+
+#EXTINF:-1,group-title="Teguh-Radio",IRadio Jakarta   89.6FM
+http://cloudstreaming.mramedia.com:8006/live
+
+#EXTINF:-1,group-title="Teguh-Radio",IRadio Medan
+http://cloudstreaming.mramedia.com:8009/live
+
+#EXTINF:-1,group-title="Teguh-Radio",Irama Jakarta  88.5 FM
+http://stream.suararadio.com:8000/iramafm_mono
+
+#EXTINF:-1,group-title="Teguh-Radio",Jiz   89.5FM
+http://jkt.jogjastreamers.com:8000/jisstereo
+
+#EXTINF:-1,group-title="Teguh-Radio",Jodhipati   106.1FM
+http://radio.useetv.com/jodhipati-mp3
+
+#EXTINF:-1,group-title="Teguh-Radio",Jossh Tulungagung   103.5FM
+http://streaming.mayangkara.net:8000/josshfm
+
+#EXTINF:-1,group-title="Teguh-Radio",K-Lite   107.1FM
+http://stream.suararadio.com:8000/bandung_klitefm_mp3
+
+#EXTINF:-1,group-title="Teguh-Radio",Kosmonita Malang   95.4FM
+http://202.58.200.197:1055/live
+
+#EXTINF:-1,group-title="Teguh-Radio",Kota Surabaya   88.1FM
+http://u.klikhost.com:8000/kotafm
+
+#EXTINF:-1,group-title="Teguh-Radio",Lazuar Karawang  94.1  FM
+http://ics.streamingmurah.com:8010/lazuarfm
+
+#EXTINF:-1,group-title="Teguh-Radio",M Radio Surabaya   98.8FM
+http://s9.viastreaming.net:9055/;
+
+#EXTINF:-1,group-title="Teguh-Radio",Maestro Bandung 92.5FM
+http://maestro.skyline.net.id:10925/radio.maestro
+
+#EXTINF:-1,group-title="Teguh-Radio",MAndala Banyuwangi   96.4FM
+http://stream.suararadio.com:8000/964_MANDALA_FM_Mono
+
+#EXTINF:-1,group-title="Teguh-Radio",MBS   92.7FM
+http://jkt.jogjastreamers.com:8000/mbs2345stereo
+
+#EXTINF:-1,group-title="Teguh-Radio",Menara   102.8FM
+http://server.menara-fm.com:10280/menarafmbali
+
+#EXTINF:-1,group-title="Teguh-Radio",Mendhut FM
+http://streaming.mendhutfm.com:8790/stream?
+
+#EXTINF:-1,group-title="Teguh-Radio",Mesra FM ParePare
+http://radiomesra.com:8180/radiomesra?type=.flv
+
+#EXTINF:-1,group-title="Teguh-Radio",Metro Female   88.5FM
+http://radio.dnetprovider.id:8000/MetroFM
+
+#EXTINF:-1,group-title="Teguh-Radio",MFM Surabaya  101.3 FM
+http://202.164.218.22:8222/;?cb=877788.mp3
+
+#EXTINF:-1,group-title="Teguh-Radio",Most Radio   105.8FM
+http://streaming.sportku.com:8000/most
+
+#EXTINF:-1,group-title="Teguh-Radio",Motion Radio Jakarta    97.5FM
+http://103.226.246.245/kompas-motionjakarta
+
+#EXTINF:-1,group-title="Teguh-Radio",MQFM Bandung   102.7FM
+http://radio.useetv.com/mqfm-aac
+
+#EXTINF:-1,group-title="Teguh-Radio",MTA Surakarta   107.9FM
+http://radio.mtafm.com:1079/;
+
+#EXTINF:-1,group-title="Teguh-Radio",Mustang Jakarta   88 FM
+http://streaming.sportku.com:8000/mustang
+
+#EXTINF:-1,group-title="Teguh-Radio",PADUKA FM   100.6FM
+http://paduka.id.myradio.web.id:8888/padukafm
+
+#EXTINF:-1,group-title="Teguh-Radio",Palupi BAngka   103.5FM
+http://stream.suararadio.com:8000/bangka_palupi
+
+#EXTINF:-1,group-title="Teguh-Radio",Paranti  105.6  FM
+http://paranti.myradio.web.id:8778/paranti
+
+#EXTINF:-1,group-title="Teguh-Radio",Phoenix Bali   91.0FM
+http://50.97.122.58:8250/;stream.mp3
+
+#EXTINF:-1,group-title="Teguh-Radio",Prambors Bandung
+http://masima.rastream.com/masima-pramborsbandung?
+
+#EXTINF:-1,group-title="Teguh-Radio",Prambors Jakarta
+http://masima.rastream.com/masima-pramborsjakarta?
+
+#EXTINF:-1,group-title="Teguh-Radio",Prambors Jogja
+http://masima.rastream.com/masima-pramborsyogya?
+
+#EXTINF:-1,group-title="Teguh-Radio",Prambors Surabaya
+http://masima.rastream.com/masima-pramborssurabaya?
+
+#EXTINF:-1,group-title="Teguh-Radio",Prima    95.8FM
+http://live.primafm958.com:8004/;
+
+#EXTINF:-1,group-title="Teguh-Radio",Radio Sonara Jakarta   92.0FM
+http://103.226.246.245/kompas-sonorajakarta
+
+#EXTINF:-1,group-title="Teguh-Radio",Raka FM   98.8FM
+http://stream.suararadio.com:8000/bandung_rakafm_stereo
+
+#EXTINF:-1,group-title="Teguh-Radio",Rase FM   102.3
+http://radio.jabarmaya.net.id:8000/rasefm
+
+#EXTINF:-1,group-title="Teguh-Radio",Rasika Sragentina   88FM
+http://stream.suararadio.com:8000/rasikafm_stereo
+
+#EXTINF:-1,group-title="Teguh-Radio",Rasil   720AM
+http://203.24.76.112:8000/stream
+
+#EXTINF:-1,group-title="Teguh-Radio",REM SSK   107.9FM
+http://202.133.2.250:8000/live
+
+#EXTINF:-1,group-title="Teguh-Radio",Retjo Buntung yogyakarta   99.4FM
+http://45.64.97.82:9940/;
+
+#EXTINF:-1,group-title="Teguh-Radio",RPK(Radio Pelita Kasih)  96.30FM
+http://119.235.255.206:8030/;
+
+#EXTINF:-1,group-title="Teguh-Radio",RRI Bandung
+http://pvstreaming.rri.co.id:9015/web-rribandungpro1.mp3
+
+#EXTINF:-1,group-title="Teguh-Radio",RRI Pro 1 Jakarta
+http://pvstreaming.rri.co.id:9025/rrijakartapro1.mp3
+
+#EXTINF:-1,group-title="Teguh-Radio",RRI Pro 2 Jakarta
+http://pvstreaming.rri.co.id:9025/rrijakartapro2.mp3
+
+#EXTINF:-1,group-title="Teguh-Radio",RRI Pro 3 Jakarta
+http://pvstreaming.rri.co.id:9014/kbrn.mp3
+
+#EXTINF:-1,group-title="Teguh-Radio",RRI Pro 4 Jakarta
+http://pvstreaming.rri.co.id:9025/rrijakartapro4.mp3
+
+#EXTINF:-1,group-title="Teguh-Radio",Satradio   online
+http://satradio.onlivestreaming.net:8585/autodj
+
+#EXTINF:-1,group-title="Teguh-Radio",Silaturahim   720AM
+http://ch1.radiosilaturahim.com:8000/stream
+
+#EXTINF:-1,group-title="Teguh-Radio",Sindo Trijaya   104.6FM
+http://202.147.199.101:8000/;
+
+#EXTINF:-1,group-title="Teguh-Radio",SmartFM   95.9FM
+http://101.50.0.77:8000/smartfm.aac
+
+#EXTINF:-1,group-title="Teguh-Radio",Smooth   99.5FM
+http://16113.live.streamtheworld.com/SMOOTH995.mp3
+
+#EXTINF:-1,group-title="Teguh-Radio",Solo Radio   92.9FM
+http://usa.jogjastreamers.com:8000/soloradio151515
+
+#EXTINF:-1,group-title="Teguh-Radio",Solopos   103.0FM
+http://jkt.jogjastreamers.com:8000/soloposstereo?s=648400107665721
+
+#EXTINF:-1,group-title="Teguh-Radio",Sonora Surabaya   98.0FM
+http://stream.suararadio.com:8000/surabaya_sonorasurabaya_mono
+
+#EXTINF:-1,group-title="Teguh-Radio",Star Radio Tangerang   107.3 FM
+http://live.indostreamserver.com:8070/;
+
+#EXTINF:-1,group-title="Teguh-Radio",Strato Surabaya   101.9FM
+http://streaming.stratofm.com:8300/;
+
+#EXTINF:-1,group-title="Teguh-Radio",SuaraGiri   98.4FM
+http://streaming.girifm.com:8010/;
+
+#EXTINF:-1,group-title="Teguh-Radio",Sukapura Tasikmalaya   98.9FM
+http://stream.suararadio.com:8000/tasik_sukapurafm_mp3
+
+#EXTINF:-1,group-title="Teguh-Radio",Swaragama Jogja   101.7FM
+http://jkt.jogjastreamers.com:8000/swaragama456789stereo
+
+#EXTINF:-1,group-title="Teguh-Radio",Top Bumiayu   95.1FM
+http://stream.suararadio.com:8000/topfm951_mono
+
+#EXTINF:-1,group-title="Teguh-Radio",TraX FM Jakarta   101.4FM
+http://cloudstreaming.mramedia.com:8003/live
+
+#EXTINF:-1,group-title="Teguh-Radio",TraX FM Semarang   90.2FM
+http://cloudstreaming.mramedia.com:8013/live
+
+#EXTINF:-1,group-title="Teguh-Radio",Trijaya Palembang  87.6 FM
+http://stream.suararadio.com:8000/trijayafm_mono
+
+#EXTINF:-1,group-title="Teguh-Radio",Urban Radio Bandung   106.3FM
+http://radio.melsa.net.id:8050/urban
+
+#EXTINF:-1,V Radio Jakarta   106.6FM
+http://202.147.199.100:8000/;
+
